@@ -1,0 +1,48 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+
+import data from "../../data/repos.json";
+import RepoCard from "../../components/RepoCard.astro";
+import { CardGrid } from "@astrojs/starlight/components";
+
+export async function getStaticPaths() {
+	let allRepoLists = data.flatMap((repoObj) => {
+		return repoObj.lists;
+	});
+
+	const uniqueListsList = new Set(allRepoLists);
+
+	let staticPathParamsList = [...uniqueListsList].map((list) => {
+		return {
+			params: {
+				list: list,
+			},
+			props: {
+				dataList: data,
+				filteredData: data.filter((repoObj: any) => repoObj.lists.includes(list))
+			},
+
+		};
+	});
+
+
+
+	return staticPathParamsList;
+}
+
+const { list } = Astro.params;
+const { dataList, filteredData } = Astro.props;
+
+
+
+---
+
+<StarlightPage frontmatter={{ title: `${list}` }} >
+	<p>All repos tagged with list: {list}:</p>
+	
+	<CardGrid>
+		{filteredData.map((dataObj: any) => <RepoCard {...dataObj} />)}
+
+	</CardGrid>
+</StarlightPage>
+

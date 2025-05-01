@@ -24,7 +24,9 @@
             "wine",
             "winehq"
         ],
-        "lists": [],
+        "lists": [
+            "Open Source Projects"
+        ],
         "license": {
             "key": "gpl-3.0",
             "name": "GNU General Public License v3.0",
@@ -66,7 +68,11 @@
         "name": "dangerously-set-html-content",
         "full_name": "christo-pr/dangerously-set-html-content",
         "id": 454630890,
-        "topics": [],
+        "topics": [
+            "html",
+            "react",
+            "reactjs"
+        ],
         "lists": [],
         "license": {}
     },
