@@ -1,0 +1,25 @@
+{
+    "owner": "OWASP",
+    "owner_type": "Organization",
+    "homepage": "https://owasp.org/www-project-api-security/",
+    "url": "https://github.com/OWASP/API-Security",
+    "description": "OWASP API Security Project",
+    "name": "API-Security",
+    "full_name": "OWASP/API-Security",
+    "id": 165115515,
+    "topics": [
+        "api",
+        "documentation-portal",
+        "owasp-top",
+        "security",
+        "web-api"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

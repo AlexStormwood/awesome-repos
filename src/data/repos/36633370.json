@@ -1,0 +1,28 @@
+{
+    "owner": "awesome-selfhosted",
+    "owner_type": "Organization",
+    "homepage": "https://awesome-selfhosted.net/",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "name": "awesome-selfhosted",
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "id": 36633370,
+    "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy",
+        "self-hosted",
+        "selfhosted"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

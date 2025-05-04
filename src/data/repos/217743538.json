@@ -1,0 +1,19 @@
+{
+    "owner": "phips28",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/phips28/gh-action-bump-version",
+    "description": "GitHub Action for automated npm version bump.",
+    "name": "gh-action-bump-version",
+    "full_name": "phips28/gh-action-bump-version",
+    "id": 217743538,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

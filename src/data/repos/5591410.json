@@ -1,0 +1,28 @@
+{
+    "owner": "vgmstream",
+    "owner_type": "Organization",
+    "homepage": "https://vgmstream.org",
+    "url": "https://github.com/vgmstream/vgmstream",
+    "description": "vgmstream - A library for playback of various streamed audio formats used in video games.",
+    "name": "vgmstream",
+    "full_name": "vgmstream/vgmstream",
+    "id": 5591410,
+    "topics": [
+        "audio",
+        "c",
+        "codec",
+        "decoder",
+        "foobar2000",
+        "vgm",
+        "vgmstream",
+        "winamp"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

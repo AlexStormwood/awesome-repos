@@ -1,0 +1,32 @@
+{
+    "owner": "ceifa",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/ceifa/steamworks.js",
+    "description": "A steamworks implementation for nw.js/electron games",
+    "name": "steamworks.js",
+    "full_name": "ceifa/steamworks.js",
+    "id": 447368581,
+    "topics": [
+        "electron",
+        "javascript",
+        "nodejs",
+        "nwjs",
+        "steamworks",
+        "gamedev"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful NodeJS Stuff",
+        "Useful ElectronJS Stuff",
+        "Useful Gamedev Stuff",
+        "Open-Source Gamedev Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

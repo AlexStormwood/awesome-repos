@@ -1,0 +1,27 @@
+{
+    "owner": "requarks",
+    "owner_type": "Organization",
+    "homepage": "https://js.wiki",
+    "url": "https://github.com/requarks/wiki",
+    "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "name": "wiki",
+    "full_name": "requarks/wiki",
+    "id": 65848095,
+    "topics": [
+        "cross-platform",
+        "documentation",
+        "git",
+        "markdown",
+        "nodejs",
+        "open-source",
+        "wiki"
+    ],
+    "lists": [],
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    }
+}

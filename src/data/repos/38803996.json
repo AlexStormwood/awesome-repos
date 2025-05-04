@@ -1,0 +1,19 @@
+{
+    "owner": "pret",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/pret/pokegold",
+    "description": "Disassembly of Pokémon Gold/Silver",
+    "name": "pokegold",
+    "full_name": "pret/pokegold",
+    "id": 38803996,
+    "topics": [
+        "disassembly",
+        "gameboy-color",
+        "gbz80",
+        "pokemon",
+        "reverse-engineering"
+    ],
+    "lists": [],
+    "license": {}
+}

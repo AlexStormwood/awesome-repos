@@ -1,0 +1,19 @@
+{
+    "owner": "BTMorton",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/BTMorton/dnd-5e-srd",
+    "description": "The Dungeons and Dragons 5th Edition SRD converted to markdown, json and yaml",
+    "name": "dnd-5e-srd",
+    "full_name": "BTMorton/dnd-5e-srd",
+    "id": 83855195,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

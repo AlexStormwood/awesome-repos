@@ -1,0 +1,36 @@
+{
+    "owner": "szhsin",
+    "owner_type": "User",
+    "homepage": "https://szhsin.github.io/react-menu/",
+    "url": "https://github.com/szhsin/react-menu",
+    "description": "React component for building accessible menu, dropdown, submenu, context menu, and more.",
+    "name": "react-menu",
+    "full_name": "szhsin/react-menu",
+    "id": 290411914,
+    "topics": [
+        "accessibility",
+        "checkbox",
+        "contextmenu",
+        "dropdown",
+        "menu",
+        "menubutton",
+        "radio-buttons",
+        "react",
+        "reactjs",
+        "sub-menu",
+        "submenu",
+        "tooltip",
+        "wai-aria"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful ReactJS Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "owner": "fluviofx",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/fluviofx/fluviofx",
+    "description": "Fluid dynamics for Unity's VFX graph",
+    "name": "fluviofx",
+    "full_name": "fluviofx/fluviofx",
+    "id": 164424460,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

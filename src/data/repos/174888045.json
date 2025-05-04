@@ -1,0 +1,25 @@
+{
+    "owner": "andkret",
+    "owner_type": "User",
+    "homepage": "https://learndataengineering.com/",
+    "url": "https://github.com/andkret/Cookbook",
+    "description": "The Data Engineering Cookbook",
+    "name": "Cookbook",
+    "full_name": "andkret/Cookbook",
+    "id": 174888045,
+    "topics": [
+        "best-practices",
+        "big-data",
+        "cookbook",
+        "data-engineer",
+        "data-engineering"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "owner": "Envoyofhell",
+    "owner_type": "User",
+    "homepage": "https://envoyofhell.github.io/HoloCards/",
+    "url": "https://github.com/Envoyofhell/HoloCards",
+    "description": "",
+    "name": "HoloCards",
+    "full_name": "Envoyofhell/HoloCards",
+    "id": 773632499,
+    "topics": [
+        "javascript",
+        "webdev",
+        "html",
+        "css",
+        "pokemon",
+        "fanart"
+    ],
+    "lists": [
+        "Useful Front-End Stuff",
+        "Pokémon Fan Work"
+    ],
+    "license": {}
+}

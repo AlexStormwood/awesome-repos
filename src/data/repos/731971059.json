@@ -1,0 +1,31 @@
+{
+    "owner": "pmndrs",
+    "owner_type": "Organization",
+    "homepage": "https://react-three-jolt.pmnd.rs/",
+    "url": "https://github.com/pmndrs/react-three-jolt",
+    "description": "⚡ Jolt physics in React",
+    "name": "react-three-jolt",
+    "full_name": "pmndrs/react-three-jolt",
+    "id": 731971059,
+    "topics": [
+        "3d",
+        "gamedev",
+        "webdev",
+        "physics",
+        "react",
+        "reactjs",
+        "threejs"
+    ],
+    "lists": [
+        "Useful ReactJS Stuff",
+        "Open-Source Gamedev Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

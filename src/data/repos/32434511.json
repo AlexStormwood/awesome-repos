@@ -1,0 +1,22 @@
+{
+    "owner": "Cellule",
+    "owner_type": "User",
+    "homepage": "https://www.npcgenerator.com/",
+    "url": "https://github.com/Cellule/dndGenerator",
+    "description": "Npc Generator for Dungeon and Dragon",
+    "name": "dndGenerator",
+    "full_name": "Cellule/dndGenerator",
+    "id": 32434511,
+    "topics": [
+        "dnd",
+        "npc-generator"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

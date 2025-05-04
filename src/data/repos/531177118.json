@@ -1,0 +1,28 @@
+{
+    "owner": "ts-spec",
+    "owner_type": "Organization",
+    "homepage": "https://ts-spec.github.io/tspec/",
+    "url": "https://github.com/ts-spec/tspec",
+    "description": "Type-driven API Documentation library. Auto-generating REST API document based on TypeScript types.",
+    "name": "tspec",
+    "full_name": "ts-spec/tspec",
+    "id": 531177118,
+    "topics": [
+        "express",
+        "openapi",
+        "openapi-generator",
+        "swagger",
+        "typescript"
+    ],
+    "lists": [
+        "Useful NodeJS Stuff",
+        "Useful TypeScript Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "owner": "wojtekmaj",
+    "owner_type": "User",
+    "homepage": "https://projects.wojtekmaj.pl/react-pdf",
+    "url": "https://github.com/wojtekmaj/react-pdf",
+    "description": "Display PDFs in your React app as easily as if they were images.",
+    "name": "react-pdf",
+    "full_name": "wojtekmaj/react-pdf",
+    "id": 64670477,
+    "topics": [
+        "pdf",
+        "pdf-viewer",
+        "react"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

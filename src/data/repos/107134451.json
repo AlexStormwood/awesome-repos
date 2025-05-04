@@ -1,0 +1,26 @@
+{
+    "owner": "dbrizov",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/dbrizov/NaughtyAttributes",
+    "description": "Attribute Extensions for Unity",
+    "name": "NaughtyAttributes",
+    "full_name": "dbrizov/NaughtyAttributes",
+    "id": 107134451,
+    "topics": [
+        "attributes",
+        "extension",
+        "naughty",
+        "unity3d",
+        "unity3d-editor",
+        "unity3d-plugin"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

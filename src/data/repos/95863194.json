@@ -1,0 +1,34 @@
+{
+    "owner": "kettanaito",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+    "name": "naming-cheatsheet",
+    "full_name": "kettanaito/naming-cheatsheet",
+    "id": 95863194,
+    "topics": [
+        "action",
+        "cheatsheet",
+        "guideline",
+        "guidelines",
+        "high-context",
+        "low-context",
+        "naming",
+        "naming-cheatsheet",
+        "naming-conventions",
+        "naming-pattern",
+        "naming-schemes",
+        "pattern",
+        "prefix",
+        "variables"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

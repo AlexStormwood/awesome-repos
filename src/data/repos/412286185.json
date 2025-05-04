@@ -1,0 +1,20 @@
+{
+    "owner": "imunproductive",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/imunproductive/NewWorldExplorer",
+    "description": "New World .pak unpacker (and explorer in the future)",
+    "name": "NewWorldExplorer",
+    "full_name": "imunproductive/NewWorldExplorer",
+    "id": 412286185,
+    "topics": [
+        "gamedev",
+        "gaming",
+        "games"
+    ],
+    "lists": [
+        "Useful Gamedev Stuff",
+        "Fun Projects"
+    ],
+    "license": {}
+}

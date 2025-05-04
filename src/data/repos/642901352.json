@@ -1,0 +1,31 @@
+{
+    "owner": "MDeLuise",
+    "owner_type": "User",
+    "homepage": "https://plant-it.org",
+    "url": "https://github.com/MDeLuise/plant-it",
+    "description": "🪴 Self-hosted, open source gardening companion app",
+    "name": "plant-it",
+    "full_name": "MDeLuise/plant-it",
+    "id": 642901352,
+    "topics": [
+        "dart",
+        "flutter",
+        "gardening",
+        "java",
+        "plants",
+        "self-hosted",
+        "self-hosting",
+        "spring-boot"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Self-Hostable"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "owner": "negomi",
+    "owner_type": "User",
+    "homepage": "http://negomi.github.io/react-burger-menu/",
+    "url": "https://github.com/negomi/react-burger-menu",
+    "description": ":hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations",
+    "name": "react-burger-menu",
+    "full_name": "negomi/react-burger-menu",
+    "id": 39150065,
+    "topics": [
+        "animations",
+        "component",
+        "hamburger-menu",
+        "react",
+        "sidebar",
+        "transitions"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

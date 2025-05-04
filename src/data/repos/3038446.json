@@ -1,0 +1,21 @@
+{
+    "owner": "smogon",
+    "owner_type": "Organization",
+    "homepage": "https://pokemonshowdown.com",
+    "url": "https://github.com/smogon/pokemon-showdown",
+    "description": "Pokémon battle simulator.",
+    "name": "pokemon-showdown",
+    "full_name": "smogon/pokemon-showdown",
+    "id": 3038446,
+    "topics": [
+        "hacktoberfest"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/expressjs-oct22-lesson-repo",
+    "description": "Repo of the actual delivered content for STND-1 Feb 2022, in October 2022.",
+    "name": "expressjs-oct22-lesson-repo",
+    "full_name": "AlexStormwood/expressjs-oct22-lesson-repo",
+    "id": 552600920,
+    "topics": [
+        "express",
+        "expressjs",
+        "javascript",
+        "nodejs",
+        "webdev",
+        "testing",
+        "jest",
+        "supertest"
+    ],
+    "lists": [
+        "CA - 2022-FEB-DIT"
+    ],
+    "license": {}
+}

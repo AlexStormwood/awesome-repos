@@ -1,0 +1,19 @@
+{
+    "owner": "pret",
+    "owner_type": "Organization",
+    "homepage": "https://pret.github.io/pokecrystal/",
+    "url": "https://github.com/pret/pokecrystal",
+    "description": "Disassembly of Pokémon Crystal",
+    "name": "pokecrystal",
+    "full_name": "pret/pokecrystal",
+    "id": 4058868,
+    "topics": [
+        "disassembly",
+        "gameboy-color",
+        "gbz80",
+        "pokemon",
+        "reverse-engineering"
+    ],
+    "lists": [],
+    "license": {}
+}

@@ -1,0 +1,23 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/SimpleDiceRoller",
+    "description": "Basic HTML, CSS & JS site to show JS fundamentals.",
+    "name": "SimpleDiceRoller",
+    "full_name": "AlexStormwood/SimpleDiceRoller",
+    "id": 398931817,
+    "topics": [
+        "html",
+        "css",
+        "javascript",
+        "webdev",
+        "ttrpg",
+        "dice"
+    ],
+    "lists": [
+        "Concepts and Explorations",
+        "My Own Work"
+    ],
+    "license": {}
+}

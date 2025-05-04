@@ -1,0 +1,19 @@
+{
+    "owner": "EDCD",
+    "owner_type": "Organization",
+    "homepage": "https://coriolis.io",
+    "url": "https://github.com/EDCD/coriolis",
+    "description": "Coriolis Shipyard for Elite Dangerous",
+    "name": "coriolis",
+    "full_name": "EDCD/coriolis",
+    "id": 70263001,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

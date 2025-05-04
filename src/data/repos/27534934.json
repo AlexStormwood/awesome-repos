@@ -1,0 +1,26 @@
+{
+    "owner": "PokeAPI",
+    "owner_type": "Organization",
+    "homepage": "https://pokeapi.co",
+    "url": "https://github.com/PokeAPI/pokeapi",
+    "description": "The Pokémon API",
+    "name": "pokeapi",
+    "full_name": "PokeAPI/pokeapi",
+    "id": 27534934,
+    "topics": [
+        "api",
+        "beginner-friendly",
+        "graphql",
+        "hacktoberfest",
+        "pokeapi",
+        "pokemon"
+    ],
+    "lists": [],
+    "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+    }
+}

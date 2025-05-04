@@ -1,0 +1,19 @@
+{
+    "owner": "stackgl",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/stackgl/shader-school",
+    "description": ":mortar_board: A workshopper for GLSL shaders and graphics programming",
+    "name": "shader-school",
+    "full_name": "stackgl/shader-school",
+    "id": 17576966,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

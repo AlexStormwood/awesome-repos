@@ -1,11 +1,14 @@
 ---
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 
-import data from "../../data/repos.json";
 import RepoCard from "../../components/RepoCard.astro";
 import { CardGrid } from "@astrojs/starlight/components";
+import { loadAllRepoData } from "../../utils/reposDataManipulator";
 
 export async function getStaticPaths() {
+
+	let data = await loadAllRepoData();
+
 	let allRepoLists = data.flatMap((repoObj) => {
 		return repoObj.lists;
 	});

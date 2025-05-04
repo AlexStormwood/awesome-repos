@@ -1,0 +1,31 @@
+{
+    "owner": "BrokenVector",
+    "owner_type": "Organization",
+    "homepage": "https://www.assetstore.unity3d.com/#!/content/85262",
+    "url": "https://github.com/BrokenVector/LowPolyShaders",
+    "description": "Unity shaders optimized for Low Poly models.",
+    "name": "LowPolyShaders",
+    "full_name": "BrokenVector/LowPolyShaders",
+    "id": 84717218,
+    "topics": [
+        "3d",
+        "low",
+        "lowpoly",
+        "materials",
+        "poly",
+        "shader",
+        "shaders",
+        "unity",
+        "unity-3d",
+        "unity-asset",
+        "unity-shader"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

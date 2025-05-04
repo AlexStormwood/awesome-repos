@@ -1,0 +1,19 @@
+{
+    "owner": "PokemonTCG",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/PokemonTCG/pokemon-tcg-sdk-csharp",
+    "description": "Pokemon TCG SDK - C#",
+    "name": "pokemon-tcg-sdk-csharp",
+    "full_name": "PokemonTCG/pokemon-tcg-sdk-csharp",
+    "id": 93001206,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

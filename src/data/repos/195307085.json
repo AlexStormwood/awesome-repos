@@ -1,0 +1,19 @@
+{
+    "owner": "theopensourceway",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/theopensourceway/guidebook",
+    "description": "Guidebook of open source community management best practices; is somewhat opinionated.",
+    "name": "guidebook",
+    "full_name": "theopensourceway/guidebook",
+    "id": 195307085,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

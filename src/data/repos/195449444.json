@@ -1,0 +1,22 @@
+{
+    "owner": "errata-ai",
+    "owner_type": "Organization",
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server",
+    "url": "https://github.com/errata-ai/vale-vscode",
+    "description": "A Visual Studio Code extension for the Vale CLI.",
+    "name": "vale-vscode",
+    "full_name": "errata-ai/vale-vscode",
+    "id": 195449444,
+    "topics": [
+        "vale",
+        "vscode-extension"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

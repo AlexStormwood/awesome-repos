@@ -1,0 +1,19 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Unity-Technologies/GooglePlayLicenseVerification",
+    "description": "Unity Android plugin example on how to interface the Google Play License Verification (LVL) servers",
+    "name": "GooglePlayLicenseVerification",
+    "full_name": "Unity-Technologies/GooglePlayLicenseVerification",
+    "id": 5238190,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

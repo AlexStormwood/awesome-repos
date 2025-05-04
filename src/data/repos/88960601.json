@@ -1,0 +1,23 @@
+{
+    "owner": "jeffreylanters",
+    "owner_type": "User",
+    "homepage": "https://react-unity-webgl.dev",
+    "url": "https://github.com/jeffreylanters/react-unity-webgl",
+    "description": "React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.",
+    "name": "react-unity-webgl",
+    "full_name": "jeffreylanters/react-unity-webgl",
+    "id": 88960601,
+    "topics": [
+        "react",
+        "unity",
+        "wegl"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

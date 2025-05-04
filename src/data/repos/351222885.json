@@ -1,0 +1,18 @@
+{
+    "owner": "microsoft",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/microsoft/Microsoft-Game-Stack-Live",
+    "description": "Microsoft Game Stack Live post-show materials",
+    "name": "Microsoft-Game-Stack-Live",
+    "full_name": "microsoft/Microsoft-Game-Stack-Live",
+    "id": 351222885,
+    "topics": [
+        "gamedev"
+    ],
+    "lists": [
+        "Industry Groups, Events, and Networking",
+        "Useful Gamedev Stuff"
+    ],
+    "license": {}
+}

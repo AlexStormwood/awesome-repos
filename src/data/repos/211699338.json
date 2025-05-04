@@ -1,0 +1,19 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "https://docs.unity3d.com/Packages/com.unity.mobile.notifications@2.1/manual/index.html",
+    "url": "https://github.com/Unity-Technologies/com.unity.mobile.notifications",
+    "description": "Mobile Notifications Package",
+    "name": "com.unity.mobile.notifications",
+    "full_name": "Unity-Technologies/com.unity.mobile.notifications",
+    "id": 211699338,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

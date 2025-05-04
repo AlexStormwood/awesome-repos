@@ -1,0 +1,19 @@
+{
+    "owner": "w3c",
+    "owner_type": "Organization",
+    "homepage": "https://w3c.github.io/gamepad/",
+    "url": "https://github.com/w3c/gamepad",
+    "description": "Gamepad",
+    "name": "gamepad",
+    "full_name": "w3c/gamepad",
+    "id": 33618130,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

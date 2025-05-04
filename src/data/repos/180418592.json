@@ -1,0 +1,29 @@
+{
+    "owner": "molefrog",
+    "owner_type": "User",
+    "homepage": "https://npm.im/wouter",
+    "url": "https://github.com/molefrog/wouter",
+    "description": "🥢 A minimalist-friendly ~2.1KB routing for React and Preact",
+    "name": "wouter",
+    "full_name": "molefrog/wouter",
+    "id": 180418592,
+    "topics": [
+        "hacktoberfest",
+        "microlibrary",
+        "preact",
+        "react",
+        "react-hooks",
+        "react-router",
+        "router",
+        "typescript",
+        "zero-dependency"
+    ],
+    "lists": [],
+    "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+    }
+}

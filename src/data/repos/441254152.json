@@ -1,0 +1,25 @@
+{
+    "owner": "FrankenVoron",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/FrankenVoron/Tridex",
+    "description": "Trident + IDEX",
+    "name": "Tridex",
+    "full_name": "FrankenVoron/Tridex",
+    "id": 441254152,
+    "topics": [
+        "3d-printing",
+        "hardware"
+    ],
+    "lists": [
+        "Useful 3D Printing Stuff",
+        "Useful Hardware Stuff"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

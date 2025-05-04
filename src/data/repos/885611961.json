@@ -1,0 +1,20 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/feb24-t4w2-react-app",
+    "description": "Frontend for testing that uses the Express auth app from this same week.",
+    "name": "feb24-t4w2-react-app",
+    "full_name": "AlexStormwood/feb24-t4w2-react-app",
+    "id": 885611961,
+    "topics": [
+        "react",
+        "reactjs",
+        "webdev",
+        "javascript"
+    ],
+    "lists": [
+        "CA - 2024-FEB-DIT"
+    ],
+    "license": {}
+}

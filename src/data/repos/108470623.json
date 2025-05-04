@@ -1,0 +1,25 @@
+{
+    "owner": "stephane-monnot",
+    "owner_type": "User",
+    "homepage": "https://stephane-monnot.github.io/react-vertical-timeline/",
+    "url": "https://github.com/stephane-monnot/react-vertical-timeline",
+    "description": "Vertical timeline for React.js",
+    "name": "react-vertical-timeline",
+    "full_name": "stephane-monnot/react-vertical-timeline",
+    "id": 108470623,
+    "topics": [
+        "react",
+        "react-components",
+        "reactjs",
+        "timeline",
+        "vertical-timeline"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

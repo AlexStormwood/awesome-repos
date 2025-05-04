@@ -1,0 +1,21 @@
+{
+    "owner": "bijington",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/bijington/orbit",
+    "description": "The Orbit engine is a game engine built on top of .NET MAUI Graphics. The objective is to firstly enjoy the journey of building a game engine and secondly providing a framework that allows us to utilise the best parts of a cross-platform framework while building a 'typical' game.",
+    "name": "orbit",
+    "full_name": "bijington/orbit",
+    "id": 378910495,
+    "topics": [
+        "dotnet-maui",
+        "game-development",
+        "game-engine",
+        "hacktoberfest",
+        "gamedev"
+    ],
+    "lists": [
+        "Useful Gamedev Stuff"
+    ],
+    "license": {}
+}

@@ -1,0 +1,27 @@
+{
+    "owner": "excalidraw",
+    "owner_type": "Organization",
+    "homepage": "https://excalidraw.com",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "name": "excalidraw",
+    "full_name": "excalidraw/excalidraw",
+    "id": 231283452,
+    "topics": [
+        "canvas",
+        "collaboration",
+        "diagrams",
+        "drawing",
+        "hacktoberfest",
+        "productivity",
+        "whiteboard"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

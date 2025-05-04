@@ -1,0 +1,25 @@
+{
+    "owner": "fullcalendar",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/fullcalendar/temporal-polyfill",
+    "description": "A lightweight polyfill for Temporal, successor to the JavaScript Date object",
+    "name": "temporal-polyfill",
+    "full_name": "fullcalendar/temporal-polyfill",
+    "id": 364136755,
+    "topics": [
+        "javascript",
+        "temporal"
+    ],
+    "lists": [
+        "Useful JavaScript Stuff",
+        "Useful NodeJS Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

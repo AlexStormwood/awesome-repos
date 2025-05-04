@@ -1,0 +1,25 @@
+{
+    "owner": "fastify",
+    "owner_type": "Organization",
+    "homepage": "https://github.com/fastify/fastify",
+    "url": "https://github.com/fastify/benchmarks",
+    "description": "Fast and low overhead web framework fastify benchmarks",
+    "name": "benchmarks",
+    "full_name": "fastify/benchmarks",
+    "id": 102914328,
+    "topics": [
+        "fastest",
+        "fastify",
+        "framework",
+        "nodejs",
+        "web"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

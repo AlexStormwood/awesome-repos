@@ -1,0 +1,26 @@
+{
+    "owner": "wesnoth",
+    "owner_type": "Organization",
+    "homepage": "https://www.wesnoth.org/",
+    "url": "https://github.com/wesnoth/wesnoth",
+    "description": "An open source, turn-based strategy game with a high fantasy theme.",
+    "name": "wesnoth",
+    "full_name": "wesnoth/wesnoth",
+    "id": 9432220,
+    "topics": [
+        "fantasy",
+        "free",
+        "game",
+        "opensource",
+        "strategy-game",
+        "turn-based-strategy"
+    ],
+    "lists": [],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

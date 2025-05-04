@@ -1,0 +1,20 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/feb24-t3w7-introtohooks",
+    "description": "Demo of state management, lifecycle methods, and fetching in React via hooks.",
+    "name": "feb24-t3w7-introtohooks",
+    "full_name": "AlexStormwood/feb24-t3w7-introtohooks",
+    "id": 862244379,
+    "topics": [
+        "react",
+        "reactjs",
+        "webdev",
+        "javascript"
+    ],
+    "lists": [
+        "CA - 2024-FEB-DIT"
+    ],
+    "license": {}
+}

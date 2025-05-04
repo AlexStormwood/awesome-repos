@@ -1,0 +1,26 @@
+{
+    "owner": "BigfootDS",
+    "owner_type": "Organization",
+    "homepage": "https://www.npmjs.com/package/@bigfootds/bigfoot-fetcher",
+    "url": "https://github.com/BigfootDS/Bigfoot-Fetcher",
+    "description": "JavaScript fetch override for cohesive, consistent usage across various BigfootDS projects.",
+    "name": "Bigfoot-Fetcher",
+    "full_name": "BigfootDS/Bigfoot-Fetcher",
+    "id": 896793918,
+    "topics": [
+        "webdev",
+        "javascript",
+        "nodejs"
+    ],
+    "lists": [
+        "My Own Work",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "owner": "iiab",
+    "owner_type": "Organization",
+    "homepage": "https://internet-in-a-box.org",
+    "url": "https://github.com/iiab/iiab",
+    "description": "Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !",
+    "name": "iiab",
+    "full_name": "iiab/iiab",
+    "id": 92666218,
+    "topics": [
+        "civic-tech",
+        "community-networks",
+        "curriculum-design",
+        "distraction-free",
+        "diy",
+        "education",
+        "home-school",
+        "hotspot",
+        "human-rights",
+        "international-development",
+        "knowledge",
+        "learning",
+        "library",
+        "medical",
+        "mesh-networks",
+        "offline",
+        "prisoners-rights",
+        "privacy",
+        "raspberry-pi",
+        "scraping"
+    ],
+    "lists": [],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

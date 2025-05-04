@@ -1,0 +1,20 @@
+{
+    "owner": "christo-pr",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/christo-pr/dangerously-set-html-content",
+    "description": "Render raw html at your own risk! v2",
+    "name": "dangerously-set-html-content",
+    "full_name": "christo-pr/dangerously-set-html-content",
+    "id": 454630890,
+    "topics": [
+        "html",
+        "react",
+        "reactjs",
+        "javascript"
+    ],
+    "lists": [
+        "Useful ReactJS Stuff"
+    ],
+    "license": {}
+}

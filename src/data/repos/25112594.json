@@ -1,0 +1,26 @@
+{
+    "owner": "Syomus",
+    "owner_type": "Organization",
+    "homepage": "https://assetstore.unity.com/packages/tools/utilities/procedural-toolkit-16508",
+    "url": "https://github.com/Syomus/ProceduralToolkit",
+    "description": "Procedural generation library for Unity",
+    "name": "ProceduralToolkit",
+    "full_name": "Syomus/ProceduralToolkit",
+    "id": 25112594,
+    "topics": [
+        "c-sharp",
+        "pcg",
+        "procedural",
+        "procedural-generation",
+        "unity",
+        "unity3d"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

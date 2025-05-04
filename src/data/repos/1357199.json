@@ -1,0 +1,21 @@
+{
+    "owner": "npm",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/npm/node-semver",
+    "description": "The semver parser for node (the one npm uses)",
+    "name": "node-semver",
+    "full_name": "npm/node-semver",
+    "id": 1357199,
+    "topics": [
+        "npm-cli"
+    ],
+    "lists": [],
+    "license": {
+        "key": "isc",
+        "name": "ISC License",
+        "spdx_id": "ISC",
+        "url": "https://api.github.com/licenses/isc",
+        "node_id": "MDc6TGljZW5zZTEw"
+    }
+}

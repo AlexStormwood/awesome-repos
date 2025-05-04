@@ -1,0 +1,28 @@
+{
+    "owner": "2Retr0",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/2Retr0/GodotOceanWaves",
+    "description": "FFT-based ocean-wave rendering, implemented in Godot",
+    "name": "GodotOceanWaves",
+    "full_name": "2Retr0/GodotOceanWaves",
+    "id": 797006583,
+    "topics": [
+        "godot",
+        "godot-engine",
+        "gamedev",
+        "simulation"
+    ],
+    "lists": [
+        "Useful Gamedev Stuff",
+        "Useful Godot Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

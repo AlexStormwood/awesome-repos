@@ -1,0 +1,30 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Unity-Technologies/InputSystem",
+    "description": "An efficient and versatile input system for Unity.",
+    "name": "InputSystem",
+    "full_name": "Unity-Technologies/InputSystem",
+    "id": 105615454,
+    "topics": [
+        "devices",
+        "events",
+        "gamepad",
+        "input",
+        "keyboard",
+        "mouse",
+        "touch",
+        "unity",
+        "vr",
+        "xr"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

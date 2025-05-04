@@ -1,0 +1,38 @@
+{
+    "owner": "mikepenz",
+    "owner_type": "User",
+    "homepage": "https://blog.mikepenz.dev",
+    "url": "https://github.com/mikepenz/release-changelog-builder-action",
+    "description": "A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.",
+    "name": "release-changelog-builder-action",
+    "full_name": "mikepenz/release-changelog-builder-action",
+    "id": 304553152,
+    "topics": [
+        "action",
+        "actions",
+        "automation",
+        "cd",
+        "changelog",
+        "ci",
+        "github-actions",
+        "hacktoberfest",
+        "issues",
+        "labels",
+        "pull-requests",
+        "release",
+        "release-automation",
+        "release-notes",
+        "workflow"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful GitHub Actions Stuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

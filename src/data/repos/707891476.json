@@ -1,0 +1,24 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/feb23-t3w10-expresstesting",
+    "description": "",
+    "name": "feb23-t3w10-expresstesting",
+    "full_name": "AlexStormwood/feb23-t3w10-expresstesting",
+    "id": 707891476,
+    "topics": [
+        "express",
+        "expressjs",
+        "javascript",
+        "nodejs",
+        "webdev",
+        "jest",
+        "supertest",
+        "testing"
+    ],
+    "lists": [
+        "CA - 2023-FEB-DIT"
+    ],
+    "license": {}
+}

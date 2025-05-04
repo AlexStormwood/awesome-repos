@@ -1,0 +1,35 @@
+{
+    "owner": "onlxltd",
+    "owner_type": "Organization",
+    "homepage": "https://npmjs.com/package/bonjour-service",
+    "url": "https://github.com/onlxltd/bonjour-service",
+    "description": "A Bonjour/Zeroconf protocol implementation in TypeScript",
+    "name": "bonjour-service",
+    "full_name": "onlxltd/bonjour-service",
+    "id": 348818831,
+    "topics": [
+        "bonjour",
+        "bonjour-browser",
+        "bonjour-discovery",
+        "client",
+        "discovery",
+        "mdns",
+        "network",
+        "node",
+        "nodejs",
+        "server",
+        "zeroconfig"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful NodeJS Stuff",
+        "Useful ElectronJS Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

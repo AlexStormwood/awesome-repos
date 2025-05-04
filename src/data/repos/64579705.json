@@ -1,0 +1,18 @@
+{
+    "owner": "sger",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/sger/RustBooks",
+    "description": "List of Rust books",
+    "name": "RustBooks",
+    "full_name": "sger/RustBooks",
+    "id": 64579705,
+    "topics": [
+        "programming-language",
+        "programming-rust",
+        "rust-book",
+        "rust-language"
+    ],
+    "lists": [],
+    "license": {}
+}

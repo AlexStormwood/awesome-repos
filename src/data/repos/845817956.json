@@ -1,0 +1,30 @@
+{
+    "owner": "electronicarts",
+    "owner_type": "Organization",
+    "homepage": "https://store.steampowered.com/app/2229890/Command__Conquer_Renegade/",
+    "url": "https://github.com/electronicarts/CnC_Renegade",
+    "description": "Command and Conquer: Renegade",
+    "name": "CnC_Renegade",
+    "full_name": "electronicarts/CnC_Renegade",
+    "id": 845817956,
+    "topics": [
+        "command-and-conquer",
+        "open-source",
+        "real-time-strategy",
+        "rts",
+        "gamedev",
+        "gaming"
+    ],
+    "lists": [
+        "Open-Source Gamedev Stuff",
+        "Open-Source Games",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

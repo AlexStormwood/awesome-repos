@@ -1,0 +1,19 @@
+{
+    "owner": "MagicTheGathering",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/MagicTheGathering/mtg-sdk-javascript",
+    "description": "Magic: The Gathering SDK - Javascript",
+    "name": "mtg-sdk-javascript",
+    "full_name": "MagicTheGathering/mtg-sdk-javascript",
+    "id": 58511923,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

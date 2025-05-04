@@ -1,0 +1,25 @@
+{
+    "owner": "bluesky-social",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/bluesky-social/feed-generator",
+    "description": "ATProto Feed Generator Starter Kit",
+    "name": "feed-generator",
+    "full_name": "bluesky-social/feed-generator",
+    "id": 638516110,
+    "topics": [
+        "bluesky",
+        "atproto",
+        "social-media"
+    ],
+    "lists": [
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

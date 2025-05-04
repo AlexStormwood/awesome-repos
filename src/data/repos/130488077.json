@@ -1,0 +1,23 @@
+{
+    "owner": "QianMo",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/QianMo/GPU-Gems-Book-Source-Code",
+    "description": ":cd: CD Content ( Source Code )  Collection  of Book <GPU Gems > 1~ 3 | 《GPU精粹》 1~ 3 随书CD（源代码）珍藏",
+    "name": "GPU-Gems-Book-Source-Code",
+    "full_name": "QianMo/GPU-Gems-Book-Source-Code",
+    "id": 130488077,
+    "topics": [
+        "book-source-code",
+        "glsl",
+        "gpu",
+        "gpu-gems",
+        "gpu-programming",
+        "graphics",
+        "hlsl",
+        "rendering",
+        "shader"
+    ],
+    "lists": [],
+    "license": {}
+}

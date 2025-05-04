@@ -1,0 +1,23 @@
+{
+    "owner": "rajamsrgit",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/rajamsrgit/JavaScriptSecurityCookbook",
+    "description": "",
+    "name": "JavaScriptSecurityCookbook",
+    "full_name": "rajamsrgit/JavaScriptSecurityCookbook",
+    "id": 730987789,
+    "topics": [
+        "javascript",
+        "security",
+        "cybersecurity",
+        "education"
+    ],
+    "lists": [
+        "Useful JavaScript Stuff",
+        "Useful Programming Concepts Stuff",
+        "Useful NodeJS Stuff",
+        "Educational Stuff"
+    ],
+    "license": {}
+}

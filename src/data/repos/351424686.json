@@ -1,0 +1,28 @@
+{
+    "owner": "KevinGimbel",
+    "owner_type": "User",
+    "homepage": "https://kevingimbel.github.io/eleventy-plugin-mermaid/",
+    "url": "https://github.com/KevinGimbel/eleventy-plugin-mermaid",
+    "description": "Integrate Mermaid with eleventy (11ty)",
+    "name": "eleventy-plugin-mermaid",
+    "full_name": "KevinGimbel/eleventy-plugin-mermaid",
+    "id": 351424686,
+    "topics": [
+        "11ty-plugin",
+        "diagram",
+        "mermaidjs",
+        "ssg",
+        "11ty"
+    ],
+    "lists": [
+        "Useful Programming Concepts Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "isc",
+        "name": "ISC License",
+        "spdx_id": "ISC",
+        "url": "https://api.github.com/licenses/isc",
+        "node_id": "MDc6TGljZW5zZTEw"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "owner": "notofonts",
+    "owner_type": "Organization",
+    "homepage": "https://notofonts.github.io/",
+    "url": "https://github.com/notofonts/notofonts.github.io",
+    "description": "Distribution site for Noto fonts",
+    "name": "notofonts.github.io",
+    "full_name": "notofonts/notofonts.github.io",
+    "id": 478950825,
+    "topics": [
+        "font",
+        "fonts",
+        "noto"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Front-End Stuff",
+        "Useful Art Stuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "owner": "louislam",
+    "owner_type": "User",
+    "homepage": "https://uptime.kuma.pet",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "name": "uptime-kuma",
+    "full_name": "louislam/uptime-kuma",
+    "id": 382496361,
+    "topics": [
+        "docker",
+        "monitor",
+        "monitoring",
+        "responsive",
+        "self-hosted",
+        "selfhosted",
+        "single-page-app",
+        "socket-io",
+        "uptime",
+        "uptime-monitoring",
+        "webapp",
+        "websocket"
+    ],
+    "lists": [
+        "Self-Hostable",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

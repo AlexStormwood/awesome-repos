@@ -1,0 +1,20 @@
+{
+    "owner": "SpaceTradersAPI",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/SpaceTradersAPI/api-docs",
+    "description": "The API documentation for the SpaceTraders API",
+    "name": "api-docs",
+    "full_name": "SpaceTradersAPI/api-docs",
+    "id": 468176923,
+    "topics": [
+        "game",
+        "api",
+        "education"
+    ],
+    "lists": [
+        "Educational Stuff",
+        "Fun Projects"
+    ],
+    "license": {}
+}

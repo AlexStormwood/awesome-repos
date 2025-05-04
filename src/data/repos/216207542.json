@@ -1,0 +1,23 @@
+{
+    "owner": "marvinpinto",
+    "owner_type": "User",
+    "homepage": "https://github.com/marketplace/actions/automatic-releases",
+    "url": "https://github.com/marvinpinto/action-automatic-releases",
+    "description": "READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases",
+    "name": "action-automatic-releases",
+    "full_name": "marvinpinto/action-automatic-releases",
+    "id": 216207542,
+    "topics": [
+        "ci",
+        "github-actions",
+        "release-automation"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

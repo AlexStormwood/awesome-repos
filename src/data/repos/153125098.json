@@ -1,0 +1,31 @@
+{
+    "owner": "node-casbin",
+    "owner_type": "Organization",
+    "homepage": "https://github.com/casbin/node-casbin",
+    "url": "https://github.com/node-casbin/typeorm-adapter",
+    "description": "TypeORM adapter for Casbin",
+    "name": "typeorm-adapter",
+    "full_name": "node-casbin/typeorm-adapter",
+    "id": 153125098,
+    "topics": [
+        "access-control",
+        "adapter",
+        "authorization",
+        "casbin",
+        "javascript",
+        "js",
+        "node-casbin",
+        "orm",
+        "ts",
+        "typeorm",
+        "typescript"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

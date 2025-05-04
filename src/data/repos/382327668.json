@@ -1,0 +1,41 @@
+{
+    "owner": "uiwjs",
+    "owner_type": "Organization",
+    "homepage": "https://uiwjs.github.io/react-color",
+    "url": "https://github.com/uiwjs/react-color",
+    "description": "🎨 Is a tiny color picker widget component for React apps.",
+    "name": "react-color",
+    "full_name": "uiwjs/react-color",
+    "id": 382327668,
+    "topics": [
+        "chrome",
+        "color",
+        "color-picker",
+        "colorful",
+        "hex",
+        "material",
+        "material-color",
+        "react",
+        "reactjs",
+        "react-color",
+        "react-colorpicker",
+        "react-components",
+        "rgba",
+        "rgba-color",
+        "sketch",
+        "slider",
+        "typescript",
+        "widget"
+    ],
+    "lists": [
+        "Useful ReactJS Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

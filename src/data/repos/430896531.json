@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/expressjs-masterclass-lesson",
+    "description": "Lesson of code as we go for the Flex1 session on the 23rd Nov 2021.",
+    "name": "expressjs-masterclass-lesson",
+    "full_name": "AlexStormwood/expressjs-masterclass-lesson",
+    "id": 430896531,
+    "topics": [
+        "javascript",
+        "nodejs",
+        "webdev",
+        "express",
+        "expressjs"
+    ],
+    "lists": [
+        "CA - 2021-MAR-DIT"
+    ],
+    "license": {}
+}

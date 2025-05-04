@@ -1,0 +1,25 @@
+{
+    "owner": "jsdoc",
+    "owner_type": "Organization",
+    "homepage": "https://jsdoc.app/",
+    "url": "https://github.com/jsdoc/jsdoc",
+    "description": "An API documentation generator for JavaScript.",
+    "name": "jsdoc",
+    "full_name": "jsdoc/jsdoc",
+    "id": 560495,
+    "topics": [
+        "api",
+        "docs",
+        "documentation",
+        "javascript",
+        "jsdoc"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "owner": "pCYSl5EDgo",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/pCYSl5EDgo/create-unitypackage",
+    "description": "A GitHub Action that create unitypackage file without Unity Editor Installation.",
+    "name": "create-unitypackage",
+    "full_name": "pCYSl5EDgo/create-unitypackage",
+    "id": 234763284,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

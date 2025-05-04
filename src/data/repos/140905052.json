@@ -1,0 +1,25 @@
+{
+    "owner": "patrickhulce",
+    "owner_type": "User",
+    "homepage": "https://www.thirdpartyweb.today/",
+    "url": "https://github.com/patrickhulce/third-party-web",
+    "description": "Data on third party entities and their impact on the web.",
+    "name": "third-party-web",
+    "full_name": "patrickhulce/third-party-web",
+    "id": 140905052,
+    "topics": [
+        "analysis",
+        "httparchive",
+        "javascript",
+        "third-party-javascript",
+        "web"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

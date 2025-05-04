@@ -1,0 +1,21 @@
+{
+    "owner": "errata-ai",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/errata-ai/packages",
+    "description": ":package: A collection of pre-packaged, Vale-compatible style guides and configurations.",
+    "name": "packages",
+    "full_name": "errata-ai/packages",
+    "id": 189101825,
+    "topics": [
+        "vale"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

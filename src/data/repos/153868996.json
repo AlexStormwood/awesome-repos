@@ -1,0 +1,19 @@
+{
+    "owner": "MizoTake",
+    "owner_type": "User",
+    "homepage": "https://pwaforunitysample.firebaseapp.com",
+    "url": "https://github.com/MizoTake/PWAForUnitySample",
+    "description": "WebGL of Unity on PWA Sample Project",
+    "name": "PWAForUnitySample",
+    "full_name": "MizoTake/PWAForUnitySample",
+    "id": 153868996,
+    "topics": [
+        "firebase",
+        "js",
+        "pwa",
+        "unity",
+        "vue"
+    ],
+    "lists": [],
+    "license": {}
+}

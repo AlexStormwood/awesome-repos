@@ -1,0 +1,28 @@
+{
+    "owner": "ianstormtaylor",
+    "owner_type": "User",
+    "homepage": "http://slatejs.org",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "description": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "name": "slate",
+    "full_name": "ianstormtaylor/slate",
+    "id": 61412022,
+    "topics": [
+        "browser",
+        "editor",
+        "framework",
+        "javascript",
+        "react",
+        "rich-text",
+        "slate",
+        "text-editor"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

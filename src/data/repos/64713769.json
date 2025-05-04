@@ -1,0 +1,27 @@
+{
+    "owner": "NickeManarin",
+    "owner_type": "User",
+    "homepage": "http://www.screentogif.com",
+    "url": "https://github.com/NickeManarin/ScreenToGif",
+    "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+    "name": "ScreenToGif",
+    "full_name": "NickeManarin/ScreenToGif",
+    "id": 64713769,
+    "topics": [
+        "editor",
+        "gif",
+        "recorder",
+        "sketchboard",
+        "video",
+        "webcam",
+        "wpf"
+    ],
+    "lists": [],
+    "license": {
+        "key": "ms-pl",
+        "name": "Microsoft Public License",
+        "spdx_id": "MS-PL",
+        "url": "https://api.github.com/licenses/ms-pl",
+        "node_id": "MDc6TGljZW5zZTE5"
+    }
+}

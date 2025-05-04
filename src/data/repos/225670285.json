@@ -1,0 +1,13 @@
+{
+    "owner": "UnityTechnologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/UnityTechnologies/DOTS_Pong",
+    "description": "This project is a simple creation of the classic Pong game with a DOTS implementation. The focus was on simplicity and using the latest entities syntax (as of 2019.3 beta and Entities 0.3.0-preview.4).",
+    "name": "DOTS_Pong",
+    "full_name": "UnityTechnologies/DOTS_Pong",
+    "id": 225670285,
+    "topics": [],
+    "lists": [],
+    "license": {}
+}

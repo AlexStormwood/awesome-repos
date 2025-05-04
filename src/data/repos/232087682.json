@@ -1,0 +1,19 @@
+{
+    "owner": "Drassil",
+    "owner_type": "Organization",
+    "homepage": "https://www.drassil.org/git-wiki/",
+    "url": "https://github.com/Drassil/git-wiki",
+    "description": "Demo and documentation for git-wiki-theme",
+    "name": "git-wiki",
+    "full_name": "Drassil/git-wiki",
+    "id": 232087682,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "owner": "mspnp",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/mspnp/performance-optimization",
+    "description": "Guidance on how to observe, measure, and correct common issues in a cloud-based system.",
+    "name": "performance-optimization",
+    "full_name": "mspnp/performance-optimization",
+    "id": 29268927,
+    "topics": [
+        "anti-patterns",
+        "c-sharp",
+        "cloud-application",
+        "performance-optimization",
+        "scale"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

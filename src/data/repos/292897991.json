@@ -1,0 +1,38 @@
+{
+    "owner": "game-ci",
+    "owner_type": "Organization",
+    "homepage": "https://hub.docker.com/u/unityci",
+    "url": "https://github.com/game-ci/docker",
+    "description": "Series of CI-specialised docker images for Unity.",
+    "name": "docker",
+    "full_name": "game-ci/docker",
+    "id": 292897991,
+    "topics": [
+        "ci",
+        "docker",
+        "game-ci",
+        "hacktoberfest",
+        "unity",
+        "unity-actions",
+        "unity-ci",
+        "unity-editor",
+        "unity-hub",
+        "unity-setup",
+        "github",
+        "github-actions"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful GitHub Actions Stuff",
+        "Open-Source Gamedev Stuff",
+        "Useful Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "owner": "HackerPoet",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/HackerPoet/MarbleMarcher",
+    "description": "A Fractal Physics Game",
+    "name": "MarbleMarcher",
+    "full_name": "HackerPoet/MarbleMarcher",
+    "id": 163577533,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

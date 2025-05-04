@@ -1,0 +1,25 @@
+{
+    "owner": "igda",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/igda/creditor-unity",
+    "description": "",
+    "name": "creditor-unity",
+    "full_name": "igda/creditor-unity",
+    "id": 607464038,
+    "topics": [
+        "igda",
+        "unity",
+        "gamedev"
+    ],
+    "lists": [
+        "Useful Unity Stuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

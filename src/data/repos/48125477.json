@@ -1,0 +1,31 @@
+{
+    "owner": "watson-developer-cloud",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/watson-developer-cloud/unity-sdk",
+    "description": ":video_game: Unity SDK to use the IBM Watson services.",
+    "name": "unity-sdk",
+    "full_name": "watson-developer-cloud/unity-sdk",
+    "id": 48125477,
+    "topics": [
+        "artificial-intelligence",
+        "bluemix",
+        "cognitive",
+        "hacktoberfest",
+        "ibm-cloud",
+        "unity-sdk",
+        "unity3d",
+        "vr",
+        "watson",
+        "watson-sdk",
+        "watson-services"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

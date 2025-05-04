@@ -1,0 +1,17 @@
+{
+    "owner": "keijiro",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/keijiro/AsyncCaptureTest",
+    "description": "Non-blocking screen capture example with asynchronous GPU readback",
+    "name": "AsyncCaptureTest",
+    "full_name": "keijiro/AsyncCaptureTest",
+    "id": 117222197,
+    "topics": [
+        "graphics",
+        "unity",
+        "unity3d"
+    ],
+    "lists": [],
+    "license": {}
+}

@@ -1,0 +1,29 @@
+{
+    "owner": "VirtualDrivers",
+    "owner_type": "Organization",
+    "homepage": "https://vdd.mikethetech.com/",
+    "url": "https://github.com/VirtualDrivers/Virtual-Display-Driver",
+    "description": "Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.",
+    "name": "Virtual-Display-Driver",
+    "full_name": "VirtualDrivers/Virtual-Display-Driver",
+    "id": 704889202,
+    "topics": [
+        "display",
+        "display-driver",
+        "displays",
+        "driver",
+        "drivers",
+        "virtual"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Programming Concepts Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

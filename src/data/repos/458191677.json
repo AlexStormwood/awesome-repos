@@ -1,0 +1,26 @@
+{
+    "owner": "open-feature",
+    "owner_type": "Organization",
+    "homepage": "https://openfeature.dev",
+    "url": "https://github.com/open-feature/spec",
+    "description": "OpenFeature specification",
+    "name": "spec",
+    "full_name": "open-feature/spec",
+    "id": 458191677,
+    "topics": [
+        "feature-flags",
+        "openfeature",
+        "specification"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Programming Concepts Stuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Unity-Technologies/DOTSSample",
+    "description": "A third person, multiplayer sample project. Built with Unity and using the new Data Oriented Tech Stack (DOTS).",
+    "name": "DOTSSample",
+    "full_name": "Unity-Technologies/DOTSSample",
+    "id": 219003491,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

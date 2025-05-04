@@ -1,0 +1,28 @@
+{
+    "owner": "tertle",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/tertle/com.bovinelabs.saving.free",
+    "description": "Savanna Saving - Free",
+    "name": "com.bovinelabs.saving.free",
+    "full_name": "tertle/com.bovinelabs.saving.free",
+    "id": 589081746,
+    "topics": [
+        "gamedev",
+        "unity",
+        "ecs",
+        "unity-dots"
+    ],
+    "lists": [
+        "Useful Unity Stuff",
+        "Useful Gamedev Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "lgpl-3.0",
+        "name": "GNU Lesser General Public License v3.0",
+        "spdx_id": "LGPL-3.0",
+        "url": "https://api.github.com/licenses/lgpl-3.0",
+        "node_id": "MDc6TGljZW5zZTEy"
+    }
+}

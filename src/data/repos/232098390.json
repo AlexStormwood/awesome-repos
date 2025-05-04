@@ -1,0 +1,13 @@
+{
+    "owner": "Drassil",
+    "owner_type": "Organization",
+    "homepage": "http://www.drassil.org/git-wiki-skeleton/",
+    "url": "https://github.com/Drassil/git-wiki-skeleton",
+    "description": "This is a skeleton repository that can be used as a template to bootstrap your wiki using \"remote_theme\" config",
+    "name": "git-wiki-skeleton",
+    "full_name": "Drassil/git-wiki-skeleton",
+    "id": 232098390,
+    "topics": [],
+    "lists": [],
+    "license": {}
+}

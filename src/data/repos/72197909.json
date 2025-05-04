@@ -1,0 +1,28 @@
+{
+    "owner": "mbrevda",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/mbrevda/react-image",
+    "description": "React.js <img> tag rendering with multiple fallback & loader support",
+    "name": "react-image",
+    "full_name": "mbrevda/react-image",
+    "id": 72197909,
+    "topics": [
+        "fallback",
+        "image",
+        "loader",
+        "preload",
+        "preloader",
+        "react",
+        "react-img-multi",
+        "reactjs"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

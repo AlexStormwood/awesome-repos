@@ -1,0 +1,31 @@
+{
+    "owner": "shadcn-ui",
+    "owner_type": "Organization",
+    "homepage": "https://ui.shadcn.com",
+    "url": "https://github.com/shadcn-ui/ui",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "name": "ui",
+    "full_name": "shadcn-ui/ui",
+    "id": 585146387,
+    "topics": [
+        "components",
+        "nextjs",
+        "radix-ui",
+        "react",
+        "shadcn",
+        "tailwindcss",
+        "ui",
+        "css"
+    ],
+    "lists": [
+        "Useful Front-End Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

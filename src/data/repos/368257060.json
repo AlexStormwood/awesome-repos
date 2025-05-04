@@ -1,0 +1,29 @@
+{
+    "owner": "seald",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/seald/nedb",
+    "description": "The JavaScript Database, for Node.js, nw.js, electron and the browser",
+    "name": "nedb",
+    "full_name": "seald/nedb",
+    "id": 368257060,
+    "topics": [
+        "database",
+        "hacktoberfest",
+        "javascript",
+        "nedb",
+        "databases",
+        "nodejs"
+    ],
+    "lists": [
+        "Useful JavaScript Stuff",
+        "Useful NodeJS Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "owner": "florinpop17",
+    "owner_type": "User",
+    "homepage": "https://iCodeThis.com/?ref=app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "name": "app-ideas",
+    "full_name": "florinpop17/app-ideas",
+    "id": 172562475,
+    "topics": [
+        "applications",
+        "coding",
+        "codingchallenges",
+        "css",
+        "hacktoberfest",
+        "html",
+        "ideas",
+        "javascript",
+        "practice"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

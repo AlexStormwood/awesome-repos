@@ -1,0 +1,31 @@
+{
+    "owner": "game-ci",
+    "owner_type": "Organization",
+    "homepage": "https://game.ci/",
+    "url": "https://github.com/game-ci/unity-actions",
+    "description": "Github actions for testing and building Unity projects",
+    "name": "unity-actions",
+    "full_name": "game-ci/unity-actions",
+    "id": 219217279,
+    "topics": [
+        "actions",
+        "activate",
+        "build",
+        "ci",
+        "deploy",
+        "github",
+        "hacktoberfest",
+        "test",
+        "unity",
+        "unity-actions",
+        "unity-ci"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

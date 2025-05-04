@@ -1,0 +1,31 @@
+{
+    "owner": "google",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/google/WebFundamentals",
+    "description": "Former git repo for WebFundamentals on developers.google.com",
+    "name": "WebFundamentals",
+    "full_name": "google/WebFundamentals",
+    "id": 19249835,
+    "topics": [
+        "best-practices",
+        "chrome",
+        "chrome-browser",
+        "css",
+        "html",
+        "html5",
+        "javascript",
+        "mobile-web",
+        "progressive-web-app",
+        "web",
+        "web-app"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

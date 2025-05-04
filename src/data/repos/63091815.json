@@ -1,0 +1,28 @@
+{
+    "owner": "missive",
+    "owner_type": "Organization",
+    "homepage": "https://missiveapp.com/open/emoji-mart",
+    "url": "https://github.com/missive/emoji-mart",
+    "description": "🏪 One component to pick them all",
+    "name": "emoji-mart",
+    "full_name": "missive/emoji-mart",
+    "id": 63091815,
+    "topics": [
+        "component",
+        "emoji",
+        "emoji-picker",
+        "emoticons",
+        "missive",
+        "picker",
+        "react",
+        "twemoji"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

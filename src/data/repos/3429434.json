@@ -1,0 +1,19 @@
+{
+    "owner": "Code52",
+    "owner_type": "Organization",
+    "homepage": "http://carnackeys.com/",
+    "url": "https://github.com/Code52/carnac",
+    "description": "A utility to give some insight into how you use your keyboard",
+    "name": "carnac",
+    "full_name": "Code52/carnac",
+    "id": 3429434,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "ms-pl",
+        "name": "Microsoft Public License",
+        "spdx_id": "MS-PL",
+        "url": "https://api.github.com/licenses/ms-pl",
+        "node_id": "MDc6TGljZW5zZTE5"
+    }
+}

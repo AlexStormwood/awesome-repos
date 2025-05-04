@@ -1,0 +1,26 @@
+{
+    "owner": "sindresorhus",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/sindresorhus/on-change",
+    "description": "Watch an object or array for changes",
+    "name": "on-change",
+    "full_name": "sindresorhus/on-change",
+    "id": 113883812,
+    "topics": [
+        "change-detection",
+        "es2015-proxy",
+        "nodejs",
+        "npm-package",
+        "object",
+        "watch"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

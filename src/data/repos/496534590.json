@@ -1,0 +1,27 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "https://alexstormwood.github.io/DiscordTimestampGenerator/",
+    "url": "https://github.com/AlexStormwood/DiscordTimestampGenerator",
+    "description": "Lil demo project to show how JavaScript can be used to generate Discord timestamp snippets.",
+    "name": "DiscordTimestampGenerator",
+    "full_name": "AlexStormwood/DiscordTimestampGenerator",
+    "id": 496534590,
+    "topics": [
+        "html",
+        "javascript",
+        "discord",
+        "timestamp"
+    ],
+    "lists": [
+        "My Own Work",
+        "Concepts and Explorations"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

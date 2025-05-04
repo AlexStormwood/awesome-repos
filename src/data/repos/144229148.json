@@ -1,0 +1,32 @@
+{
+    "owner": "UnityTech",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/UnityTech/UIWidgets",
+    "description": "UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.",
+    "name": "UIWidgets",
+    "full_name": "UnityTech/UIWidgets",
+    "id": 144229148,
+    "topics": [
+        "android",
+        "app",
+        "cross-platform",
+        "flutter",
+        "ios",
+        "mobile",
+        "ui",
+        "uiwidgets",
+        "unity",
+        "unity-editor",
+        "unity-engine",
+        "webgl"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

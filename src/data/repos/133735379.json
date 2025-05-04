@@ -1,0 +1,30 @@
+{
+    "owner": "AcademySoftwareFoundation",
+    "owner_type": "Organization",
+    "homepage": "https://www.opencue.io",
+    "url": "https://github.com/AcademySoftwareFoundation/OpenCue",
+    "description": "A render management system you can deploy for visual effects and animation productions.",
+    "name": "OpenCue",
+    "full_name": "AcademySoftwareFoundation/OpenCue",
+    "id": 133735379,
+    "topics": [
+        "animation",
+        "fx",
+        "opencue",
+        "openqueue",
+        "render",
+        "render-farm",
+        "rendering",
+        "scheduler",
+        "vfx",
+        "visual-effects"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

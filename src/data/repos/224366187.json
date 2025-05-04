@@ -1,0 +1,19 @@
+{
+    "owner": "johnsietsma",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/johnsietsma/InfPoints",
+    "description": "A long, slow road to an out of core renderer for Unity DOTS",
+    "name": "InfPoints",
+    "full_name": "johnsietsma/InfPoints",
+    "id": 224366187,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

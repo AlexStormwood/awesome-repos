@@ -1,0 +1,26 @@
+{
+    "owner": "dmcke5",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/dmcke5/NucDeck",
+    "description": "The Open Source DIY Handheld Gaming PC!",
+    "name": "NucDeck",
+    "full_name": "dmcke5/NucDeck",
+    "id": 671703638,
+    "topics": [
+        "gaming",
+        "gamedev",
+        "hardware"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
+    "license": {
+        "key": "cern-ohl-s-2.0",
+        "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+        "spdx_id": "CERN-OHL-S-2.0",
+        "url": "https://api.github.com/licenses/cern-ohl-s-2.0",
+        "node_id": "L_kgCuY2Vybi1vaGwtcy0yLjA"
+    }
+}

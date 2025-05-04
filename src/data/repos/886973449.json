@@ -1,0 +1,31 @@
+{
+    "owner": "BigfootDS",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/BigfootDS/bigfootds-stream-dock-icons",
+    "description": "Icon pack for MiraBox's \"stream dock\" products. Focused on BigfootDS games, apps, and computer operations.",
+    "name": "bigfootds-stream-dock-icons",
+    "full_name": "BigfootDS/bigfootds-stream-dock-icons",
+    "id": 886973449,
+    "topics": [
+        "icon",
+        "icon-pack",
+        "icons",
+        "stream-deck",
+        "stream-dock",
+        "streamdeck",
+        "streamdock",
+        "streamdock293",
+        "streaming"
+    ],
+    "lists": [
+        "My Own Work"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

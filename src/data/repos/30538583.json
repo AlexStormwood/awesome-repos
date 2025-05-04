@@ -1,0 +1,28 @@
+{
+    "owner": "ActiveCampaign",
+    "owner_type": "Organization",
+    "homepage": "https://postmarkapp.com",
+    "url": "https://github.com/ActiveCampaign/postmark.js",
+    "description": "Official Node.js library for the Postmark API",
+    "name": "postmark.js",
+    "full_name": "ActiveCampaign/postmark.js",
+    "id": 30538583,
+    "topics": [
+        "email",
+        "inbound",
+        "mail",
+        "postmark",
+        "postmark-api",
+        "postmark-integrations",
+        "sending",
+        "templates"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

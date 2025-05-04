@@ -1,0 +1,19 @@
+{
+    "owner": "fluent-ffmpeg",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/fluent-ffmpeg/node-fluent-ffmpeg",
+    "description": "A fluent API to FFMPEG (http://www.ffmpeg.org)",
+    "name": "node-fluent-ffmpeg",
+    "full_name": "fluent-ffmpeg/node-fluent-ffmpeg",
+    "id": 1602811,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

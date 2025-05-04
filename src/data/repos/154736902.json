@@ -1,0 +1,19 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "https://unity3d.com/unity/features/worldbuilding/probuilder",
+    "url": "https://github.com/Unity-Technologies/com.unity.probuilder",
+    "description": "",
+    "name": "com.unity.probuilder",
+    "full_name": "Unity-Technologies/com.unity.probuilder",
+    "id": 154736902,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

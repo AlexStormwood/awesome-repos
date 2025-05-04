@@ -1,0 +1,33 @@
+{
+    "owner": "Vonage",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Vonage/vonage-node-sdk",
+    "description": "Vonage API client for Node.js. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more.",
+    "name": "vonage-node-sdk",
+    "full_name": "Vonage/vonage-node-sdk",
+    "id": 2810709,
+    "topics": [
+        "dedicated-support",
+        "developer-destination",
+        "javascript",
+        "messaging",
+        "nexmo",
+        "phone",
+        "server-sdk",
+        "sms",
+        "text-message",
+        "text-to-speech",
+        "two-factor-authentication",
+        "voice",
+        "vonage"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

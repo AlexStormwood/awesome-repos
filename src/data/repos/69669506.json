@@ -1,0 +1,19 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Unity-Technologies/NavMeshComponents",
+    "description": "High Level API Components for Runtime NavMesh Building",
+    "name": "NavMeshComponents",
+    "full_name": "Unity-Technologies/NavMeshComponents",
+    "id": 69669506,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

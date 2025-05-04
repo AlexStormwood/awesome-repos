@@ -1,0 +1,32 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/UnityUPMSemver",
+    "description": "Github Action to handle automated semver modification for Unity UPM packages.",
+    "name": "UnityUPMSemver",
+    "full_name": "AlexStormwood/UnityUPMSemver",
+    "id": 301298411,
+    "topics": [
+        "github",
+        "github-actions",
+        "automation",
+        "cicd",
+        "unity",
+        "gamedev"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful GitHub Actions Stuff",
+        "Useful Unity Stuff",
+        "Useful Gamedev Stuff",
+        "Open-Source Gamedev Stuff"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

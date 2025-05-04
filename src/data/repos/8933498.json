@@ -1,0 +1,19 @@
+{
+    "owner": "ampache",
+    "owner_type": "Organization",
+    "homepage": "http://ampache.org",
+    "url": "https://github.com/ampache/ampache",
+    "description": "A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.",
+    "name": "ampache",
+    "full_name": "ampache/ampache",
+    "id": 8933498,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    }
+}

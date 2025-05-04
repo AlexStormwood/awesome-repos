@@ -1,0 +1,26 @@
+{
+    "owner": "Synthoid",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/Synthoid/ExportSheetData",
+    "description": "Add-on for Google Sheets that allows data to be exported as JSON or XML.",
+    "name": "ExportSheetData",
+    "full_name": "Synthoid/ExportSheetData",
+    "id": 62840452,
+    "topics": [
+        "data",
+        "esd",
+        "google-sheets",
+        "json",
+        "tools",
+        "xml"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

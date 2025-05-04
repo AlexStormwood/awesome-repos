@@ -1,0 +1,26 @@
+{
+    "owner": "node-casbin",
+    "owner_type": "Organization",
+    "homepage": "https://casbin.org",
+    "url": "https://github.com/node-casbin/express-authz",
+    "description": "express-authz is an authorization middleware for Express.js based on Casbin",
+    "name": "express-authz",
+    "full_name": "node-casbin/express-authz",
+    "id": 144398704,
+    "topics": [
+        "authorization",
+        "casbin",
+        "express",
+        "expressjs",
+        "middleware",
+        "node-casbin"
+    ],
+    "lists": [],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

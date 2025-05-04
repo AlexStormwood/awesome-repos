@@ -1,0 +1,19 @@
+{
+    "owner": "pret",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/pret/poketcg",
+    "description": "Disassembly of Pokémon TCG",
+    "name": "poketcg",
+    "full_name": "pret/poketcg",
+    "id": 18606210,
+    "topics": [
+        "disassembly",
+        "gameboy",
+        "gbz80",
+        "pokemon",
+        "reverse-engineering"
+    ],
+    "lists": [],
+    "license": {}
+}

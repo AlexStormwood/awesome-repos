@@ -1,0 +1,19 @@
+{
+    "owner": "id-Software",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/id-Software/RTCW-MP",
+    "description": "Return to Castle Wolfenstein Multiplayer GPL Source Release",
+    "name": "RTCW-MP",
+    "full_name": "id-Software/RTCW-MP",
+    "id": 3318771,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "owner": "methusalah",
+    "owner_type": "User",
+    "homepage": "https://twitter.com/dumas181",
+    "url": "https://github.com/methusalah/SplineMesh",
+    "description": "A Unity plugin to create curved content in real-time with bézier curves",
+    "name": "SplineMesh",
+    "full_name": "methusalah/SplineMesh",
+    "id": 109404456,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

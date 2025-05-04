@@ -1,0 +1,33 @@
+{
+    "owner": "TomBursch",
+    "owner_type": "User",
+    "homepage": "https://kitchenowl.org/",
+    "url": "https://github.com/TomBursch/kitchenowl",
+    "description": "KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.",
+    "name": "kitchenowl",
+    "full_name": "TomBursch/kitchenowl",
+    "id": 335558932,
+    "topics": [
+        "android",
+        "cross-platform",
+        "expense-tracker",
+        "flutter",
+        "grocery-list",
+        "ios",
+        "kitchenowl",
+        "mobile-app",
+        "recipe-manager",
+        "self-hosted"
+    ],
+    "lists": [
+        "Self-Hostable",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    }
+}

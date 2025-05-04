@@ -1,0 +1,23 @@
+{
+    "owner": "ankitskvmdam",
+    "owner_type": "User",
+    "homepage": "https://www.npmjs.com/package/clean-jsdoc-theme",
+    "url": "https://github.com/ankitskvmdam/clean-jsdoc-theme",
+    "description": "A beautifully crafted theme / template for JSDoc 3. https://ankdev.me/clean-jsdoc-theme/v4",
+    "name": "clean-jsdoc-theme",
+    "full_name": "ankitskvmdam/clean-jsdoc-theme",
+    "id": 220757541,
+    "topics": [
+        "jsdoc",
+        "jsdoc-template",
+        "jsdoc-theme"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

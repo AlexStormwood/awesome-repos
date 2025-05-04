@@ -1,0 +1,33 @@
+{
+    "owner": "ArtiomTr",
+    "owner_type": "User",
+    "homepage": "https://www.covbot.dev",
+    "url": "https://github.com/ArtiomTr/jest-coverage-report-action",
+    "description": "Track your code coverage in every pull request.",
+    "name": "jest-coverage-report-action",
+    "full_name": "ArtiomTr/jest-coverage-report-action",
+    "id": 328358586,
+    "topics": [
+        "action",
+        "actions",
+        "annotations",
+        "coverage-reporters",
+        "github-action",
+        "github-actions",
+        "github-actions-ci",
+        "jest",
+        "threshold",
+        "testing"
+    ],
+    "lists": [
+        "Useful GitHub Actions Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

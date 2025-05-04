@@ -1,0 +1,31 @@
+{
+    "owner": "obsproject",
+    "owner_type": "Organization",
+    "homepage": "https://obsproject.com",
+    "url": "https://github.com/obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "name": "obs-studio",
+    "full_name": "obsproject/obs-studio",
+    "id": 13233158,
+    "topics": [
+        "c",
+        "c-plus-plus",
+        "directshow",
+        "facebook-live",
+        "ffmpeg",
+        "game-capture",
+        "live-streaming",
+        "screen-capture",
+        "twitch-tv",
+        "video-recording",
+        "youtube-live"
+    ],
+    "lists": [],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

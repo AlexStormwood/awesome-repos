@@ -1,0 +1,31 @@
+{
+    "owner": "race2infinity",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/race2infinity/The-Documentation-Compendium",
+    "description": "📢 Various README templates & tips on writing high-quality documentation that people want to read.",
+    "name": "The-Documentation-Compendium",
+    "full_name": "race2infinity/The-Documentation-Compendium",
+    "id": 190091795,
+    "topics": [
+        "awesome",
+        "docs",
+        "documentation",
+        "documentation-template",
+        "documentation-theme",
+        "documentation-tool",
+        "guidelines",
+        "project-documentation",
+        "readme",
+        "readme-bolierplate",
+        "readme-first",
+        "readme-md",
+        "readme-standard",
+        "readme-template",
+        "technical-writing",
+        "template-project",
+        "templates"
+    ],
+    "lists": [],
+    "license": {}
+}

@@ -1,0 +1,28 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/FNA-As-A-Unity-Dev",
+    "description": "My own experience with moving to FNA for game development, after years with Unity.",
+    "name": "FNA-As-A-Unity-Dev",
+    "full_name": "AlexStormwood/FNA-As-A-Unity-Dev",
+    "id": 694415238,
+    "topics": [
+        "fna",
+        "gamedev",
+        "game-engine"
+    ],
+    "lists": [
+        "Concepts and Explorations",
+        "Educational Stuff",
+        "My Own Work",
+        "Open-Source Gamedev Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

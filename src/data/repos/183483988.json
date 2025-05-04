@@ -1,0 +1,26 @@
+{
+    "owner": "ruffle-rs",
+    "owner_type": "Organization",
+    "homepage": "https://ruffle.rs",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "description": "A Flash Player emulator written in Rust",
+    "name": "ruffle",
+    "full_name": "ruffle-rs/ruffle",
+    "id": 183483988,
+    "topics": [
+        "emulator",
+        "flash",
+        "hacktoberfest",
+        "reimplementation",
+        "rust",
+        "swf"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

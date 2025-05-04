@@ -1,0 +1,29 @@
+{
+    "owner": "gkngkc",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/gkngkc/UnityStandaloneFileBrowser",
+    "description": "A native file browser for unity standalone platforms",
+    "name": "UnityStandaloneFileBrowser",
+    "full_name": "gkngkc/UnityStandaloneFileBrowser",
+    "id": 78368581,
+    "topics": [
+        "file-browser",
+        "file-chooser",
+        "gtk",
+        "linux",
+        "macos",
+        "unity",
+        "unity3d",
+        "webgl",
+        "windows"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "owner": "Chalarangelo",
+    "owner_type": "User",
+    "homepage": "https://30secondsofinterviews.org",
+    "url": "https://github.com/Chalarangelo/30-seconds-of-interviews",
+    "description": "A curated collection of common interview questions to help you prepare for your next interview.",
+    "name": "30-seconds-of-interviews",
+    "full_name": "Chalarangelo/30-seconds-of-interviews",
+    "id": 128564293,
+    "topics": [
+        "awesome-list",
+        "css",
+        "education",
+        "html",
+        "interview",
+        "interview-questions",
+        "javascript",
+        "learn-to-code",
+        "learning-resources",
+        "snippets",
+        "snippets-collection"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "owner": "hemanth",
+    "owner_type": "User",
+    "homepage": "https://git.io/awesome-pwa",
+    "url": "https://github.com/hemanth/awesome-pwa",
+    "description": "Awesome list of progressive web apps!",
+    "name": "awesome-pwa",
+    "full_name": "hemanth/awesome-pwa",
+    "id": 48058974,
+    "topics": [
+        "modern-web",
+        "pwa",
+        "service-worker"
+    ],
+    "lists": [],
+    "license": {}
+}

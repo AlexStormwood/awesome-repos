@@ -1,0 +1,31 @@
+{
+    "owner": "TandoorRecipes",
+    "owner_type": "Organization",
+    "homepage": "https://docs.tandoor.dev",
+    "url": "https://github.com/TandoorRecipes/recipes",
+    "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+    "name": "recipes",
+    "full_name": "TandoorRecipes/recipes",
+    "id": 221546437,
+    "topics": [
+        "cookbook",
+        "cooking",
+        "django",
+        "docker",
+        "food",
+        "markdown",
+        "meal-planner",
+        "recipe",
+        "recipes",
+        "selfhosted",
+        "shopping"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

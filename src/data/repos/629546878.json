@@ -1,0 +1,27 @@
+{
+    "owner": "Yuntokon",
+    "owner_type": "User",
+    "homepage": "https://krita-artists.org/t/plugin-blender-layer-live-3d-view-in-krita/63394",
+    "url": "https://github.com/Yuntokon/BlenderLayer",
+    "description": "Blender Layer is a plugin that allows you to stream 3D View from Blender into Krita, behaving like a normal layer: You can trace over it, change the blending mode and even apply layer styles!",
+    "name": "BlenderLayer",
+    "full_name": "Yuntokon/BlenderLayer",
+    "id": 629546878,
+    "topics": [
+        "blender-addon",
+        "krita-plugin",
+        "krita",
+        "blender"
+    ],
+    "lists": [
+        "Useful Art Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

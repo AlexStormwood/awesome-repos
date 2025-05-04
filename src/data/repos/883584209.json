@@ -1,0 +1,26 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/feb24-t4w2-express-auth",
+    "description": "ExpressJS auth with MongooseJS.",
+    "name": "feb24-t4w2-express-auth",
+    "full_name": "AlexStormwood/feb24-t4w2-express-auth",
+    "id": 883584209,
+    "topics": [
+        "express",
+        "expressjs",
+        "webdev",
+        "javascript"
+    ],
+    "lists": [
+        "CA - 2024-FEB-DIT"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

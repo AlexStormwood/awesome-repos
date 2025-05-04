@@ -1,8 +1,10 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { loadAllRepoData } from './src/utils/reposDataManipulator';
 
-import data from "./src/data/repos.json";
+// import data from "./src/data/repos.json";
+let data = await loadAllRepoData();
 
 //#region Topics list
 let allRepoTopics = data.flatMap((repoObj) => {
@@ -52,14 +54,22 @@ const sortedCountedListsList = Object.entries(countedListsList).map(([key, value
 	return {[key]: value}
 });
 
-sortedCountedListsList.sort((a, b) => Object.values(b)[0] - Object.values(a)[0]);
+// sortedCountedListsList.sort((a, b) => {
+// 	console.log(Object.keys(b)[0] + " - " + Object.keys(a)[0]);
+	
+// 	return Object.keys(b)[0] - Object.keys(a)[0]
+// });
+
+let sortedListNamesList = sortedCountedListsList.map((listCounterObj) => Object.keys(listCounterObj)[0]);
+sortedListNamesList = sortedListNamesList.sort();
 
 // console.log(countedTopicsList);
 
-let listsListAsSidebarLinks = [...sortedCountedListsList].map((list) => {
+let listsListAsSidebarLinks = [...sortedListNamesList].map((listName) => {
 	return {
-		label: `${Object.keys(list)[0]} (${Object.values(list)[0]})`,
-		link: "/lists/"+Object.keys(list)[0]
+		// @ts-ignore
+		label: `${listName} (${sortedCountedListsList.find((listCountObj) => Object.keys(listCountObj)[0] == [listName])[listName]})`,
+		link: "/lists/"+listName
 	};
 });
 
@@ -75,12 +85,16 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/AlexStormwood/awesome-repos' }],
 			sidebar: [
 				{
-					label: "Lists",
+					label: `Total Repositories: ${data.length}`,
+					items: []
+				},
+				{
+					label: `Lists (${listsListAsSidebarLinks.length})`,
 					collapsed: false,
 					items: listsListAsSidebarLinks
 				},
 				{
-					label: "Topics",
+					label: `Topics (${topicsListAsSidebarLinks.length})`,
 					collapsed: true,
 					items: topicsListAsSidebarLinks
 				}

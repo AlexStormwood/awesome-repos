@@ -1,0 +1,24 @@
+{
+    "owner": "keijiro",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/keijiro/KvantWig",
+    "description": "Non-realistic hair simulation in Unity",
+    "name": "KvantWig",
+    "full_name": "keijiro/KvantWig",
+    "id": 66373593,
+    "topics": [
+        "graphics",
+        "shader",
+        "unity",
+        "unity3d"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

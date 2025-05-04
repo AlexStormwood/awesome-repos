@@ -1,0 +1,30 @@
+{
+    "owner": "electronicarts",
+    "owner_type": "Organization",
+    "homepage": "https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/",
+    "url": "https://github.com/electronicarts/CnC_Generals_Zero_Hour",
+    "description": "Command and Conquer: Generals - Zero Hour",
+    "name": "CnC_Generals_Zero_Hour",
+    "full_name": "electronicarts/CnC_Generals_Zero_Hour",
+    "id": 845818236,
+    "topics": [
+        "command-and-conquer",
+        "open-source",
+        "real-time-strategy",
+        "rts",
+        "gamedev",
+        "gaming"
+    ],
+    "lists": [
+        "Open-Source Gamedev Stuff",
+        "Open-Source Games",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

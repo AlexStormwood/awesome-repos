@@ -1,0 +1,43 @@
+{
+    "owner": "ollama",
+    "owner_type": "Organization",
+    "homepage": "https://ollama.com",
+    "url": "https://github.com/ollama/ollama",
+    "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "name": "ollama",
+    "full_name": "ollama/ollama",
+    "id": 658928958,
+    "topics": [
+        "deepseek",
+        "gemma",
+        "gemma2",
+        "gemma3",
+        "go",
+        "golang",
+        "llama",
+        "llama2",
+        "llama3",
+        "llava",
+        "llm",
+        "llms",
+        "mistral",
+        "ollama",
+        "phi3",
+        "phi4",
+        "qwen",
+        "ai",
+        "artificial-intelligence"
+    ],
+    "lists": [
+        "Self-Hostable",
+        "Useful Generative AI Stuff",
+        "Open-Source Projects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

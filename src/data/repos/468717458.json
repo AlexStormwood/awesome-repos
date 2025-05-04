@@ -1,0 +1,28 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/UnityWithEmbeddedRestServer",
+    "description": "Example of using a Unity project with an embedded REST API server.",
+    "name": "UnityWithEmbeddedRestServer",
+    "full_name": "AlexStormwood/UnityWithEmbeddedRestServer",
+    "id": 468717458,
+    "topics": [
+        "unity",
+        "gamedev",
+        "api"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Concepts and Explorations",
+        "Educational Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "owner": "all-iver",
+    "owner_type": "User",
+    "homepage": "http://sub-c.org/Shapes2D/documentation/",
+    "url": "https://github.com/all-iver/shapes2d",
+    "description": "Shapes2D for Unity3D - Make simple art assets quickly in Unity",
+    "name": "shapes2d",
+    "full_name": "all-iver/shapes2d",
+    "id": 145455861,
+    "topics": [
+        "2d",
+        "art",
+        "asset",
+        "assets",
+        "procedural",
+        "shapes",
+        "unity",
+        "unity3d"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

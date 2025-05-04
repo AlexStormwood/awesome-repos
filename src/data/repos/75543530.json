@@ -1,0 +1,23 @@
+{
+    "owner": "duffn",
+    "owner_type": "User",
+    "homepage": "https://dumbpasswordrules.com",
+    "url": "https://github.com/duffn/dumb-password-rules",
+    "description": "A compilation of sites with dumb password rules.",
+    "name": "dumb-password-rules",
+    "full_name": "duffn/dumb-password-rules",
+    "id": 75543530,
+    "topics": [
+        "hacktoberfest",
+        "passwords",
+        "security"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

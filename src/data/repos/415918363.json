@@ -1,0 +1,32 @@
+{
+    "owner": "Mojang",
+    "owner_type": "Organization",
+    "homepage": "https://react-facet.mojang.com/",
+    "url": "https://github.com/Mojang/ore-ui",
+    "description": "💎 Building blocks to construct game UIs using web tech.",
+    "name": "ore-ui",
+    "full_name": "Mojang/ore-ui",
+    "id": 415918363,
+    "topics": [
+        "fiber",
+        "game-development",
+        "game-ui",
+        "react",
+        "renderer",
+        "reactjs",
+        "gamedev",
+        "typescript"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Gamedev Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "owner": "w3c",
+    "owner_type": "Organization",
+    "homepage": "https://www.w3.org/TR/device-posture/",
+    "url": "https://github.com/w3c/device-posture",
+    "description": "Device Posture API",
+    "name": "device-posture",
+    "full_name": "w3c/device-posture",
+    "id": 263298659,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

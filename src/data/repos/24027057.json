@@ -1,0 +1,19 @@
+{
+    "owner": "staruml",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/staruml/staruml-csharp",
+    "description": "C# extension for StarUML",
+    "name": "staruml-csharp",
+    "full_name": "staruml/staruml-csharp",
+    "id": 24027057,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

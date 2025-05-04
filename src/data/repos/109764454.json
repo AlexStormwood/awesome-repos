@@ -1,0 +1,13 @@
+{
+    "owner": "PokemonTCG",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/PokemonTCG/pokemon-tcg-data",
+    "description": "The data found within the Pokémon TCG API",
+    "name": "pokemon-tcg-data",
+    "full_name": "PokemonTCG/pokemon-tcg-data",
+    "id": 109764454,
+    "topics": [],
+    "lists": [],
+    "license": {}
+}

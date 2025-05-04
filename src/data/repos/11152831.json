@@ -1,0 +1,19 @@
+{
+    "owner": "doublespeakgames",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/doublespeakgames/adarkroom",
+    "description": "A Dark Room - A Minimalist Text Adventure",
+    "name": "adarkroom",
+    "full_name": "doublespeakgames/adarkroom",
+    "id": 11152831,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mpl-2.0",
+        "name": "Mozilla Public License 2.0",
+        "spdx_id": "MPL-2.0",
+        "url": "https://api.github.com/licenses/mpl-2.0",
+        "node_id": "MDc6TGljZW5zZTE0"
+    }
+}

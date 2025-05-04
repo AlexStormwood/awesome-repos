@@ -1,0 +1,24 @@
+{
+    "owner": "ladjs",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/ladjs/supertest",
+    "description": "🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.",
+    "name": "supertest",
+    "full_name": "ladjs/supertest",
+    "id": 4813464,
+    "topics": [
+        "assertions",
+        "node",
+        "superagent",
+        "supertest"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

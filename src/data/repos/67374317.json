@@ -1,0 +1,20 @@
+{
+    "owner": "kribblo",
+    "owner_type": "User",
+    "homepage": "https://www.npmjs.com/package/@ffmpeg-installer/ffmpeg",
+    "url": "https://github.com/kribblo/node-ffmpeg-installer",
+    "description": "Platform independent binary installer of FFmpeg for node projects",
+    "name": "node-ffmpeg-installer",
+    "full_name": "kribblo/node-ffmpeg-installer",
+    "id": 67374317,
+    "topics": [
+        "darwin",
+        "ffmpeg",
+        "ffmpeg-prebuilt",
+        "linux",
+        "nodejs",
+        "windows"
+    ],
+    "lists": [],
+    "license": {}
+}

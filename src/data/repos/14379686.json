@@ -1,0 +1,23 @@
+{
+    "owner": "rlabrecque",
+    "owner_type": "User",
+    "homepage": "http://steamworks.github.io",
+    "url": "https://github.com/rlabrecque/Steamworks.NET",
+    "description": "Steamworks wrapper for Unity / C#",
+    "name": "Steamworks.NET",
+    "full_name": "rlabrecque/Steamworks.NET",
+    "id": 14379686,
+    "topics": [
+        "c-sharp",
+        "steamworks",
+        "unity"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

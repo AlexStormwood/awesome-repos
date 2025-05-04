@@ -72,9 +72,10 @@ async function getExistingStars(){
 	// console.log(oneRepo);
 }
 
-getExistingStars();
+// getExistingStars();
 
 import data from "../data/repos.json" with { type:"json"};
+import { loadAllRepoData } from "./reposDataManipulator.js";
 
 async function calculateSandbox(){
 
@@ -86,3 +87,15 @@ async function calculateSandbox(){
 }
 
 // calculateSandbox();
+
+async function convertReposMasterToIndividualFiles(){
+	for await (const repo of data) {
+		let targetDestinationFile = path.resolve(process.cwd(), "src", "data", "repos", repo.id + ".json");
+		console.log(targetDestinationFile);
+		fs.writeFileSync(targetDestinationFile, JSON.stringify(repo, null, 4));
+	}
+}
+
+// convertReposMasterToIndividualFiles();
+
+loadAllRepoData();

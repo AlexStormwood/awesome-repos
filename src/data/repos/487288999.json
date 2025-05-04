@@ -1,0 +1,29 @@
+{
+    "owner": "pmndrs",
+    "owner_type": "Organization",
+    "homepage": "https://react-three-rapier.pmnd.rs",
+    "url": "https://github.com/pmndrs/react-three-rapier",
+    "description": "🤺 Rapier physics in React",
+    "name": "react-three-rapier",
+    "full_name": "pmndrs/react-three-rapier",
+    "id": 487288999,
+    "topics": [
+        "react",
+        "reactjs",
+        "gamedev",
+        "threejs"
+    ],
+    "lists": [
+        "Useful ReactJS Stuff",
+        "Useful Gamedev Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

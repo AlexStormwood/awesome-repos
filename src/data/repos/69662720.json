@@ -1,0 +1,26 @@
+{
+    "owner": "mxgmn",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "description": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics",
+    "name": "WaveFunctionCollapse",
+    "full_name": "mxgmn/WaveFunctionCollapse",
+    "id": 69662720,
+    "topics": [
+        "algorithm",
+        "csharp",
+        "gamedev",
+        "machine-learning",
+        "procedural-generation",
+        "wfc"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

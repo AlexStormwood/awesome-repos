@@ -1,0 +1,19 @@
+{
+    "owner": "millerc3",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/millerc3/Marching-Cubes",
+    "description": "",
+    "name": "Marching-Cubes",
+    "full_name": "millerc3/Marching-Cubes",
+    "id": 194746458,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "owner": "devicons",
+    "owner_type": "Organization",
+    "homepage": "https://devicon.dev",
+    "url": "https://github.com/devicons/devicon",
+    "description": "Set of icons representing programming languages, designing & development tools",
+    "name": "devicon",
+    "full_name": "devicons/devicon",
+    "id": 17317349,
+    "topics": [
+        "brands",
+        "devicon",
+        "font",
+        "hacktoberfest",
+        "icons",
+        "logos",
+        "stylesheet",
+        "svg"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

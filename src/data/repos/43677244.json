@@ -1,0 +1,19 @@
+{
+    "owner": "pret",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/pret/pokeemerald",
+    "description": "Decompilation of Pokémon Emerald",
+    "name": "pokeemerald",
+    "full_name": "pret/pokeemerald",
+    "id": 43677244,
+    "topics": [
+        "c",
+        "decompilation",
+        "gameboy-advance",
+        "pokemon",
+        "reverse-engineering"
+    ],
+    "lists": [],
+    "license": {}
+}

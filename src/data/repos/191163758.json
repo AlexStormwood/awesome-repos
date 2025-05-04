@@ -1,0 +1,26 @@
+{
+    "owner": "stefanzweifel",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/stefanzweifel/git-auto-commit-action",
+    "description": "Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.",
+    "name": "git-auto-commit-action",
+    "full_name": "stefanzweifel/git-auto-commit-action",
+    "id": 191163758,
+    "topics": [
+        "git",
+        "github",
+        "github-action",
+        "github-actions",
+        "trigger",
+        "workflow-runs"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

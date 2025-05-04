@@ -1,0 +1,19 @@
+{
+    "owner": "streamich",
+    "owner_type": "User",
+    "homepage": "http://streamich.github.io/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "name": "react-use",
+    "full_name": "streamich/react-use",
+    "id": 154950925,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+    }
+}

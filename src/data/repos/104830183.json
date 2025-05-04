@@ -1,0 +1,40 @@
+{
+    "owner": "proyecto26",
+    "owner_type": "Organization",
+    "homepage": "https://assetstore.unity.com/packages/slug/102501",
+    "url": "https://github.com/proyecto26/RestClient",
+    "description": "🦄  A Promise based REST and HTTP client for Unity 🎮",
+    "name": "RestClient",
+    "full_name": "proyecto26/RestClient",
+    "id": 104830183,
+    "topics": [
+        "ajax",
+        "async-requests",
+        "http",
+        "http-client",
+        "http-requests",
+        "httpclient",
+        "json",
+        "promises",
+        "request-promise",
+        "requests",
+        "rest",
+        "rest-api",
+        "rest-client",
+        "unity",
+        "unity-asset",
+        "unity-scripts",
+        "unity3d",
+        "unity3d-plugin",
+        "web-request",
+        "web-services"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

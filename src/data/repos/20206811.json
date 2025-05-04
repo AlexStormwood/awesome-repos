@@ -1,0 +1,19 @@
+{
+    "owner": "jacobdufault",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/jacobdufault/fullserializer",
+    "description": "A robust JSON serialization framework that just works with support for all major Unity export platforms.",
+    "name": "fullserializer",
+    "full_name": "jacobdufault/fullserializer",
+    "id": 20206811,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "owner": "game-ci",
+    "owner_type": "Organization",
+    "homepage": "https://github.com/marketplace/actions/unity-builder",
+    "url": "https://github.com/game-ci/unity-builder",
+    "description": "Build Unity projects for different platforms",
+    "name": "unity-builder",
+    "full_name": "game-ci/unity-builder",
+    "id": 225049270,
+    "topics": [
+        "actions",
+        "build",
+        "ci",
+        "game-ci",
+        "github",
+        "hacktoberfest",
+        "unity",
+        "unity-actions",
+        "unity-builder"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

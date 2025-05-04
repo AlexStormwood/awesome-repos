@@ -1,0 +1,19 @@
+{
+    "owner": "mixandjam",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/mixandjam/GodofWar-AxeThrow",
+    "description": "Recreating the Axe Throw mechanic from God of War",
+    "name": "GodofWar-AxeThrow",
+    "full_name": "mixandjam/GodofWar-AxeThrow",
+    "id": 178108833,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

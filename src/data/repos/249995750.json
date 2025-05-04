@@ -1,0 +1,28 @@
+{
+    "owner": "AmruthPillai",
+    "owner_type": "User",
+    "homepage": "https://rxresu.me",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "name": "Reactive-Resume",
+    "full_name": "AmruthPillai/Reactive-Resume",
+    "id": 249995750,
+    "topics": [
+        "hacktoberfest",
+        "material-ui",
+        "nestjs",
+        "nextjs",
+        "react",
+        "resume",
+        "resume-builder",
+        "tailwindcss"
+    ],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

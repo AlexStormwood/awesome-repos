@@ -1,0 +1,36 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/ExpressJSTestingDemo",
+    "description": "Demo of using Jest, Supertest & Github Actions for testing an ExpressJS app.",
+    "name": "ExpressJSTestingDemo",
+    "full_name": "AlexStormwood/ExpressJSTestingDemo",
+    "id": 291420670,
+    "topics": [
+        "javascript",
+        "nodejs",
+        "webdev",
+        "express",
+        "expressjs",
+        "testing",
+        "jest",
+        "supertest",
+        "github",
+        "github-actions"
+    ],
+    "lists": [
+        "Concepts and Explorations",
+        "My Own Work",
+        "Open-Source Projects",
+        "Useful NodeJS Stuff",
+        "Useful GitHub Actions Stuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "owner": "id-Software",
+    "owner_type": "Organization",
+    "homepage": "http://iphone.keyvisuals.com/apps/doom-classic-for-iphone-source-code-available/",
+    "url": "https://github.com/id-Software/DOOM-iOS",
+    "description": "DOOM Classic for iOS Source Release",
+    "name": "DOOM-iOS",
+    "full_name": "id-Software/DOOM-iOS",
+    "id": 3319560,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

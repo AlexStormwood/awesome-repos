@@ -1,0 +1,26 @@
+{
+    "owner": "atlassian",
+    "owner_type": "Organization",
+    "homepage": "https://react-beautiful-dnd.netlify.app",
+    "url": "https://github.com/atlassian/react-beautiful-dnd",
+    "description": "Beautiful and accessible drag and drop for lists with React",
+    "name": "react-beautiful-dnd",
+    "full_name": "atlassian/react-beautiful-dnd",
+    "id": 99761907,
+    "topics": [
+        "dnd",
+        "drag",
+        "drag-and-drop",
+        "react",
+        "reordering",
+        "sortable"
+    ],
+    "lists": [],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

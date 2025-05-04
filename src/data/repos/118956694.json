@@ -1,0 +1,19 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Unity-Technologies/UnityMeshSimplifier",
+    "description": "Mesh simplification for Unity.",
+    "name": "UnityMeshSimplifier",
+    "full_name": "Unity-Technologies/UnityMeshSimplifier",
+    "id": 118956694,
+    "topics": [],
+    "lists": [],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
