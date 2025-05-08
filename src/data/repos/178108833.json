@@ -7,8 +7,18 @@
     "name": "GodofWar-AxeThrow",
     "full_name": "mixandjam/GodofWar-AxeThrow",
     "id": 178108833,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "unity",
+        "gow",
+        "god-of-war"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff",
+        "Educational Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

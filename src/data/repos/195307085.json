@@ -7,8 +7,16 @@
     "name": "guidebook",
     "full_name": "theopensourceway/guidebook",
     "id": 195307085,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "community",
+        "community-management",
+        "open-source"
+    ],
+    "lists": [
+        "Educational Stuff",
+        "Industry Groups, Events, and Networking",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

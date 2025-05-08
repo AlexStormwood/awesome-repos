@@ -14,7 +14,11 @@
         "data-engineer",
         "data-engineering"
     ],
-    "lists": [],
+    "lists": [
+        "Educational Stuff",
+        "Useful Programming Concepts Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",

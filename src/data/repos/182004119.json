@@ -7,8 +7,16 @@
     "name": "ecs",
     "full_name": "mreinstein/ecs",
     "id": 182004119,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "ecs"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Gamedev Stuff",
+        "Useful NodeJS Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

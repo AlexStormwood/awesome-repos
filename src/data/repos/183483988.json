@@ -15,7 +15,10 @@
         "rust",
         "swf"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Fun Projects"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

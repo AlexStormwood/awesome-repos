@@ -18,7 +18,11 @@
         "javascript",
         "practice"
     ],
-    "lists": [],
+    "lists": [
+        "Educational Stuff",
+        "Open-Source Projects",
+        "Useful Programming Concepts Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

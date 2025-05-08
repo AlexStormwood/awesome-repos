@@ -7,8 +7,20 @@
     "name": "BoTW-Stasis",
     "full_name": "mixandjam/BoTW-Stasis",
     "id": 186422933,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "unity",
+        "zelda",
+        "tloz-botw",
+        "botw"
+    ],
+    "lists": [
+        "Educational Stuff",
+        "Useful Gamedev Stuff",
+        "Useful Unity Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

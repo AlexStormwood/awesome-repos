@@ -14,7 +14,11 @@
         "vfx",
         "vfxgraph"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "unlicense",
         "name": "The Unlicense",

@@ -16,9 +16,16 @@
         "terrain",
         "unity",
         "voxel",
-        "voxel-terrain"
+        "voxel-terrain",
+        "gamedev",
+        "simulation"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff",
+        "Educational Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

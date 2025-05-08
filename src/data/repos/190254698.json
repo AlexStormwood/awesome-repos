@@ -15,9 +15,13 @@
         "react",
         "site-builder",
         "web-builder",
-        "wysiwyg"
+        "wysiwyg",
+        "reactjs"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful ReactJS Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

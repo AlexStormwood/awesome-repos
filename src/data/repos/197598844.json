@@ -10,7 +10,10 @@
     "topics": [
         "unity"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

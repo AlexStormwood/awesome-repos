@@ -18,7 +18,10 @@
         "typescript",
         "zero-dependency"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful ReactJS Stuff"
+    ],
     "license": {
         "key": "unlicense",
         "name": "The Unlicense",

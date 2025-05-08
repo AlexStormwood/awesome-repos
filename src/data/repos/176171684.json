@@ -7,8 +7,17 @@
     "name": "UnityGrassGeometryShader",
     "full_name": "IronWarrior/UnityGrassGeometryShader",
     "id": 176171684,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "gamedev",
+        "simulation",
+        "rendering"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "unlicense",
         "name": "The Unlicense",

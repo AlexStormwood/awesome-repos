@@ -7,8 +7,17 @@
     "name": "Greebler",
     "full_name": "alexismorin/Greebler",
     "id": 186195210,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "unity",
+        "ue4"
+    ],
+    "lists": [
+        "Useful Gamedev Stuff",
+        "Useful Unity Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

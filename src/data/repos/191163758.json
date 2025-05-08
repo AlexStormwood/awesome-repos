@@ -15,7 +15,10 @@
         "trigger",
         "workflow-runs"
     ],
-    "lists": [],
+    "lists": [
+        "Useful GitHub Actions Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

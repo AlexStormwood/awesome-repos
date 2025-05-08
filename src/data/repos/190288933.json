@@ -11,8 +11,12 @@
         "asm",
         "bootloader",
         "game",
-        "x86"
+        "x86",
+        "invaders",
+        "space-invaders"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Games"
+    ],
     "license": {}
 }

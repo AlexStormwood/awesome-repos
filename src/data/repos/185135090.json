@@ -21,9 +21,13 @@
         "react-components",
         "remark",
         "syntax-highlighting",
-        "syntax-theme"
+        "syntax-theme",
+        "reactjs"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful ReactJS Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

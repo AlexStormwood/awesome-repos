@@ -18,7 +18,12 @@
         "jokes-module",
         "puns"
     ],
-    "lists": [],
+    "lists": [
+        "Fun Projects",
+        "Open-Source Projects",
+        "Useful JavaScript Stuff",
+        "Useful NodeJS Stuff"
+    ],
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",

@@ -11,6 +11,8 @@
         "electron",
         "freebsd"
     ],
-    "lists": [],
+    "lists": [
+        "Useful ElectronJS Stuff"
+    ],
     "license": {}
 }

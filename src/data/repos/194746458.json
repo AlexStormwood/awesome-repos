@@ -7,8 +7,18 @@
     "name": "Marching-Cubes",
     "full_name": "millerc3/Marching-Cubes",
     "id": 194746458,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "marching-cubes",
+        "unity",
+        "simulation"
+    ],
+    "lists": [
+        "Useful Programming Concepts Stuff",
+        "Educational Stuff",
+        "Useful Unity Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

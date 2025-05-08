@@ -26,6 +26,9 @@
         "template-project",
         "templates"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Programming Concepts Stuff",
+        "Educational Stuff"
+    ],
     "license": {}
 }

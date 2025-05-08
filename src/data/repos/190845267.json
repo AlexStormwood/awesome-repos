@@ -7,8 +7,15 @@
     "name": "sm64",
     "full_name": "n64decomp/sm64",
     "id": 190845267,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "mario",
+        "sm64",
+        "super-mario-64"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Games"
+    ],
     "license": {
         "key": "cc0-1.0",
         "name": "Creative Commons Zero v1.0 Universal",

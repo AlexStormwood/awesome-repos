@@ -7,8 +7,14 @@
     "name": "GeForceNOW-SDK",
     "full_name": "NVIDIAGameWorks/GeForceNOW-SDK",
     "id": 188256557,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "nvidia",
+        "gamedev",
+        "geforce"
+    ],
+    "lists": [
+        "Useful Gamedev Stuff"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

@@ -7,7 +7,14 @@
     "name": "noc-book-2-archive",
     "full_name": "nature-of-code/noc-book-2-archive",
     "id": 193515687,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "procgen",
+        "simulation",
+        "procedural-generation"
+    ],
+    "lists": [
+        "Useful Programming Concepts Stuff",
+        "Educational Stuff"
+    ],
     "license": {}
 }

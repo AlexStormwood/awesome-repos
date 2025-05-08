@@ -7,8 +7,16 @@
     "name": "Marching-Cubes",
     "full_name": "SebLague/Marching-Cubes",
     "id": 185085370,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "unity"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Educational Stuff",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

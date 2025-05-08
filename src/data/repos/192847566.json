@@ -7,8 +7,20 @@
     "name": "MarioKart-Drift",
     "full_name": "mixandjam/MarioKart-Drift",
     "id": 192847566,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "unity",
+        "mario-kart",
+        "mario",
+        "mariokart"
+    ],
+    "lists": [
+        "Educational Stuff",
+        "Useful Gamedev Stuff",
+        "Useful Unity Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",
