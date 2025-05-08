@@ -11,7 +11,11 @@
         "dnd",
         "npc-generator"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful TTRPG Stuff",
+        "Useful Dungeons & Dragons Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",
