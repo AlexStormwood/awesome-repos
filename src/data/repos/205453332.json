@@ -18,7 +18,8 @@
         "trello"
     ],
     "lists": [
-        "Self-Hostable"
+        "Self-Hostable",
+        "Open-Source Projects"
     ],
     "license": {
         "key": "agpl-3.0",

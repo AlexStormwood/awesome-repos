@@ -18,7 +18,11 @@
         "markdown-it",
         "markdown-it-plugin"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful TTRPG Stuff",
+        "Useful Dungeons & Dragons Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

@@ -22,7 +22,10 @@
         "typescript",
         "virtualization"
     ],
-    "lists": [],
+    "lists": [
+        "Useful ReactJS Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",
