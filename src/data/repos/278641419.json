@@ -18,7 +18,10 @@
         "relational-database",
         "stream-processing"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Programming Concepts Stuff",
+        "Educational Stuff"
+    ],
     "license": {
         "key": "cc0-1.0",
         "name": "Creative Commons Zero v1.0 Universal",

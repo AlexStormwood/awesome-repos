@@ -8,7 +8,10 @@
     "full_name": "veggiedefender/open-and-shut",
     "id": 251081242,
     "topics": [],
-    "lists": [],
+    "lists": [
+        "Fun Projects",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

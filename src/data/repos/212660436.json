@@ -7,8 +7,18 @@
     "name": "DOTS-Point-Clouds",
     "full_name": "pablothedolphin/DOTS-Point-Clouds",
     "id": 212660436,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "dots",
+        "ecs",
+        "point-cloud",
+        "rendering"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

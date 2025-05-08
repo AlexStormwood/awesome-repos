@@ -8,6 +8,9 @@
     "full_name": "monry/actions-upm-publish",
     "id": 240893021,
     "topics": [],
-    "lists": [],
+    "lists": [
+        "Useful GitHub Actions Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {}
 }

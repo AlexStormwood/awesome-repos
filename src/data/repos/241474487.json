@@ -7,8 +7,19 @@
     "name": "ProceduralAnimation",
     "full_name": "BattleDawnNZ/ProceduralAnimation",
     "id": 241474487,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "animation",
+        "procgen",
+        "proceduralgeneration",
+        "procedural-generation",
+        "gamedev",
+        "unity"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

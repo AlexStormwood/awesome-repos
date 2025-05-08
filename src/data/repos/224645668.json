@@ -7,8 +7,13 @@
     "name": "kubethanos",
     "full_name": "berkay-dincer/kubethanos",
     "id": 224645668,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "kubernetes"
+    ],
+    "lists": [
+        "Fun Projects",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

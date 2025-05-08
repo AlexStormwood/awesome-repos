@@ -7,7 +7,14 @@
     "name": "IntroToDatabaseNormalization",
     "full_name": "AlexStormwood/IntroToDatabaseNormalization",
     "id": 285476859,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "database",
+        "databases"
+    ],
+    "lists": [
+        "Educational Stuff",
+        "My Own Work",
+        "Useful Programming Concepts Stuff"
+    ],
     "license": {}
 }

@@ -7,8 +7,17 @@
     "name": "bubblewrap",
     "full_name": "GoogleChromeLabs/bubblewrap",
     "id": 220448610,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "webdev",
+        "android",
+        "pwa"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful NodeJS Stuff",
+        "Useful Front-End Stuff",
+        "Useful Programming Concepts Stuff"
+    ],
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",

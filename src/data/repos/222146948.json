@@ -7,7 +7,16 @@
     "name": "AddressableAsset-HowTo",
     "full_name": "Badgerdox/AddressableAsset-HowTo",
     "id": 222146948,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "addressable",
+        "unity-addressables",
+        "gamedev",
+        "liveops"
+    ],
+    "lists": [
+        "Useful Unity Stuff",
+        "Educational Stuff"
+    ],
     "license": {}
 }

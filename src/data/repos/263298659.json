@@ -7,8 +7,13 @@
     "name": "device-posture",
     "full_name": "w3c/device-posture",
     "id": 263298659,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "webdev"
+    ],
+    "lists": [
+        "Useful Front-End Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

@@ -22,7 +22,10 @@
         "winui",
         "winui3"
     ],
-    "lists": [],
+    "lists": [
+        "Useful C-Sharp Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

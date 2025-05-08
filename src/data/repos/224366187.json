@@ -7,8 +7,18 @@
     "name": "InfPoints",
     "full_name": "johnsietsma/InfPoints",
     "id": 224366187,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "photogrammetry",
+        "point-cloud",
+        "lidar",
+        "renderer"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

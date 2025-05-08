@@ -7,8 +7,15 @@
     "name": "UnitySceneViewNotification",
     "full_name": "staggartcreations/UnitySceneViewNotification",
     "id": 245372100,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "unity"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

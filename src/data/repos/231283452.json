@@ -16,7 +16,12 @@
         "productivity",
         "whiteboard"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Art Stuff",
+        "Useful Front-End Stuff",
+        "Open-Source Projects",
+        "Useful ReactJS Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

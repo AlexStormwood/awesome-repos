@@ -17,7 +17,11 @@
         "unity-shaders",
         "unity3d"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",

@@ -25,7 +25,12 @@
         "unity3d",
         "unity3d-plugin"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Unity Stuff",
+        "Useful Gamedev Stuff",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "unlicense",
         "name": "The Unlicense",

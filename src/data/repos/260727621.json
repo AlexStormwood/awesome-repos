@@ -13,9 +13,19 @@
         "sdk",
         "ship",
         "steam",
-        "steamworks"
+        "steamworks",
+        "cicd",
+        "automation",
+        "gamedev",
+        "github",
+        "github-actions",
+        "githubactions"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Gamedev Stuff",
+        "Useful GitHub Actions Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

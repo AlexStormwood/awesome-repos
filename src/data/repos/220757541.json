@@ -12,7 +12,11 @@
         "jsdoc-template",
         "jsdoc-theme"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Front-End Stuff",
+        "Useful NodeJS Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

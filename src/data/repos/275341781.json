@@ -19,9 +19,14 @@
         "learning-materials",
         "list",
         "postmortem",
-        "postmortems"
+        "postmortems",
+        "gamedev"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Gamedev Stuff",
+        "Educational Stuff"
+    ],
     "license": {
         "key": "cc0-1.0",
         "name": "Creative Commons Zero v1.0 Universal",

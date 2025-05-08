@@ -7,8 +7,16 @@
     "name": "design-resources-for-developers",
     "full_name": "bradtraversy/design-resources-for-developers",
     "id": 261787758,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "webdev"
+    ],
+    "lists": [
+        "Useful Front-End Stuff",
+        "Educational Stuff",
+        "Useful Art Stuff",
+        "Useful Programming Concepts Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

@@ -7,8 +7,13 @@
     "name": "IR-GTS",
     "full_name": "JamieJQuinn/IR-GTS",
     "id": 276855417,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "pokemon"
+    ],
+    "lists": [
+        "Pokémon Fan Work",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",

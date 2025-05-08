@@ -7,8 +7,14 @@
     "name": "Open.NAT.Core",
     "full_name": "Aragas/Open.NAT.Core",
     "id": 213413074,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "networking",
+        "c-sharp"
+    ],
+    "lists": [
+        "Useful C-Sharp Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

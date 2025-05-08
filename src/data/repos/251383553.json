@@ -13,7 +13,11 @@
         "real-time-strategy",
         "rts"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Gamedev Stuff",
+        "Open-Source Games",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

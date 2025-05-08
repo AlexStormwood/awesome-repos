@@ -7,8 +7,18 @@
     "name": "create-unitypackage",
     "full_name": "pCYSl5EDgo/create-unitypackage",
     "id": 234763284,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "github",
+        "githubactions",
+        "github-actions"
+    ],
+    "lists": [
+        "Useful Unity Stuff",
+        "Useful GitHub Actions Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

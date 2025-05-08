@@ -17,7 +17,9 @@
         "resume-builder",
         "tailwindcss"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

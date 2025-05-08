@@ -7,8 +7,16 @@
     "name": "vscode-live-sass-compiler",
     "full_name": "glenn2223/vscode-live-sass-compiler",
     "id": 246845811,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "css",
+        "webdev",
+        "sass",
+        "scss"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Front-End Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

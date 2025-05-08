@@ -17,7 +17,9 @@
         "redux",
         "trello"
     ],
-    "lists": [],
+    "lists": [
+        "Self-Hostable"
+    ],
     "license": {
         "key": "agpl-3.0",
         "name": "GNU Affero General Public License v3.0",

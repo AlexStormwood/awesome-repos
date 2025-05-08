@@ -15,7 +15,10 @@
         "readme-stats",
         "serverless"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Programming Concepts Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

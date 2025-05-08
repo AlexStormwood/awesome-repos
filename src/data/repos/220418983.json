@@ -10,10 +10,14 @@
     "topics": [
         "conventional-commits",
         "github-action",
+        "github-actions",
         "pr-title",
         "pull-requests"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful GitHub Actions Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

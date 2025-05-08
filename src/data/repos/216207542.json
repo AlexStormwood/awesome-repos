@@ -12,7 +12,10 @@
         "github-actions",
         "release-automation"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful GitHub Actions Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

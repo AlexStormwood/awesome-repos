@@ -7,8 +7,13 @@
     "name": "Emote",
     "full_name": "tom-james-watson/Emote",
     "id": 253234080,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "emote",
+        "emoji"
+    ],
+    "lists": [
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",

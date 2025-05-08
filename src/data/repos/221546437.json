@@ -20,7 +20,10 @@
         "selfhosted",
         "shopping"
     ],
-    "lists": [],
+    "lists": [
+        "Self-Hostable",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

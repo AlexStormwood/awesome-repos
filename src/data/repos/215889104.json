@@ -7,8 +7,14 @@
     "name": "tcp-udp-networking",
     "full_name": "tom-weiland/tcp-udp-networking",
     "id": 215889104,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "c-sharp",
+        "networking"
+    ],
+    "lists": [
+        "Educational Stuff",
+        "Useful C-Sharp Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

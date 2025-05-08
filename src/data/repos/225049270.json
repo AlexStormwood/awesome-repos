@@ -13,12 +13,18 @@
         "ci",
         "game-ci",
         "github",
+        "github-actions",
         "hacktoberfest",
         "unity",
         "unity-actions",
         "unity-builder"
     ],
-    "lists": [],
+    "lists": [
+        "Useful GitHub Actions Stuff",
+        "Useful Unity Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

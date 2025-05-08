@@ -7,7 +7,15 @@
     "name": "NestedNetlifyDeploymentExample",
     "full_name": "AlexStormwood/NestedNetlifyDeploymentExample",
     "id": 265456872,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "html",
+        "css",
+        "webdev"
+    ],
+    "lists": [
+        "My Own Work",
+        "Educational Stuff",
+        "Useful Programming Concepts Stuff"
+    ],
     "license": {}
 }

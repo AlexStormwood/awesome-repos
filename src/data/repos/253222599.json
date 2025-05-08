@@ -20,7 +20,10 @@
         "vuejs",
         "website"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Self-Hostable"
+    ],
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",

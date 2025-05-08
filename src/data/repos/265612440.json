@@ -26,9 +26,13 @@
         "vocoder",
         "voice-cloning",
         "voice-conversion",
-        "voice-synthesis"
+        "voice-synthesis",
+        "artificial-intelligence"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Generative AI Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mpl-2.0",
         "name": "Mozilla Public License 2.0",

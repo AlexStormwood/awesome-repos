@@ -16,9 +16,15 @@
         "openapi-generator",
         "openapi3",
         "swagger",
-        "swagger-generator"
+        "swagger-generator",
+        "express",
+        "javascript",
+        "nodejs"
     ],
-    "lists": [],
+    "lists": [
+        "Useful NodeJS Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

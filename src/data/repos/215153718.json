@@ -7,7 +7,17 @@
     "name": "Unity-Addressables-Hosting-S3",
     "full_name": "The-Gamedev-Guru/Unity-Addressables-Hosting-S3",
     "id": 215153718,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "addressables",
+        "gamedev",
+        "aws",
+        "liveops"
+    ],
+    "lists": [
+        "Useful Unity Stuff",
+        "Educational Stuff",
+        "Useful Gamedev Stuff"
+    ],
     "license": {}
 }

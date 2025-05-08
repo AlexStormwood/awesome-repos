@@ -12,6 +12,10 @@
         "unity-example",
         "unity3d"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Unity Stuff",
+        "Educational Stuff",
+        "My Own Work"
+    ],
     "license": {}
 }

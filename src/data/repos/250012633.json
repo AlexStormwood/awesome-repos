@@ -7,8 +7,16 @@
     "name": "express-handlebars",
     "full_name": "express-handlebars/express-handlebars",
     "id": 250012633,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "express",
+        "expressjs",
+        "nodejs",
+        "javascript",
+        "webdev"
+    ],
+    "lists": [
+        "Useful NodeJS Stuff"
+    ],
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",

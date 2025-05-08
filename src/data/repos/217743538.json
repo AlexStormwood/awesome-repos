@@ -7,8 +7,14 @@
     "name": "gh-action-bump-version",
     "full_name": "phips28/gh-action-bump-version",
     "id": 217743538,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "github-actions",
+        "semver"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful GitHub Actions Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

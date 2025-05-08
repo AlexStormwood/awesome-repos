@@ -13,6 +13,8 @@
         "niantic",
         "pokemon-go"
     ],
-    "lists": [],
+    "lists": [
+        "Pokémon Fan Work"
+    ],
     "license": {}
 }

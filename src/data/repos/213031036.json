@@ -12,7 +12,11 @@
         "firebase",
         "firebase-authentication"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Front-End Stuff",
+        "Educational Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

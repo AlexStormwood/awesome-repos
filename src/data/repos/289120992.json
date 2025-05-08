@@ -7,8 +7,17 @@
     "name": "react-gamepads",
     "full_name": "whoisryosuke/react-gamepads",
     "id": 289120992,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "react",
+        "reactjs",
+        "javascript"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful ReactJS Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

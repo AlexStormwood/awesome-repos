@@ -7,7 +7,17 @@
     "name": "DOTSNET",
     "full_name": "miwarnec/DOTSNET",
     "id": 274610208,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "dots",
+        "unity-dots",
+        "ecs",
+        "networking",
+        "multiplayer",
+        "dotsnet"
+    ],
+    "lists": [
+        "Useful Unity Stuff"
+    ],
     "license": {}
 }

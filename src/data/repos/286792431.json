@@ -7,7 +7,12 @@
     "name": "PokeDings",
     "full_name": "msikma/PokeDings",
     "id": 286792431,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "pokemon"
+    ],
+    "lists": [
+        "Fun Projects",
+        "Pokémon Fan Work"
+    ],
     "license": {}
 }

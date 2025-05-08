@@ -7,8 +7,18 @@
     "name": "Superhot-BulletTime",
     "full_name": "mixandjam/Superhot-BulletTime",
     "id": 224293602,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "gamedev",
+        "unity",
+        "superhot"
+    ],
+    "lists": [
+        "Educational Stuff",
+        "Useful Gamedev Stuff",
+        "Useful Unity Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

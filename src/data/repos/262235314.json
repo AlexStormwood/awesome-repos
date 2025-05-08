@@ -17,7 +17,10 @@
         "netcore",
         "webdevelopment"
     ],
-    "lists": [],
+    "lists": [
+        "Useful C-Sharp Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",

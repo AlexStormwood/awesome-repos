@@ -7,7 +7,14 @@
     "name": "dnd5e-town-generator",
     "full_name": "BramvdnHeuvel/dnd5e-town-generator",
     "id": 222557651,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "dnd",
+        "dnd5e",
+        "ttrpg"
+    ],
+    "lists": [
+        "Useful TTRPG Stuff",
+        "Useful Dungeons & Dragons Stuff"
+    ],
     "license": {}
 }

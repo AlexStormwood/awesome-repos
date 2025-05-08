@@ -15,7 +15,11 @@
         "toonshading",
         "unity"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Unity Stuff",
+        "Open-Source Gamedev Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

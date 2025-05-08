@@ -15,7 +15,10 @@
         "react-components",
         "react-hooks"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful ReactJS Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

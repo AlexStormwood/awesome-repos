@@ -7,8 +7,13 @@
     "name": "BrushColorSwitch",
     "full_name": "rkspsm/BrushColorSwitch",
     "id": 209880915,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "krita"
+    ],
+    "lists": [
+        "Open-Source Projects",
+        "Useful Art Stuff"
+    ],
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",

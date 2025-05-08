@@ -7,7 +7,16 @@
     "name": "Unity-DOTS-Discord",
     "full_name": "DOTS-Discord/Unity-DOTS-Discord",
     "id": 286327160,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "dots",
+        "unity-dots",
+        "ecs"
+    ],
+    "lists": [
+        "Useful Unity Stuff",
+        "Useful Programming Concepts Stuff",
+        "Educational Stuff"
+    ],
     "license": {}
 }

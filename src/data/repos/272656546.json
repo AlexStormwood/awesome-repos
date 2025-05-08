@@ -8,7 +8,10 @@
     "full_name": "nohello-net/site",
     "id": 272656546,
     "topics": [],
-    "lists": [],
+    "lists": [
+        "Fun Projects",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

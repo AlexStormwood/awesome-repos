@@ -7,8 +7,15 @@
     "name": "cancel-action",
     "full_name": "andymckay/cancel-action",
     "id": 236098397,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "github",
+        "githubactions",
+        "github-actions"
+    ],
+    "lists": [
+        "Useful GitHub Actions Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

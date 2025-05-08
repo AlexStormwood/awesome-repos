@@ -29,7 +29,10 @@
         "tex",
         "video"
     ],
-    "lists": [],
+    "lists": [
+        "Useful Front-End Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

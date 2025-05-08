@@ -18,7 +18,11 @@
         "vulkan",
         "windows"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Gamedev Stuff"
+    ],
     "license": {
         "key": "other",
         "name": "Other",

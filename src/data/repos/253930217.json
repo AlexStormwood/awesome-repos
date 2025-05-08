@@ -20,7 +20,11 @@
         "third-party-licenses",
         "typescipt"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Projects",
+        "Useful NodeJS Stuff",
+        "Useful Programming Concepts Stuff"
+    ],
     "license": {
         "key": "isc",
         "name": "ISC License",

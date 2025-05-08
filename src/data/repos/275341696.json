@@ -7,7 +7,16 @@
     "name": "UnityDOTS_FollowingAlong",
     "full_name": "AlexStormwood/UnityDOTS_FollowingAlong",
     "id": 275341696,
-    "topics": [],
-    "lists": [],
+    "topics": [
+        "unity",
+        "dots",
+        "unity-dots",
+        "ecs"
+    ],
+    "lists": [
+        "My Own Work",
+        "Educational Stuff",
+        "Useful Unity Stuff"
+    ],
     "license": {}
 }

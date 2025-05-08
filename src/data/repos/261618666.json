@@ -21,7 +21,11 @@
         "zero-configuration",
         "zeroconf"
     ],
-    "lists": [],
+    "lists": [
+        "Useful NodeJS Stuff",
+        "Useful ElectronJS Stuff",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

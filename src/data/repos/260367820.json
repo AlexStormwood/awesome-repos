@@ -15,7 +15,10 @@
         "game",
         "rts-game"
     ],
-    "lists": [],
+    "lists": [
+        "Open-Source Games",
+        "Open-Source Projects"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",

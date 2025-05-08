@@ -20,7 +20,13 @@
         "unity-actions",
         "unity-ci"
     ],
-    "lists": [],
+    "lists": [
+        "Useful GitHub Actions Stuff",
+        "Useful Unity Stuff",
+        "Open-Source Projects",
+        "Open-Source Gamedev Stuff",
+        "Useful Gamedev Stuff"
+    ],
     "license": {
         "key": "mit",
         "name": "MIT License",
