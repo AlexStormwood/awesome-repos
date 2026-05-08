@@ -1,0 +1,26 @@
+{
+    "owner": "react-dropzone",
+    "owner_type": "Organization",
+    "homepage": "https://react-dropzone.js.org/",
+    "url": "https://github.com/react-dropzone/react-dropzone",
+    "description": "Simple HTML5 drag-drop zone with React.js.",
+    "name": "react-dropzone",
+    "full_name": "react-dropzone/react-dropzone",
+    "id": 24530655,
+    "topics": [
+        "drag-and-drop",
+        "file",
+        "file-upload",
+        "react"
+    ],
+    "lists": [
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

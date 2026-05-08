@@ -1,0 +1,23 @@
+{
+    "owner": "IronWarrior",
+    "owner_type": "User",
+    "homepage": "https://roystan.net/articles/toon-shader",
+    "url": "https://github.com/IronWarrior/UnityToonShader",
+    "description": "Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.",
+    "name": "UnityToonShader",
+    "full_name": "IronWarrior/UnityToonShader",
+    "id": 164940362,
+    "topics": [],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulCSharpStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+    }
+}

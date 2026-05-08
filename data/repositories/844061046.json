@@ -1,0 +1,21 @@
+{
+    "owner": "w-okada",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/w-okada/ttsclient",
+    "description": "",
+    "name": "ttsclient",
+    "full_name": "w-okada/ttsclient",
+    "id": 844061046,
+    "topics": [],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

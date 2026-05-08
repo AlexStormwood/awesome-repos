@@ -1,0 +1,26 @@
+{
+    "owner": "dotsnav",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/dotsnav/dotsnav",
+    "description": "A fully dynamic planar navmesh for Unity supporting agents of any size",
+    "name": "dotsnav",
+    "full_name": "dotsnav/dotsnav",
+    "id": 325070835,
+    "topics": [
+        "dots",
+        "navmesh",
+        "pathfinding",
+        "unity"
+    ],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "zlib",
+        "name": "zlib License",
+        "spdx_id": "Zlib",
+        "url": "https://api.github.com/licenses/zlib",
+        "node_id": "MDc6TGljZW5zZTI3"
+    }
+}

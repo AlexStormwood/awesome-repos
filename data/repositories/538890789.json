@@ -1,0 +1,30 @@
+{
+    "owner": "codegouvfr",
+    "owner_type": "Organization",
+    "homepage": "https://react-dsfr.codegouv.studio",
+    "url": "https://github.com/codegouvfr/react-dsfr",
+    "description": "🇫🇷 The French Government Design system React toolkit",
+    "name": "react-dsfr",
+    "full_name": "codegouvfr/react-dsfr",
+    "id": 538890789,
+    "topics": [
+        "bluehats",
+        "design-system",
+        "dsfr",
+        "react",
+        "storybook",
+        "typescript"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

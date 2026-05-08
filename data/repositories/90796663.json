@@ -1,0 +1,33 @@
+{
+    "owner": "puppeteer",
+    "owner_type": "Organization",
+    "homepage": "https://pptr.dev",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox",
+    "name": "puppeteer",
+    "full_name": "puppeteer/puppeteer",
+    "id": 90796663,
+    "topics": [
+        "automation",
+        "chrome",
+        "chromium",
+        "developer-tools",
+        "firefox",
+        "headless-chrome",
+        "node-module",
+        "testing",
+        "web"
+    ],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulProgrammingConceptStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

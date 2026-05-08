@@ -1,0 +1,37 @@
+{
+    "owner": "open-webui",
+    "owner_type": "Organization",
+    "homepage": "https://openwebui.com",
+    "url": "https://github.com/open-webui/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "name": "open-webui",
+    "full_name": "open-webui/open-webui",
+    "id": 701547123,
+    "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

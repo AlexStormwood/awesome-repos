@@ -1,0 +1,26 @@
+{
+    "owner": "focus-trap",
+    "owner_type": "Organization",
+    "homepage": "http://focus-trap.github.io/focus-trap-react/demo/",
+    "url": "https://github.com/focus-trap/focus-trap-react",
+    "description": "A React component that traps focus",
+    "name": "focus-trap-react",
+    "full_name": "focus-trap/focus-trap-react",
+    "id": 40778753,
+    "topics": [
+        "dependabot",
+        "focus-trap",
+        "react-a11y",
+        "tappable"
+    ],
+    "lists": [
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "owner": "jimp-dev",
+    "owner_type": "Organization",
+    "homepage": "http://jimp-dev.github.io/jimp/",
+    "url": "https://github.com/jimp-dev/jimp",
+    "description": "An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.",
+    "name": "jimp",
+    "full_name": "jimp-dev/jimp",
+    "id": 24008065,
+    "topics": [],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

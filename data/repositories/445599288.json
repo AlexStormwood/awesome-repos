@@ -1,0 +1,31 @@
+{
+    "owner": "faker-js",
+    "owner_type": "Organization",
+    "homepage": "https://fakerjs.dev",
+    "url": "https://github.com/faker-js/faker",
+    "description": "Generate massive amounts of fake data in the browser and node.js",
+    "name": "faker",
+    "full_name": "faker-js/faker",
+    "id": 445599288,
+    "topics": [
+        "browser",
+        "data",
+        "fake",
+        "faker",
+        "javascript",
+        "nodejs",
+        "typescript"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

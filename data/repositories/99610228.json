@@ -1,0 +1,15 @@
+{
+    "owner": "razerofficial",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/razerofficial/UnityNativeChromaSDK",
+    "description": "[Deprecated] Control Chroma Lighting with the Unity Native Chroma Plugin",
+    "name": "UnityNativeChromaSDK",
+    "full_name": "razerofficial/UnityNativeChromaSDK",
+    "id": 99610228,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

@@ -1,0 +1,32 @@
+{
+    "owner": "tom-wolfe",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/tom-wolfe/brewdown",
+    "description": "A markdown parser and stylesheet specifically for D&D homebrew",
+    "name": "brewdown",
+    "full_name": "tom-wolfe/brewdown",
+    "id": 98861469,
+    "topics": [
+        "css",
+        "dnd",
+        "dnd5e",
+        "formatting",
+        "homebrew",
+        "javascript",
+        "markdown",
+        "markdown-it",
+        "markdown-it-plugin"
+    ],
+    "lists": [
+        "interestingProjects",
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

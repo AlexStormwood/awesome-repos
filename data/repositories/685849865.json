@@ -1,0 +1,18 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/html-css-js-example",
+    "description": "Example project where tasks can be dragged & dropped across kanban-style columns.",
+    "name": "html-css-js-example",
+    "full_name": "AlexStormwood/html-css-js-example",
+    "id": 685849865,
+    "topics": [],
+    "lists": [
+        "ca2023FebStandardCohort",
+        "ca2023OctStandardCohort",
+        "personalEducationalRepos",
+        "usefulFrontendStuff"
+    ],
+    "license": null
+}

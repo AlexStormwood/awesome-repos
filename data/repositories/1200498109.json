@@ -1,0 +1,35 @@
+{
+    "owner": "FedeFluork",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/FedeFluork/rolling-vine",
+    "description": "Cross-browser extension for monitoring Amazon Vine rolling periods review risk (30/60/90 days).",
+    "name": "rolling-vine",
+    "full_name": "FedeFluork/rolling-vine",
+    "id": 1200498109,
+    "topics": [
+        "amazon",
+        "amazon-vine",
+        "chrome",
+        "chrome-extension",
+        "firefox",
+        "firefox-addon",
+        "javascript",
+        "monitor",
+        "periods",
+        "reviews",
+        "vine",
+        "vine-jail"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

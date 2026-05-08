@@ -1,0 +1,15 @@
+{
+    "owner": "tuckbone",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/tuckbone/DualContouringCSharp",
+    "description": "A Dual Contouring Example using C# and Unity3D",
+    "name": "DualContouringCSharp",
+    "full_name": "tuckbone/DualContouringCSharp",
+    "id": 35431484,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

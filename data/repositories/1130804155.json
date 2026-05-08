@@ -1,0 +1,22 @@
+{
+    "owner": "afx-team",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/afx-team/agent-skill-npm-boilerplate",
+    "description": "A template for creating and publishing Claude Code skills as npm packages",
+    "name": "agent-skill-npm-boilerplate",
+    "full_name": "afx-team/agent-skill-npm-boilerplate",
+    "id": 1130804155,
+    "topics": [],
+    "lists": [
+        "generativeAiStuff",
+        "usefulNodeJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "owner": "sharevb",
+    "owner_type": "User",
+    "homepage": "https://sharevb-it-tools.vercel.app",
+    "url": "https://github.com/sharevb/it-tools",
+    "description": "My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )",
+    "name": "it-tools",
+    "full_name": "sharevb/it-tools",
+    "id": 725476749,
+    "topics": [],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

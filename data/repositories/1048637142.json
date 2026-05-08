@@ -1,0 +1,29 @@
+{
+    "owner": "capawesome-team",
+    "owner_type": "Organization",
+    "homepage": "https://capawesome.io/",
+    "url": "https://github.com/capawesome-team/capver",
+    "description": "⚡ CLI for managing versions in a Capacitor project across multiple platforms.",
+    "name": "capver",
+    "full_name": "capawesome-team/capver",
+    "id": 1048637142,
+    "topics": [
+        "android",
+        "capacitor",
+        "capawesome",
+        "cli",
+        "ionic",
+        "ios"
+    ],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "owner": "mixandjam",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/mixandjam/Superhot-BulletTime",
+    "description": "Recreating the Slow Motion mechanic from SUPERHOT",
+    "name": "Superhot-BulletTime",
+    "full_name": "mixandjam/Superhot-BulletTime",
+    "id": 224293602,
+    "topics": [],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

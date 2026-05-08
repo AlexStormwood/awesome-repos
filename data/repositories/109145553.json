@@ -1,0 +1,28 @@
+{
+    "owner": "containers",
+    "owner_type": "Organization",
+    "homepage": "https://podman.io",
+    "url": "https://github.com/containers/podman",
+    "description": "Podman: A tool for managing OCI containers and pods.",
+    "name": "podman",
+    "full_name": "containers/podman",
+    "id": 109145553,
+    "topics": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "linux",
+        "oci"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

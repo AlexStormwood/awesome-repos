@@ -1,0 +1,22 @@
+{
+    "owner": "successible",
+    "owner_type": "Organization",
+    "homepage": "https://cleanslate.sh",
+    "url": "https://github.com/successible/cleanslate",
+    "description": "☀️ Track food without judgment",
+    "name": "cleanslate",
+    "full_name": "successible/cleanslate",
+    "id": 711359613,
+    "topics": [],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

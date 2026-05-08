@@ -1,0 +1,22 @@
+{
+    "owner": "id-Software",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/id-Software/DOOM-3",
+    "description": "Doom 3 GPL source release",
+    "name": "DOOM-3",
+    "full_name": "id-Software/DOOM-3",
+    "id": 3321351,
+    "topics": [],
+    "lists": [
+        "interestingProjects",
+        "openSourceGames"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

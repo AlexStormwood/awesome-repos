@@ -1,0 +1,33 @@
+{
+    "owner": "Vexa-ai",
+    "owner_type": "Organization",
+    "homepage": "https://vexa.ai",
+    "url": "https://github.com/Vexa-ai/vexa",
+    "description": "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.",
+    "name": "vexa",
+    "full_name": "Vexa-ai/vexa",
+    "id": 928857407,
+    "topics": [
+        "google-meet",
+        "meeting-assistant",
+        "meeting-minutes",
+        "meeting-notes",
+        "ms-teams",
+        "ms-teams-app",
+        "notetaker",
+        "zoom"
+    ],
+    "lists": [
+        "generativeAiStuff",
+        "interestingProjects",
+        "openSourceSoftwareProjects",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

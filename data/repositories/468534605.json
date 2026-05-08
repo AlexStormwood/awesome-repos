@@ -1,0 +1,20 @@
+{
+    "owner": "austenstone",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/austenstone/markdown-interpolation-action",
+    "description": "An action for text interpolation that lets you incorporate dynamic string values into your markdown files.",
+    "name": "markdown-interpolation-action",
+    "full_name": "austenstone/markdown-interpolation-action",
+    "id": 468534605,
+    "topics": [
+        "actions",
+        "interpolation",
+        "markdown"
+    ],
+    "lists": [
+        "usefulGitHubActionsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": null
+}

@@ -1,0 +1,15 @@
+{
+    "owner": "id-Software",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/id-Software/wolf3d",
+    "description": "The original open source release of Wolfenstein 3D",
+    "name": "wolf3d",
+    "full_name": "id-Software/wolf3d",
+    "id": 3368503,
+    "topics": [],
+    "lists": [
+        "openSourceGames"
+    ],
+    "license": null
+}

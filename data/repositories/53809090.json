@@ -1,0 +1,29 @@
+{
+    "owner": "juliangarnier",
+    "owner_type": "User",
+    "homepage": "https://animejs.com",
+    "url": "https://github.com/juliangarnier/anime",
+    "description": "JavaScript animation engine",
+    "name": "anime",
+    "full_name": "juliangarnier/anime",
+    "id": 53809090,
+    "topics": [
+        "animation",
+        "anime",
+        "canvas",
+        "css",
+        "javascript",
+        "javascript-library",
+        "svg"
+    ],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

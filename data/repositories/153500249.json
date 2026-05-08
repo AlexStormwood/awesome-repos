@@ -1,0 +1,30 @@
+{
+    "owner": "sdras",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/sdras/awesome-actions",
+    "description": "A curated list of awesome actions to use on GitHub",
+    "name": "awesome-actions",
+    "full_name": "sdras/awesome-actions",
+    "id": 153500249,
+    "topics": [
+        "actions",
+        "actions-list",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "curated-list",
+        "github",
+        "github-actions"
+    ],
+    "lists": [
+        "usefulGitHubActionsStuff"
+    ],
+    "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+    }
+}

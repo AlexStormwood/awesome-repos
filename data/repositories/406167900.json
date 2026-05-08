@@ -1,0 +1,26 @@
+{
+    "owner": "oslabs-beta",
+    "owner_type": "Organization",
+    "homepage": "https://sapling-extension.com",
+    "url": "https://github.com/oslabs-beta/sapling",
+    "description": "Sapling - A convenient way to traverse your React app in VS Code",
+    "name": "sapling",
+    "full_name": "oslabs-beta/sapling",
+    "id": 406167900,
+    "topics": [
+        "devtools",
+        "react",
+        "vscode-extension"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

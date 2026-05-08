@@ -1,0 +1,29 @@
+{
+    "owner": "mantinedev",
+    "owner_type": "Organization",
+    "homepage": "https://mantine.dev",
+    "url": "https://github.com/mantinedev/mantine",
+    "description": "A fully featured React components library",
+    "name": "mantine",
+    "full_name": "mantinedev/mantine",
+    "id": 327628682,
+    "topics": [
+        "dark-mode",
+        "dark-theme",
+        "hooks",
+        "react",
+        "typescript",
+        "uikit"
+    ],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

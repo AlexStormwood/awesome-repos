@@ -1,0 +1,26 @@
+{
+    "owner": "yahoo",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/yahoo/react-stickynode",
+    "description": "A performant and comprehensive React sticky component.",
+    "name": "react-stickynode",
+    "full_name": "yahoo/react-stickynode",
+    "id": 45119982,
+    "topics": [
+        "react",
+        "react-sticky",
+        "ui",
+        "web"
+    ],
+    "lists": [
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

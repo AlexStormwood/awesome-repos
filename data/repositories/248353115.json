@@ -1,0 +1,31 @@
+{
+    "owner": "FNA-XNA",
+    "owner_type": "Organization",
+    "homepage": "http://fna-xna.github.io/",
+    "url": "https://github.com/FNA-XNA/FNA3D",
+    "description": "FNA3D - 3D Graphics Library for FNA",
+    "name": "FNA3D",
+    "full_name": "FNA-XNA/FNA3D",
+    "id": 248353115,
+    "topics": [
+        "direct3d",
+        "gamedev",
+        "linux",
+        "macos",
+        "metal",
+        "opengl",
+        "steamos",
+        "vulkan",
+        "windows"
+    ],
+    "lists": [
+        "openSourceGamedevStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

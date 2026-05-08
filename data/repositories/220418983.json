@@ -1,0 +1,26 @@
+{
+    "owner": "amannn",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/amannn/action-semantic-pull-request",
+    "description": "A GitHub Action that ensures that your PR title matches the Conventional Commits spec",
+    "name": "action-semantic-pull-request",
+    "full_name": "amannn/action-semantic-pull-request",
+    "id": 220418983,
+    "topics": [
+        "conventional-commits",
+        "github-action",
+        "pr-title",
+        "pull-requests"
+    ],
+    "lists": [
+        "usefulGitHubActionsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "owner": "google",
+    "owner_type": "Organization",
+    "homepage": "http://google.github.io/material-design-icons/",
+    "url": "https://github.com/google/material-design-icons",
+    "description": "Material Design icons by Google (Material Symbols)",
+    "name": "material-design-icons",
+    "full_name": "google/material-design-icons",
+    "id": 24953448,
+    "topics": [
+        "android",
+        "icons",
+        "ios",
+        "material",
+        "material-design",
+        "sprites",
+        "web"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

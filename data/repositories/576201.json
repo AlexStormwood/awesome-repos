@@ -1,0 +1,35 @@
+{
+    "owner": "mrdoob",
+    "owner_type": "User",
+    "homepage": "https://threejs.org/",
+    "url": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D Library.",
+    "name": "three.js",
+    "full_name": "mrdoob/three.js",
+    "id": 576201,
+    "topics": [
+        "3d",
+        "augmented-reality",
+        "canvas",
+        "html5",
+        "javascript",
+        "svg",
+        "virtual-reality",
+        "webaudio",
+        "webgl",
+        "webgl2",
+        "webgpu",
+        "webxr"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

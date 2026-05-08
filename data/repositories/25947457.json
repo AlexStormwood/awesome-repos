@@ -1,0 +1,30 @@
+{
+    "owner": "Real-Serious-Games",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Real-Serious-Games/C-Sharp-Promise",
+    "description": "Promises library for C# for management of asynchronous operations.",
+    "name": "C-Sharp-Promise",
+    "full_name": "Real-Serious-Games/C-Sharp-Promise",
+    "id": 25947457,
+    "topics": [
+        "async-operation",
+        "c-sharp",
+        "game-development",
+        "promise",
+        "unity",
+        "unity3d"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulCSharpStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

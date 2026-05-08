@@ -1,0 +1,28 @@
+{
+    "owner": "GoogleChrome",
+    "owner_type": "Organization",
+    "homepage": "https://developers.google.com/web/tools/workbox/",
+    "url": "https://github.com/GoogleChrome/workbox",
+    "description": "📦 Workbox: JavaScript libraries for Progressive Web Apps",
+    "name": "workbox",
+    "full_name": "GoogleChrome/workbox",
+    "id": 55424670,
+    "topics": [
+        "offline-first",
+        "progressive-web-app",
+        "service-worker",
+        "service-workers",
+        "sw-precache",
+        "sw-toolbox"
+    ],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

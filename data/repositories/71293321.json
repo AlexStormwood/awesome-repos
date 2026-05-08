@@ -1,0 +1,27 @@
+{
+    "owner": "diegomura",
+    "owner_type": "User",
+    "homepage": "https://react-pdf.org",
+    "url": "https://github.com/diegomura/react-pdf",
+    "description": "📄  Create PDF files using React",
+    "name": "react-pdf",
+    "full_name": "diegomura/react-pdf",
+    "id": 71293321,
+    "topics": [
+        "flexbox",
+        "pdf",
+        "react",
+        "renderer"
+    ],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

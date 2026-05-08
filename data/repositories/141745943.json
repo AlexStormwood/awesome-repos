@@ -1,0 +1,37 @@
+{
+    "owner": "MirrorNetworking",
+    "owner_type": "Organization",
+    "homepage": "https://mirror-networking.com",
+    "url": "https://github.com/MirrorNetworking/Mirror",
+    "description": "#1 Open Source Unity Networking Library",
+    "name": "Mirror",
+    "full_name": "MirrorNetworking/Mirror",
+    "id": 141745943,
+    "topics": [
+        "games",
+        "hlapi",
+        "kcp",
+        "libuv",
+        "mirror",
+        "mmo",
+        "mmorpg",
+        "mmos",
+        "networking",
+        "tcp",
+        "telepathy",
+        "udp",
+        "ummorpg",
+        "unet",
+        "unity"
+    ],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

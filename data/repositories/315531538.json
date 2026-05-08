@@ -1,0 +1,28 @@
+{
+    "owner": "sindresorhus",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/sindresorhus/yocto-queue",
+    "description": "Tiny queue data structure",
+    "name": "yocto-queue",
+    "full_name": "sindresorhus/yocto-queue",
+    "id": 315531538,
+    "topics": [
+        "algorithms-and-data-structures",
+        "npm-package",
+        "queue",
+        "queue-data-stucture"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff",
+        "usefulNodeJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "owner": "HanMoeHtet",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/HanMoeHtet/typeorm-translatable",
+    "description": "Translation classes, utils, custom repositories and decorators for i18n in TypeORM.",
+    "name": "typeorm-translatable",
+    "full_name": "HanMoeHtet/typeorm-translatable",
+    "id": 512223676,
+    "topics": [],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

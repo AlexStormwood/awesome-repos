@@ -1,0 +1,21 @@
+{
+    "owner": "tom-james-watson",
+    "owner_type": "User",
+    "homepage": "https://snapcraft.io/emote",
+    "url": "https://github.com/tom-james-watson/Emote",
+    "description": "Emoji Picker for Linux written in GTK3",
+    "name": "Emote",
+    "full_name": "tom-james-watson/Emote",
+    "id": 253234080,
+    "topics": [],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

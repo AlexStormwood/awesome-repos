@@ -1,0 +1,21 @@
+{
+    "owner": "batocera-linux",
+    "owner_type": "Organization",
+    "homepage": "https://batocera.org",
+    "url": "https://github.com/batocera-linux/batocera.linux",
+    "description": "batocera.linux",
+    "name": "batocera.linux",
+    "full_name": "batocera-linux/batocera.linux",
+    "id": 47568055,
+    "topics": [],
+    "lists": [
+        "interestingProjects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

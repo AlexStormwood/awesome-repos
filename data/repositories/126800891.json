@@ -1,0 +1,21 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Unity-Technologies/SuperScience",
+    "description": "Gems of Unity Labs for our user-base.",
+    "name": "SuperScience",
+    "full_name": "Unity-Technologies/SuperScience",
+    "id": 126800891,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

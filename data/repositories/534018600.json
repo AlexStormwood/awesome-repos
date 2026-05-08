@@ -1,0 +1,32 @@
+{
+    "owner": "PlayVoice",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/PlayVoice/lora-svc",
+    "description": "singing voice change based on whisper, and lora for singing voice clone",
+    "name": "lora-svc",
+    "full_name": "PlayVoice/lora-svc",
+    "id": 534018600,
+    "topics": [
+        "lora",
+        "singing-voice-conversion",
+        "speech-to-sing",
+        "uni-svc",
+        "vits",
+        "vits-svc",
+        "voice-change",
+        "voice-cloning",
+        "voice-conversion",
+        "whisper"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "owner": "linuxmint",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/linuxmint/cinnamon",
+    "description": "A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features. ",
+    "name": "cinnamon",
+    "full_name": "linuxmint/cinnamon",
+    "id": 3019537,
+    "topics": [],
+    "lists": [
+        "interestingProjects",
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

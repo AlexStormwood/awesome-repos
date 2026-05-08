@@ -1,0 +1,44 @@
+{
+    "owner": "iib0011",
+    "owner_type": "User",
+    "homepage": "https://omnitools.app",
+    "url": "https://github.com/iib0011/omni-tools",
+    "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+    "name": "omni-tools",
+    "full_name": "iib0011/omni-tools",
+    "id": 814882742,
+    "topics": [
+        "alternative",
+        "converter",
+        "data-manipulation",
+        "developer-tools",
+        "devtools",
+        "frontend",
+        "good-first-issue",
+        "image-manipulation",
+        "image-processing",
+        "javascript",
+        "pdf-manipulation",
+        "productivity",
+        "react",
+        "self-hosted",
+        "swissarmyknife",
+        "tools",
+        "typescript",
+        "video-manipulation",
+        "webapp",
+        "website"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

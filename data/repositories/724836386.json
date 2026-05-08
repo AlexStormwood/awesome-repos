@@ -1,0 +1,23 @@
+{
+    "owner": "discord",
+    "owner_type": "Organization",
+    "homepage": "https://discord.com/developers/docs/activities/overview",
+    "url": "https://github.com/discord/embedded-app-sdk",
+    "description": "🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.",
+    "name": "embedded-app-sdk",
+    "full_name": "discord/embedded-app-sdk",
+    "id": 724836386,
+    "topics": [],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

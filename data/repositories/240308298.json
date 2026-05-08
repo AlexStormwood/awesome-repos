@@ -1,0 +1,42 @@
+{
+    "owner": "Gictorbit",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/Gictorbit/photoshopCClinux",
+    "description": "Photoshop CC v19  installer for Gnu/Linux",
+    "name": "photoshopCClinux",
+    "full_name": "Gictorbit/photoshopCClinux",
+    "id": 240308298,
+    "topics": [
+        "adobe-photoshop",
+        "arch",
+        "bash",
+        "gictor",
+        "gictorbit",
+        "gimp",
+        "gnome",
+        "gnu-linux",
+        "inkscape",
+        "installer-script",
+        "linux",
+        "photoshop",
+        "photoshop-cc",
+        "photoshop-installation",
+        "playonlinux",
+        "shell-script",
+        "ubuntu",
+        "wine",
+        "winehq",
+        "winetricks"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

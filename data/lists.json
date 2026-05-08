@@ -1,0 +1,182 @@
+[
+	{
+		"id": "ait2026T1Pgm1001WebDevelopmentSubject",
+		"name": "AIT - 2026-T1 PGM1001 Web Development Subject",
+		"description": "AIT PGM1001 Web Development subject for Term 1, 2026."
+	},
+	{
+		"id": "ca2021FebStandardCohort",
+		"name": "CA - 2021-FEB Standard Cohort",
+		"description": "Coder Academy standard bootcamp cohort of February 2021."
+	},
+	{
+		"id": "ca2022FebStandardCohort",
+		"name": "CA - 2022-FEB Standard Cohort",
+		"description": "Coder Academy standard bootcamp cohort of February 2022."
+	},
+	{
+		"id": "ca2022OctStandardCohort",
+		"name": "CA - 2022-OCT Standard Cohort",
+		"description": "Coder Academy standard bootcamp cohort of October 2022."
+	},
+	{
+		"id": "ca2023FebStandardCohort",
+		"name": "CA - 2023-FEB Standard Cohort",
+		"description": "Coder Academy standard bootcamp cohort of February 2023."
+	},
+	{
+		"id": "ca2023MayStandardCohort",
+		"name": "CA - 2023-MAY Standard Cohort",
+		"description": "Coder Academy standard bootcamp cohort of May 2023."
+	},
+	{
+		"id": "ca2023OctStandardCohort",
+		"name": "CA - 2023-OCT Standard Cohort",
+		"description": "Coder Academy standard bootcamp cohort of October 2023."
+	},
+	{
+		"id": "ca2024FebStandardCohort",
+		"name": "CA - 2024-FEB Standard Cohort",
+		"description": "Coder Academy standard bootcamp cohort of February 2024."
+	},
+	{
+		"id": "ca2024JulDwdCohort",
+		"name": "CA - 2024-JUL DWD Cohort",
+		"description": "Coder Academy Diploma of Web Development bootcamp cohort of July 2024."
+	},
+	{
+		"id": "ca2024MarAcceleratedCohort",
+		"name": "CA - 2024-MAR Accelerated Cohort",
+		"description": "Coder Academy accelerated bootcamp cohort of March 2024."
+	},
+	{
+		"id": "ca2024OctDwdCohort",
+		"name": "CA - 2024-OCT DWD Cohort",
+		"description": "Coder Academy Diploma of Web Development bootcamp cohort of October 2024."
+	},
+	{
+		"id": "ca2025JanPtDwdCohort",
+		"name": "CA - 2025-JAN-PT DWD Cohort",
+		"description": "Coder Academy part-time Diploma of Web Development bootcamp cohort of January 2025."
+	},
+	{
+		"id": "ca2025MarDwdCohort",
+		"name": "CA - 2025-MAR DWD Cohort",
+		"description": "Coder Academy Diploma of Web Development bootcamp cohort of March 2025."
+	},
+	{
+		"id": "caMarketingWebinarDemos",
+		"name": "CA - Marketing Webinar Demos",
+		"description": "Super brief live coding demos from some marketing webinars for Coder Academy."
+	},
+	{
+		"id": "funnyProgrammingThings",
+		"name": "Funny Programming Things",
+		"description": "Jokes, novelty projects, and playful repositories about programming culture or developer life."
+	},
+	{
+		"id": "generativeAiStuff",
+		"name": "Generative AI Stuff",
+		"description": "Tools, models, interfaces, and references for generative AI workflows, including text, image, audio, and local AI experiments."
+	},
+	{
+		"id": "groups",
+		"name": "Groups",
+		"description": "GitHub organizations and community groups that collect related projects, tools, or learning resources in one place."
+	},
+	{
+		"id": "interestingProjects",
+		"name": "Interesting Projects",
+		"description": "Unusual, impressive, or technically interesting repositories worth revisiting for inspiration or reference."
+	},
+	{
+		"id": "openSourceGamedevStuff",
+		"name": "Open Source Gamedev Stuff",
+		"description": "Open-source game development engines, frameworks, tools, and technical examples."
+	},
+	{
+		"id": "openSourceGames",
+		"name": "Open-Source Games",
+		"description": "Open-source, decompiled - if the source code is out for the public to see and use, it can fit in this list."
+	},
+	{
+		"id": "openSourceSoftwareProjects",
+		"name": "Open-Source Software Projects",
+		"description": "Notable open-source applications and tools that are useful to study, use, self-host, or contribute to."
+	},
+	{
+		"id": "personalCustomGitHubActions",
+		"name": "Personal - Custom GitHub Actions",
+		"description": "GitHub Actions that I've made, all in one place. Enjoy!"
+	},
+	{
+		"id": "personalEducationalRepos",
+		"name": "Personal - Educational Repos",
+		"description": "Assorted repos on various tech stacks that are designed to teach you, the reader, about whatever the repo is about. Expect code comments and markdown files!"
+	},
+	{
+		"id": "personalHandyRepos",
+		"name": "Personal - Handy Repos",
+		"description": "Useful tools, documentation, or other things stored for my own usage. Probably not documented as thoroughly as the \"Personal - Educational Repos\" list!"
+	},
+	{
+		"id": "usefulCSharpStuff",
+		"name": "Useful C# Stuff",
+		"description": "C# libraries, frameworks, examples, and reference material for .NET and game development workflows."
+	},
+	{
+		"id": "usefulFrontendStuff",
+		"name": "Useful Frontend Stuff",
+		"description": "Non-React stuff - I have another list for React-specific things!"
+	},
+	{
+		"id": "usefulGitHubActionsStuff",
+		"name": "Useful GitHub Actions Stuff",
+		"description": "GitHub Actions, workflow examples, and automation helpers for CI, releases, reporting, and repository maintenance."
+	},
+	{
+		"id": "usefulGodotStuff",
+		"name": "Useful Godot Stuff",
+		"description": "Godot engine tools, plugins, examples, and learning resources for building games."
+	},
+	{
+		"id": "usefulKritaThings",
+		"name": "Useful Krita Things",
+		"description": "Krita plugins, brushes, templates, workflows, and creative tooling for digital art production."
+	},
+	{
+		"id": "usefulNodeJsStuff",
+		"name": "Useful NodeJS Stuff",
+		"description": "Node.js libraries, tooling, examples, and backend development resources worth keeping handy."
+	},
+	{
+		"id": "usefulProgrammingConceptStuff",
+		"name": "Useful Programming Concept Stuff",
+		"description": "Resources that explain broad software engineering concepts, architecture patterns, algorithms, testing, and implementation techniques."
+	},
+	{
+		"id": "usefulReactJsStuff",
+		"name": "Useful ReactJS Stuff",
+		"description": "React-specific libraries, components, frameworks, examples, and learning resources for building user interfaces with React."
+	},
+	{
+		"id": "usefulRustStuff",
+		"name": "Useful Rust Stuff",
+		"description": "Rust libraries, tools, examples, and learning resources for systems programming and application development."
+	},
+	{
+		"id": "usefulStreamingStuff",
+		"name": "Useful Streaming Stuff",
+		"description": "Tools, plugins, assets, and integrations useful for livestreaming, recording, overlays, or broadcast workflows."
+	},
+	{
+		"id": "usefulTypeScriptStuff",
+		"name": "Useful TypeScript Stuff",
+		"description": "TypeScript libraries, tooling, type utilities, examples, and reference material for stronger JavaScript projects."
+	},
+	{
+		"id": "usefulUnityStuff",
+		"name": "Useful Unity Stuff",
+		"description": "Unity packages, tools, samples, shaders, and learning resources for game development."
+	}
+]

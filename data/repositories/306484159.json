@@ -1,0 +1,44 @@
+{
+    "owner": "extension-js",
+    "owner_type": "Organization",
+    "homepage": "https://extension.js.org",
+    "url": "https://github.com/extension-js/extension.js",
+    "description": "The cross-browser extension framework.",
+    "name": "extension.js",
+    "full_name": "extension-js/extension.js",
+    "id": 306484159,
+    "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "cli",
+        "content-script",
+        "cross-browser",
+        "edge-extension",
+        "extension-js",
+        "firefox-extension",
+        "manifest-v3",
+        "playwright",
+        "preact",
+        "react",
+        "safari-web-extension",
+        "scaffold",
+        "starter-template",
+        "svelte",
+        "typescript",
+        "vue",
+        "webextension",
+        "zero-config"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

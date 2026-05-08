@@ -1,0 +1,16 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/feb24-t3w7-journal-app",
+    "description": "Journal app that stores content in local storage, uses routing to view posts.",
+    "name": "feb24-t3w7-journal-app",
+    "full_name": "AlexStormwood/feb24-t3w7-journal-app",
+    "id": 863424048,
+    "topics": [],
+    "lists": [
+        "ca2024FebStandardCohort",
+        "personalEducationalRepos"
+    ],
+    "license": null
+}

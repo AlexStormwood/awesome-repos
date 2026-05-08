@@ -1,0 +1,27 @@
+{
+    "owner": "anuraghazra",
+    "owner_type": "User",
+    "homepage": "https://github-readme-stats.vercel.app",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "description": ":zap: Dynamically generated stats for your github readmes",
+    "name": "github-readme-stats",
+    "full_name": "anuraghazra/github-readme-stats",
+    "id": 278335273,
+    "topics": [
+        "dynamic",
+        "profile-readme",
+        "readme-generator",
+        "readme-stats",
+        "serverless"
+    ],
+    "lists": [
+        "interestingProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

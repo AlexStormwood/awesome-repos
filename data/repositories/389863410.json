@@ -1,0 +1,21 @@
+{
+    "owner": "FNA-XNA",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/FNA-XNA/NativeAOT-NX",
+    "description": "",
+    "name": "NativeAOT-NX",
+    "full_name": "FNA-XNA/NativeAOT-NX",
+    "id": 389863410,
+    "topics": [],
+    "lists": [
+        "openSourceGamedevStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "owner": "CorentinTh",
+    "owner_type": "User",
+    "homepage": "https://it-tools.tech",
+    "url": "https://github.com/CorentinTh/it-tools",
+    "description": "Collection of handy online tools for developers, with great UX. ",
+    "name": "it-tools",
+    "full_name": "CorentinTh/it-tools",
+    "id": 253222599,
+    "topics": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

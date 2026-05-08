@@ -1,0 +1,36 @@
+{
+    "owner": "TimboKZ",
+    "owner_type": "User",
+    "homepage": "https://chonky.io",
+    "url": "https://github.com/TimboKZ/Chonky",
+    "description": "😸 A File Browser component for React.",
+    "name": "Chonky",
+    "full_name": "TimboKZ/Chonky",
+    "id": 199281128,
+    "topics": [
+        "file",
+        "file-browser",
+        "file-dialog",
+        "file-explorer",
+        "files",
+        "filesystem",
+        "fs",
+        "react",
+        "react-file-browser",
+        "reactjs",
+        "thumbnails",
+        "typescript",
+        "virtualization"
+    ],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

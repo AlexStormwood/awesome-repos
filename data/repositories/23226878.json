@@ -1,0 +1,21 @@
+{
+    "owner": "SickheadGames",
+    "owner_type": "Organization",
+    "homepage": "http://brute.rocks",
+    "url": "https://github.com/SickheadGames/BRUTE",
+    "description": "Compile your C# games to portable C++.",
+    "name": "BRUTE",
+    "full_name": "SickheadGames/BRUTE",
+    "id": 23226878,
+    "topics": [],
+    "lists": [
+        "interestingProjects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

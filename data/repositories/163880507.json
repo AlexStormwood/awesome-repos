@@ -1,0 +1,21 @@
+{
+    "owner": "davidpol",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/davidpol/SurvivalShooterECS",
+    "description": "A port of Unity's official Survival Shooter tutorial to the Entity Component System.",
+    "name": "SurvivalShooterECS",
+    "full_name": "davidpol/SurvivalShooterECS",
+    "id": 163880507,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

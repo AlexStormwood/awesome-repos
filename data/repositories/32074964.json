@@ -1,0 +1,24 @@
+{
+    "owner": "mawrkus",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/mawrkus/js-unit-testing-guide",
+    "description": "📙  A guide to unit testing in Javascript",
+    "name": "js-unit-testing-guide",
+    "full_name": "mawrkus/js-unit-testing-guide",
+    "id": 32074964,
+    "topics": [
+        "best-practices",
+        "javascript",
+        "katas",
+        "tdd",
+        "testing",
+        "unit-test",
+        "unit-testing"
+    ],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": null
+}

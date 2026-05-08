@@ -1,0 +1,32 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "https://reactjs-ts-component-library-demo.netlify.app",
+    "url": "https://github.com/AlexStormwood/reactjs-ts-component-library-demo",
+    "description": "Demonstration of how to write a component library (NPM package) that shares a ReactJS component, written with TypeScript.",
+    "name": "reactjs-ts-component-library-demo",
+    "full_name": "AlexStormwood/reactjs-ts-component-library-demo",
+    "id": 960901476,
+    "topics": [
+        "github",
+        "npm",
+        "react",
+        "reactjs",
+        "typescript",
+        "vite"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "personalEducationalRepos",
+        "usefulNodeJsStuff",
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

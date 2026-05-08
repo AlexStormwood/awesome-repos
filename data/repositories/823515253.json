@@ -1,0 +1,29 @@
+{
+    "owner": "lameuler",
+    "owner_type": "User",
+    "homepage": "http://ler.quest/astro-pdf/",
+    "url": "https://github.com/lameuler/astro-pdf",
+    "description": "Astro integration to generate PDFs from pages in your site and other websites.",
+    "name": "astro-pdf",
+    "full_name": "lameuler/astro-pdf",
+    "id": 823515253,
+    "topics": [
+        "astro",
+        "astro-integration",
+        "pdf",
+        "pdf-generation",
+        "puppeteer"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

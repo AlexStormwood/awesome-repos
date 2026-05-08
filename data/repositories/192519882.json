@@ -1,0 +1,32 @@
+{
+    "owner": "dmnsgn",
+    "owner_type": "User",
+    "homepage": "https://dmnsgn.github.io/canvas-record/",
+    "url": "https://github.com/dmnsgn/canvas-record",
+    "description": "Record a video in the browser or directly on the File System from a canvas region (2D/WebGL/WebGPU) as MP4, WebM, MKV, MOV, GIF, PNG/JPG Sequence using WebCodecs and Wasm when available.",
+    "name": "canvas-record",
+    "full_name": "dmnsgn/canvas-record",
+    "id": 192519882,
+    "topics": [
+        "canvas",
+        "capture",
+        "download",
+        "filesystem",
+        "gif",
+        "mp4",
+        "record",
+        "video",
+        "webcodecs"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

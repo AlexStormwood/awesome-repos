@@ -1,0 +1,26 @@
+{
+    "owner": "dbrizov",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/dbrizov/Unity-WaterBuoyancy",
+    "description": "Water Buoyancy Simulation for Unity",
+    "name": "Unity-WaterBuoyancy",
+    "full_name": "dbrizov/Unity-WaterBuoyancy",
+    "id": 46291601,
+    "topics": [
+        "buoyancy",
+        "simulation",
+        "unity3d",
+        "water"
+    ],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

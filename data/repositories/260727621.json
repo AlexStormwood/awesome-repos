@@ -1,0 +1,29 @@
+{
+    "owner": "game-ci",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/game-ci/steam-deploy",
+    "description": "Github Action to deploy a game to Steam",
+    "name": "steam-deploy",
+    "full_name": "game-ci/steam-deploy",
+    "id": 260727621,
+    "topics": [
+        "deployment",
+        "game",
+        "sdk",
+        "ship",
+        "steam",
+        "steamworks"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulGitHubActionsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

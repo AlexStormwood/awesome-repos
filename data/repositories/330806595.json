@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/ExpressServerInDocker",
+    "description": "Demo of running an ExpressJS server in a Docker image.",
+    "name": "ExpressServerInDocker",
+    "full_name": "AlexStormwood/ExpressServerInDocker",
+    "id": 330806595,
+    "topics": [],
+    "lists": [
+        "personalEducationalRepos"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

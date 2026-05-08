@@ -1,0 +1,24 @@
+{
+    "owner": "jdan",
+    "owner_type": "User",
+    "homepage": "http://jdan.github.io/cleaver",
+    "url": "https://github.com/jdan/cleaver",
+    "description": "30-second slideshows for hackers",
+    "name": "cleaver",
+    "full_name": "jdan/cleaver",
+    "id": 6109274,
+    "topics": [
+        "markdown",
+        "slideshow"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

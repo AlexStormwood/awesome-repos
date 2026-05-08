@@ -1,0 +1,21 @@
+{
+    "owner": "genielabs",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/genielabs/intel-upnp-dlna",
+    "description": "C# UPnP library used in MIG / HomeGenie",
+    "name": "intel-upnp-dlna",
+    "full_name": "genielabs/intel-upnp-dlna",
+    "id": 46921670,
+    "topics": [],
+    "lists": [
+        "usefulCSharpStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

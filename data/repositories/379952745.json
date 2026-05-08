@@ -1,0 +1,27 @@
+{
+    "owner": "kerhub",
+    "owner_type": "Organization",
+    "homepage": "https://issue-forms-creator.netlify.app/",
+    "url": "https://github.com/kerhub/issue-forms-creator",
+    "description": "GitHub Issue Forms generator",
+    "name": "issue-forms-creator",
+    "full_name": "kerhub/issue-forms-creator",
+    "id": 379952745,
+    "topics": [
+        "angular",
+        "github",
+        "issue-management"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulProgrammingConceptStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

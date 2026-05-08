@@ -1,0 +1,25 @@
+{
+    "owner": "hoppula",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/hoppula/refire-forum",
+    "description": "Serverless discussion forum built with React, Redux and Firebase",
+    "name": "refire-forum",
+    "full_name": "hoppula/refire-forum",
+    "id": 53423804,
+    "topics": [
+        "board",
+        "discussion-board",
+        "firebase",
+        "forum",
+        "react",
+        "realtime",
+        "redux",
+        "thread"
+    ],
+    "lists": [
+        "interestingProjects",
+        "usefulReactJsStuff"
+    ],
+    "license": null
+}

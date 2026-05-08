@@ -1,0 +1,29 @@
+{
+    "owner": "rapidsai",
+    "owner_type": "Organization",
+    "homepage": "https://rapidsai.github.io/node/",
+    "url": "https://github.com/rapidsai/node",
+    "description": "GPU-accelerated data science and visualization in node",
+    "name": "node",
+    "full_name": "rapidsai/node",
+    "id": 268624770,
+    "topics": [
+        "cuda",
+        "data-science",
+        "data-visualization",
+        "gpgpu",
+        "gpu",
+        "nodejs"
+    ],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

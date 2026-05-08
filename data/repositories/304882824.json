@@ -1,0 +1,21 @@
+{
+    "owner": "GabLeRoux",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/GabLeRoux/github-actions-examples",
+    "description": "",
+    "name": "github-actions-examples",
+    "full_name": "GabLeRoux/github-actions-examples",
+    "id": 304882824,
+    "topics": [],
+    "lists": [
+        "usefulGitHubActionsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

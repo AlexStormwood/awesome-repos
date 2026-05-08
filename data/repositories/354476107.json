@@ -1,0 +1,24 @@
+{
+    "owner": "jellyfin-archive",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/jellyfin-archive/jellyfin-desktop-qt",
+    "description": "Jellyfin Desktop Client",
+    "name": "jellyfin-desktop-qt",
+    "full_name": "jellyfin-archive/jellyfin-desktop-qt",
+    "id": 354476107,
+    "topics": [
+        "jellyfin",
+        "jellyfin-client"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+    }
+}

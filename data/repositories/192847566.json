@@ -1,0 +1,21 @@
+{
+    "owner": "mixandjam",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/mixandjam/MarioKart-Drift",
+    "description": "Recreating the drifting mechanic from Mario Kart",
+    "name": "MarioKart-Drift",
+    "full_name": "mixandjam/MarioKart-Drift",
+    "id": 192847566,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

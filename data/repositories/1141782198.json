@@ -1,0 +1,31 @@
+{
+    "owner": "jamiepine",
+    "owner_type": "User",
+    "homepage": "https://voicebox.sh",
+    "url": "https://github.com/jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "name": "voicebox",
+    "full_name": "jamiepine/voicebox",
+    "id": 1141782198,
+    "topics": [
+        "ai",
+        "cuda",
+        "mlx",
+        "qwen3-tts",
+        "qwen3-tts-ui",
+        "voice-ai",
+        "voice-clone",
+        "whisper"
+    ],
+    "lists": [
+        "generativeAiStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

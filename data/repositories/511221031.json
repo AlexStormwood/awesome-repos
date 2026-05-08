@@ -1,0 +1,22 @@
+{
+    "owner": "kevin-david",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/kevin-david/promote-play-release",
+    "description": "",
+    "name": "promote-play-release",
+    "full_name": "kevin-david/promote-play-release",
+    "id": 511221031,
+    "topics": [],
+    "lists": [
+        "usefulGitHubActionsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

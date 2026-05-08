@@ -52,14 +52,14 @@ const { homepage, url, description, full_name, id, topics, lists, license, name,
 	<h5>License:</h5>
 	<ul>
 		<li>
-			{license.name || "Other"}
+			{license?.name || "Other"}
 		</li>
 	</ul>
 	<h5>Related topics:</h5>
 	<div style="display: flex; width: 100%; flex-wrap: wrap; flex-direction: row; justify-content: center; text-align: center; vertical-align: top;">
 		{topics.map((topic: string) => {
 			// console.log(topic);
-			return <div style="width: 50%;"><a href={"/tags/"+topic}>{topic}</a></div>
+			return <div style="width: 50%;"><a href={"/topics/"+topic}>{topic}</a></div>
 		})}
 	</div>
 	<h5>Related lists:</h5>

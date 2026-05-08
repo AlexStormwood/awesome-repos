@@ -1,0 +1,37 @@
+{
+    "owner": "rajinwonderland",
+    "owner_type": "User",
+    "homepage": "https://react-code-blocks.rajinwonderland.vercel.app",
+    "url": "https://github.com/rajinwonderland/react-code-blocks",
+    "description": "React code blocks and code snippet components",
+    "name": "react-code-blocks",
+    "full_name": "rajinwonderland/react-code-blocks",
+    "id": 185135090,
+    "topics": [
+        "highlightjs",
+        "hljs",
+        "js",
+        "jsx",
+        "mdx",
+        "prismjs",
+        "react",
+        "react-code-blocks",
+        "react-codemirror",
+        "react-codemirror2",
+        "react-components",
+        "remark",
+        "syntax-highlighting",
+        "syntax-theme"
+    ],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

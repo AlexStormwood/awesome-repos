@@ -1,0 +1,38 @@
+{
+    "owner": "React-Sight",
+    "owner_type": "Organization",
+    "homepage": "http://www.reactsight.com",
+    "url": "https://github.com/React-Sight/React-Sight",
+    "description": "Visualization tool for React, with support for Fiber, Router (v4), and Redux",
+    "name": "React-Sight",
+    "full_name": "React-Sight/React-Sight",
+    "id": 104247788,
+    "topics": [
+        "chrome",
+        "component-hierarchy",
+        "developer-tools",
+        "hacktober",
+        "hacktoberfest",
+        "javascript",
+        "react",
+        "react-component",
+        "react-fiber",
+        "react-redux",
+        "react-router",
+        "react-router-v4",
+        "reactjs",
+        "redux",
+        "visualization"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "owner": "localForage",
+    "owner_type": "Organization",
+    "homepage": "https://localforage.github.io/localForage",
+    "url": "https://github.com/localForage/localForage",
+    "description": "💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
+    "name": "localForage",
+    "full_name": "localForage/localForage",
+    "id": 14003349,
+    "topics": [
+        "indexeddb",
+        "javascript",
+        "localforage",
+        "localstorage",
+        "offline",
+        "storage",
+        "websql"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

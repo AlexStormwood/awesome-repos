@@ -1,0 +1,34 @@
+{
+    "owner": "AdultLink",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AdultLink/TexturePanner",
+    "description": "This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures",
+    "name": "TexturePanner",
+    "full_name": "AdultLink/TexturePanner",
+    "id": 143647816,
+    "topics": [
+        "game",
+        "game-development",
+        "gamedev",
+        "graphics",
+        "material",
+        "shader",
+        "shaders",
+        "unity",
+        "unity-3d",
+        "unity-asset",
+        "unity3d"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

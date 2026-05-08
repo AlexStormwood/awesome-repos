@@ -1,0 +1,35 @@
+{
+    "owner": "dotnet",
+    "owner_type": "Organization",
+    "homepage": "https://dot.net/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "name": "maui",
+    "full_name": "dotnet/maui",
+    "id": 262395224,
+    "topics": [
+        "android",
+        "desktop",
+        "dotnet",
+        "hacktoberfest",
+        "ios",
+        "maccatalyst",
+        "maui",
+        "microsoft",
+        "mobile",
+        "multi-platform",
+        "user-interface",
+        "winui",
+        "winui3"
+    ],
+    "lists": [
+        "usefulCSharpStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

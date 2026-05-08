@@ -1,0 +1,40 @@
+{
+    "owner": "baba-s",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/baba-s/awesome-unity-open-source-on-github",
+    "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
+    "name": "awesome-unity-open-source-on-github",
+    "full_name": "baba-s/awesome-unity-open-source-on-github",
+    "id": 225324670,
+    "topics": [
+        "awesome-list",
+        "unity",
+        "unity-asset",
+        "unity-assets",
+        "unity-editor",
+        "unity-extension",
+        "unity-mobile",
+        "unity-native",
+        "unity-plugin",
+        "unity-sample",
+        "unity-script",
+        "unity-scripts",
+        "unity-shader",
+        "unity-ui",
+        "unity3d",
+        "unity3d-plugin"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "openSourceSoftwareProjects",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+    }
+}

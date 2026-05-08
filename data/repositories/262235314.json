@@ -1,0 +1,30 @@
+{
+    "owner": "curiosity-ai",
+    "owner_type": "Organization",
+    "homepage": "https://github.com/curiosity-ai/h5",
+    "url": "https://github.com/curiosity-ai/h5",
+    "description": "🚀 The next generation C# to JavaScript compiler",
+    "name": "h5",
+    "full_name": "curiosity-ai/h5",
+    "id": 262235314,
+    "topics": [
+        "compiler",
+        "csharp",
+        "dotnet",
+        "dotnet-core",
+        "javascript",
+        "javascript-compiler",
+        "netcore",
+        "webdevelopment"
+    ],
+    "lists": [
+        "usefulCSharpStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

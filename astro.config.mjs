@@ -3,8 +3,10 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import { loadAllRepoData } from './src/utils/reposDataManipulator';
 
-// import data from "./src/data/repos.json";
+import listData from "./data/lists.json" with {type:"json"};
+
 let data = await loadAllRepoData();
+console.log(data[0])
 
 //#region Topics list
 let allRepoTopics = data.flatMap((repoObj) => {
@@ -29,7 +31,7 @@ sortedCountedTopicsList.sort((a, b) => Object.values(b)[0] - Object.values(a)[0]
 let topicsListAsSidebarLinks = [...sortedCountedTopicsList].map((topic) => {
 	return {
 		label: `${Object.keys(topic)[0]} (${Object.values(topic)[0]})`,
-		link: "/tags/"+Object.keys(topic)[0]
+		link: "/topics/"+Object.keys(topic)[0]
 	};
 });
 
@@ -68,14 +70,13 @@ sortedListNamesList = sortedListNamesList.sort();
 let listsListAsSidebarLinks = [...sortedListNamesList].map((listName) => {
 	return {
 		// @ts-ignore
-		label: `${listName} (${sortedCountedListsList.find((listCountObj) => Object.keys(listCountObj)[0] == [listName])[listName]})`,
+		label: `${listData.find((listObj) => listObj.id == listName ).name} (${sortedCountedListsList.find((listCountObj) => Object.keys(listCountObj)[0] == [listName])[listName]})`,
 		link: "/lists/"+listName
 	};
 });
 
 
 //#endregion
-
 
 // https://astro.build/config
 export default defineConfig({
@@ -99,7 +100,10 @@ export default defineConfig({
 					items: topicsListAsSidebarLinks
 				}
 			],
-			tableOfContents: false
+			tableOfContents: false,
+			customCss: [
+				"./src/styles/custom.css"
+			]
 		}),
 	],
 });

@@ -1,0 +1,34 @@
+{
+    "owner": "raphaelsalaja",
+    "owner_type": "User",
+    "homepage": "https://audio.raphaelsalaja.com",
+    "url": "https://github.com/raphaelsalaja/audio",
+    "description": "Declarative audio synthesis for the web",
+    "name": "audio",
+    "full_name": "raphaelsalaja/audio",
+    "id": 1201303861,
+    "topics": [
+        "audio",
+        "declarative",
+        "nextjs",
+        "react",
+        "sound-design",
+        "synthesizer",
+        "typescript",
+        "ui-sounds",
+        "web-audio",
+        "web-audio-api"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

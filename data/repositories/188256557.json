@@ -1,0 +1,21 @@
+{
+    "owner": "NVIDIAGameWorks",
+    "owner_type": "Organization",
+    "homepage": "https://developer.geforcenow.com/learn/guides/offerings-sdk",
+    "url": "https://github.com/NVIDIAGameWorks/GeForceNOW-SDK",
+    "description": "This is the home of the SDK for GeForce NOW",
+    "name": "GeForceNOW-SDK",
+    "full_name": "NVIDIAGameWorks/GeForceNOW-SDK",
+    "id": 188256557,
+    "topics": [],
+    "lists": [
+        "interestingProjects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

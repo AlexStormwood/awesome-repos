@@ -1,0 +1,26 @@
+{
+    "owner": "nfl",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/nfl/react-helmet",
+    "description": "A document head manager for React",
+    "name": "react-helmet",
+    "full_name": "nfl/react-helmet",
+    "id": 37627792,
+    "topics": [
+        "helmet",
+        "react",
+        "side-effect"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

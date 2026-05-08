@@ -1,0 +1,23 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/feb24-t4w1-mongoose-intro",
+    "description": "Intro to MongooseJS and MongoDB, review of ExpressJS.",
+    "name": "feb24-t4w1-mongoose-intro",
+    "full_name": "AlexStormwood/feb24-t4w1-mongoose-intro",
+    "id": 880162465,
+    "topics": [],
+    "lists": [
+        "ca2024FebStandardCohort",
+        "personalEducationalRepos",
+        "usefulNodeJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

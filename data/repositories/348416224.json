@@ -1,0 +1,29 @@
+{
+    "owner": "microsoft",
+    "owner_type": "Organization",
+    "homepage": "https://aka.ms/gamedevdocs",
+    "url": "https://github.com/microsoft/GDK",
+    "description": "Microsoft Public GDK",
+    "name": "GDK",
+    "full_name": "microsoft/GDK",
+    "id": 348416224,
+    "topics": [
+        "desktop",
+        "game-development",
+        "microsoft",
+        "sdk",
+        "xbox"
+    ],
+    "lists": [
+        "interestingProjects",
+        "openSourceGamedevStuff",
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

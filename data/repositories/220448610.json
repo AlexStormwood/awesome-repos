@@ -1,0 +1,22 @@
+{
+    "owner": "GoogleChromeLabs",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/GoogleChromeLabs/bubblewrap",
+    "description": "Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.",
+    "name": "bubblewrap",
+    "full_name": "GoogleChromeLabs/bubblewrap",
+    "id": 220448610,
+    "topics": [],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

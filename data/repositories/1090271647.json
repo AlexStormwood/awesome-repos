@@ -1,0 +1,41 @@
+{
+    "owner": "gamosoft",
+    "owner_type": "User",
+    "homepage": "https://www.notediscovery.com",
+    "url": "https://github.com/gamosoft/NoteDiscovery",
+    "description": "Your Self-Hosted Knowledge Base",
+    "name": "NoteDiscovery",
+    "full_name": "gamosoft/NoteDiscovery",
+    "id": 1090271647,
+    "topics": [
+        "alternative",
+        "docker",
+        "evernote",
+        "fastapi",
+        "free",
+        "hosted",
+        "knowledge-base",
+        "markdown",
+        "note",
+        "note-taking",
+        "notion",
+        "obsidian",
+        "onenote",
+        "open-source",
+        "privacy",
+        "python",
+        "second-brain",
+        "self-hosted",
+        "zettelkasten"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

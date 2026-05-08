@@ -1,0 +1,43 @@
+{
+    "owner": "laurent22",
+    "owner_type": "User",
+    "homepage": "https://joplinapp.org",
+    "url": "https://github.com/laurent22/joplin",
+    "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+    "name": "joplin",
+    "full_name": "laurent22/joplin",
+    "id": 79162682,
+    "topics": [
+        "android",
+        "dropbox",
+        "electron",
+        "enex-files",
+        "evernote",
+        "javascript",
+        "joplin",
+        "nextcloud",
+        "nodejs",
+        "note-taking",
+        "notesnook",
+        "obsidian",
+        "onedrive",
+        "react-native",
+        "standardnotes",
+        "synchronisation",
+        "web-clipper",
+        "webdav"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulNodeJsStuff",
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

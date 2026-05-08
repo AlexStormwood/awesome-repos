@@ -1,0 +1,21 @@
+{
+    "owner": "openai",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/openai/whisper",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "name": "whisper",
+    "full_name": "openai/whisper",
+    "id": 537603333,
+    "topics": [],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

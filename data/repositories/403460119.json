@@ -1,0 +1,16 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "html-speech-demo.vercel.app",
+    "url": "https://github.com/AlexStormwood/HtmlSpeechDemo",
+    "description": "Experiments with the SpeechSynthesis API.",
+    "name": "HtmlSpeechDemo",
+    "full_name": "AlexStormwood/HtmlSpeechDemo",
+    "id": 403460119,
+    "topics": [],
+    "lists": [
+        "personalEducationalRepos",
+        "usefulFrontendStuff"
+    ],
+    "license": null
+}

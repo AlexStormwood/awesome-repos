@@ -1,0 +1,26 @@
+{
+    "owner": "krisztianb",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/krisztianb/typedoc-plugin-merge-modules",
+    "description": "Plugin for TypeDoc that merges the content of modules",
+    "name": "typedoc-plugin-merge-modules",
+    "full_name": "krisztianb/typedoc-plugin-merge-modules",
+    "id": 332821599,
+    "topics": [
+        "merge",
+        "modules",
+        "typedoc",
+        "typedoc-plugin"
+    ],
+    "lists": [
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "isc",
+        "name": "ISC License",
+        "spdx_id": "ISC",
+        "url": "https://api.github.com/licenses/isc",
+        "node_id": "MDc6TGljZW5zZTEw"
+    }
+}

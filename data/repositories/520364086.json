@@ -1,0 +1,20 @@
+{
+    "owner": "CyberAgentGameEntertainment",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+    "description": "Unity Performance Tuning knowledge book",
+    "name": "UnityPerformanceTuningBible",
+    "full_name": "CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+    "id": 520364086,
+    "topics": [
+        "book",
+        "performance",
+        "tuning",
+        "unity"
+    ],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

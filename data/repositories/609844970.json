@@ -1,0 +1,17 @@
+{
+    "owner": "keijiro",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/keijiro/AIShader",
+    "description": "ChatGPT-powered shader generator for Unity",
+    "name": "AIShader",
+    "full_name": "keijiro/AIShader",
+    "id": 609844970,
+    "topics": [],
+    "lists": [
+        "generativeAiStuff",
+        "openSourceGamedevStuff",
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

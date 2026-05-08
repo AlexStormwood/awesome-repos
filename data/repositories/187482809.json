@@ -1,0 +1,32 @@
+{
+    "owner": "Eldemarkki",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/Eldemarkki/Marching-Cubes-Terrain",
+    "description": "Marching Cubes terrain implementation in Unity using the Job System and the Burst compiler",
+    "name": "Marching-Cubes-Terrain",
+    "full_name": "Eldemarkki/Marching-Cubes-Terrain",
+    "id": 187482809,
+    "topics": [
+        "isosurface",
+        "marching",
+        "marching-cubes",
+        "marching-cubes-algorithm",
+        "marching-cubes-terrain",
+        "terrain",
+        "unity",
+        "voxel",
+        "voxel-terrain"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

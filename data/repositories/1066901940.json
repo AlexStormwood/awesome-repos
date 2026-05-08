@@ -1,0 +1,21 @@
+{
+    "owner": "louislam",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/louislam/its-mytabs",
+    "description": "Open source, web based, self hostable guitar/bass tab (tablature) viewer and player, similar to Songsterr.",
+    "name": "its-mytabs",
+    "full_name": "louislam/its-mytabs",
+    "id": 1066901940,
+    "topics": [],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

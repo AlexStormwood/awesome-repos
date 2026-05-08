@@ -1,0 +1,29 @@
+{
+    "owner": "apache",
+    "owner_type": "Organization",
+    "homepage": "https://github.com/casbin/node-casbin",
+    "url": "https://github.com/apache/casbin-express-authz",
+    "description": "Casbin authorization middleware for Express.js: https://github.com/expressjs/express",
+    "name": "casbin-express-authz",
+    "full_name": "apache/casbin-express-authz",
+    "id": 144398704,
+    "topics": [
+        "authorization",
+        "casbin",
+        "express",
+        "expressjs",
+        "middleware",
+        "node-casbin"
+    ],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

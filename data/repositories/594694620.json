@@ -1,0 +1,26 @@
+{
+    "owner": "seanmcbroom",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/seanmcbroom/jellyfin-discord-webhooks",
+    "description": "Simple Discord webhook templates for Jellyfin notifications.",
+    "name": "jellyfin-discord-webhooks",
+    "full_name": "seanmcbroom/jellyfin-discord-webhooks",
+    "id": 594694620,
+    "topics": [
+        "discord",
+        "jellyfin",
+        "templates",
+        "webhook"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

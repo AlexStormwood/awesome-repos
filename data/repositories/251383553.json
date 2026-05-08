@@ -1,0 +1,27 @@
+{
+    "owner": "electronicarts",
+    "owner_type": "Organization",
+    "homepage": "https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/",
+    "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "description": "Command & Conquer: Remastered Collection",
+    "name": "CnC_Remastered_Collection",
+    "full_name": "electronicarts/CnC_Remastered_Collection",
+    "id": 251383553,
+    "topics": [
+        "command-and-conquer",
+        "open-source",
+        "real-time-strategy",
+        "rts"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "openSourceGames"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

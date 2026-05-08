@@ -1,0 +1,21 @@
+{
+    "owner": "ytdl-org",
+    "owner_type": "Organization",
+    "homepage": "http://ytdl-org.github.io/youtube-dl/",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "name": "youtube-dl",
+    "full_name": "ytdl-org/youtube-dl",
+    "id": 1039520,
+    "topics": [],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+    }
+}

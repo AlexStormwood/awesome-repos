@@ -1,0 +1,33 @@
+{
+    "owner": "Hazyzh",
+    "owner_type": "User",
+    "homepage": "https://hazyzh.github.io/report.html",
+    "url": "https://github.com/Hazyzh/jest-html-reporters",
+    "description": "🌈 Reporter for jest test framework. 🌈",
+    "name": "jest-html-reporters",
+    "full_name": "Hazyzh/jest-html-reporters",
+    "id": 149831957,
+    "topics": [
+        "html-report",
+        "jest",
+        "jest-html-reporters",
+        "jest-reporter",
+        "jest-test",
+        "reporter",
+        "test",
+        "testing"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff",
+        "usefulNodeJsStuff",
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "owner": "ChrispyBacon-dev",
+    "owner_type": "User",
+    "homepage": "https://dockflare.app",
+    "url": "https://github.com/ChrispyBacon-dev/DockFlare",
+    "description": "DockFlare: Automate Cloudflare Tunnels with Docker Labels",
+    "name": "DockFlare",
+    "full_name": "ChrispyBacon-dev/DockFlare",
+    "id": 964990473,
+    "topics": [
+        "api-integration",
+        "automation",
+        "cloudflare",
+        "cloudflare-access",
+        "cloudflare-dns",
+        "cloudflare-tunnel",
+        "cloudflared",
+        "dns",
+        "docker",
+        "docker-labels",
+        "flask",
+        "homelab",
+        "ingress-controller",
+        "network-automation",
+        "networking",
+        "python",
+        "reverse-proxy",
+        "security",
+        "selfhosted",
+        "zero-trust"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

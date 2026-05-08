@@ -1,0 +1,21 @@
+{
+    "owner": "pret",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/pret/pokered",
+    "description": "Disassembly of Pokémon Red/Blue",
+    "name": "pokered",
+    "full_name": "pret/pokered",
+    "id": 11211886,
+    "topics": [
+        "disassembly",
+        "gameboy",
+        "gbz80",
+        "pokemon",
+        "reverse-engineering"
+    ],
+    "lists": [
+        "interestingProjects"
+    ],
+    "license": null
+}

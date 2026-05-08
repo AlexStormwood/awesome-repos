@@ -1,0 +1,19 @@
+{
+    "owner": "eldada",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/eldada/kubernetes-scripts",
+    "description": "A collection of scripts and commands for various Kubernetes tasks",
+    "name": "kubernetes-scripts",
+    "full_name": "eldada/kubernetes-scripts",
+    "id": 230422381,
+    "topics": [
+        "hacktoberfest",
+        "kubernetes",
+        "kubernetes-scripts"
+    ],
+    "lists": [
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": null
+}

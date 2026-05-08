@@ -1,0 +1,21 @@
+{
+    "owner": "ChrisTitusTech",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/ChrisTitusTech/winutil",
+    "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "name": "winutil",
+    "full_name": "ChrisTitusTech/winutil",
+    "id": 486418532,
+    "topics": [],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "owner": "remotion-dev",
+    "owner_type": "Organization",
+    "homepage": "https://www.githubunwrapped.com",
+    "url": "https://github.com/remotion-dev/github-unwrapped",
+    "description": "Your coding year in review",
+    "name": "github-unwrapped",
+    "full_name": "remotion-dev/github-unwrapped",
+    "id": 691442732,
+    "topics": [
+        "github",
+        "remotion",
+        "unwrapped",
+        "video",
+        "year-in-review"
+    ],
+    "lists": [
+        "funnyProgrammingThings",
+        "usefulTypeScriptStuff"
+    ],
+    "license": null
+}

@@ -1,0 +1,28 @@
+{
+    "owner": "duskload",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/duskload/react-device-detect",
+    "description": "Detect device, and render view according to detected device type.",
+    "name": "react-device-detect",
+    "full_name": "duskload/react-device-detect",
+    "id": 107273802,
+    "topics": [
+        "detect",
+        "device",
+        "javascript",
+        "mobile",
+        "user-agent",
+        "useragent"
+    ],
+    "lists": [
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "owner": "scottoffen",
+    "owner_type": "User",
+    "homepage": "https://scottoffen.github.io/grapevine/",
+    "url": "https://github.com/scottoffen/grapevine",
+    "description": "Fast, unopinionated, embeddable, minimalist web framework for .NET",
+    "name": "grapevine",
+    "full_name": "scottoffen/grapevine",
+    "id": 323129743,
+    "topics": [
+        "csharp",
+        "embeddable",
+        "grapevine",
+        "httpclient",
+        "httplistener",
+        "rest",
+        "rest-api",
+        "rest-framework",
+        "rest-server",
+        "rest-service",
+        "rest-services",
+        "restapi",
+        "restful",
+        "restful-api",
+        "restful-webservices"
+    ],
+    "lists": [
+        "usefulCSharpStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "owner": "facebook",
+    "owner_type": "Organization",
+    "homepage": "http://ogp.me",
+    "url": "https://github.com/facebook/open-graph-protocol",
+    "description": "",
+    "name": "open-graph-protocol",
+    "full_name": "facebook/open-graph-protocol",
+    "id": 619240,
+    "topics": [],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": null
+}

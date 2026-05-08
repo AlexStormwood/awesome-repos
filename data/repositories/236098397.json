@@ -1,0 +1,21 @@
+{
+    "owner": "andymckay",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/andymckay/cancel-action",
+    "description": "",
+    "name": "cancel-action",
+    "full_name": "andymckay/cancel-action",
+    "id": 236098397,
+    "topics": [],
+    "lists": [
+        "usefulGitHubActionsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

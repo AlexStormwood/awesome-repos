@@ -1,0 +1,26 @@
+{
+    "owner": "jeantimex",
+    "owner_type": "User",
+    "homepage": "https://jeantimex.github.io/webgpu-water/",
+    "url": "https://github.com/jeantimex/webgpu-water",
+    "description": "A real-time water simulation using WebGPU",
+    "name": "webgpu-water",
+    "full_name": "jeantimex/webgpu-water",
+    "id": 1136711986,
+    "topics": [
+        "fluid-simulation",
+        "water-simulation",
+        "webgpu"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

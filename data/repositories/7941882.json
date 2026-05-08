@@ -1,0 +1,29 @@
+{
+    "owner": "openseadragon",
+    "owner_type": "Organization",
+    "homepage": "http://openseadragon.github.io/",
+    "url": "https://github.com/openseadragon/openseadragon",
+    "description": "An open-source, web-based viewer for zoomable images, implemented in pure JavaScript. ",
+    "name": "openseadragon",
+    "full_name": "openseadragon/openseadragon",
+    "id": 7941882,
+    "topics": [
+        "high-resolution",
+        "iiif",
+        "image",
+        "image-viewer",
+        "javascript",
+        "viewer",
+        "zooming"
+    ],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "https://alexstormwood.github.io/hackathon-archive/",
+    "url": "https://github.com/AlexStormwood/hackathon-archive",
+    "description": "Collection of diversifiers for hackathons, game jams, and other creative challenge events.",
+    "name": "hackathon-archive",
+    "full_name": "AlexStormwood/hackathon-archive",
+    "id": 237124353,
+    "topics": [
+        "game-jam",
+        "game-jams",
+        "ggj",
+        "globalgamejam",
+        "hackathon",
+        "hackathons",
+        "ludum-dare"
+    ],
+    "lists": [
+        "personalHandyRepos"
+    ],
+    "license": null
+}

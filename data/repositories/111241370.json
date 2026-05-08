@@ -1,0 +1,37 @@
+{
+    "owner": "ionic-team",
+    "owner_type": "Organization",
+    "homepage": "https://capacitorjs.com",
+    "url": "https://github.com/ionic-team/capacitor",
+    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
+    "name": "capacitor",
+    "full_name": "ionic-team/capacitor",
+    "id": 111241370,
+    "topics": [
+        "android",
+        "capacitor",
+        "cordova",
+        "cross-platform",
+        "css",
+        "html",
+        "ionic",
+        "ios",
+        "java",
+        "javascript",
+        "pwa",
+        "swift"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff",
+        "usefulProgrammingConceptStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "owner": "Unity-Technologies",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Unity-Technologies/MeasuredMaterialLibraryHDRP",
+    "description": "",
+    "name": "MeasuredMaterialLibraryHDRP",
+    "full_name": "Unity-Technologies/MeasuredMaterialLibraryHDRP",
+    "id": 198703514,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

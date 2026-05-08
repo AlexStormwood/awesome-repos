@@ -1,0 +1,22 @@
+{
+    "owner": "notofonts",
+    "owner_type": "Organization",
+    "homepage": "http://fonts.google.com/noto",
+    "url": "https://github.com/notofonts/noto-fonts",
+    "description": " Noto fonts, except for CJK and emoji",
+    "name": "noto-fonts",
+    "full_name": "notofonts/noto-fonts",
+    "id": 37085010,
+    "topics": [],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "ofl-1.1",
+        "name": "SIL Open Font License 1.1",
+        "spdx_id": "OFL-1.1",
+        "url": "https://api.github.com/licenses/ofl-1.1",
+        "node_id": "MDc6TGljZW5zZTE3"
+    }
+}

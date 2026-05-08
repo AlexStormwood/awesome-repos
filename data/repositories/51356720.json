@@ -1,0 +1,29 @@
+{
+    "owner": "gpujs",
+    "owner_type": "Organization",
+    "homepage": "https://gpu.rocks",
+    "url": "https://github.com/gpujs/gpu.js",
+    "description": "GPU Accelerated JavaScript",
+    "name": "gpu.js",
+    "full_name": "gpujs/gpu.js",
+    "id": 51356720,
+    "topics": [
+        "glsl",
+        "gpgpu",
+        "gpu",
+        "javascript",
+        "math",
+        "nodejs",
+        "webgl"
+    ],
+    "lists": [
+        "usefulNodeJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

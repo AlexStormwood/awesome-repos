@@ -1,0 +1,31 @@
+{
+    "owner": "grocy",
+    "owner_type": "Organization",
+    "homepage": "https://grocy.info",
+    "url": "https://github.com/grocy/grocy",
+    "description": "ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home",
+    "name": "grocy",
+    "full_name": "grocy/grocy",
+    "id": 88370518,
+    "topics": [
+        "erp",
+        "food",
+        "groceries",
+        "grocy",
+        "home",
+        "meal-planner",
+        "ownyourdata",
+        "php",
+        "self-hosted"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "owner": "richardbuckle",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/richardbuckle/EDRefCard",
+    "description": "Creates a printable reference card from your Elite: Dangerous controller bindings",
+    "name": "EDRefCard",
+    "full_name": "richardbuckle/EDRefCard",
+    "id": 99739408,
+    "topics": [],
+    "lists": [
+        "interestingProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

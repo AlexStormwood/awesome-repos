@@ -1,0 +1,22 @@
+{
+    "owner": "OoliteProject",
+    "owner_type": "Organization",
+    "homepage": "https://www.oolite.space",
+    "url": "https://github.com/OoliteProject/oolite",
+    "description": "The main Oolite repository.",
+    "name": "oolite",
+    "full_name": "OoliteProject/oolite",
+    "id": 10004412,
+    "topics": [],
+    "lists": [
+        "openSourceGamedevStuff",
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "owner": "godotengine",
+    "owner_type": "Organization",
+    "homepage": "https://godotengine.org",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "name": "godot",
+    "full_name": "godotengine/godot",
+    "id": 15634981,
+    "topics": [
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "godot",
+        "godotengine",
+        "multi-platform",
+        "open-source"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulGodotStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "owner": "Scriptim",
+    "owner_type": "User",
+    "homepage": "https://bash-prompt-generator.org/",
+    "url": "https://github.com/Scriptim/bash-prompt-generator",
+    "description": "Customize your Bash Prompt by setting the PS1 variable.",
+    "name": "bash-prompt-generator",
+    "full_name": "Scriptim/bash-prompt-generator",
+    "id": 100183527,
+    "topics": [
+        "bash",
+        "bash-prompt",
+        "bashrc",
+        "command-line",
+        "gh-pages",
+        "gnu-linux",
+        "linux",
+        "prompt",
+        "ps1",
+        "ps1-variable",
+        "shell",
+        "shell-prompt",
+        "terminal",
+        "tool",
+        "typescript",
+        "vue",
+        "web-tool",
+        "webapp",
+        "website"
+    ],
+    "lists": [
+        "usefulProgrammingConceptStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

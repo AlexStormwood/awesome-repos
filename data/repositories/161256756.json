@@ -1,0 +1,20 @@
+{
+    "owner": "hecomi",
+    "owner_type": "User",
+    "homepage": "http://tips.hecomi.com/entry/2018/12/23/200817",
+    "url": "https://github.com/hecomi/UnityECSBoidsSimulation",
+    "description": "Simple Boids simulation example using Unity ECS.",
+    "name": "UnityECSBoidsSimulation",
+    "full_name": "hecomi/UnityECSBoidsSimulation",
+    "id": 161256756,
+    "topics": [
+        "boids-simulation",
+        "ecs",
+        "entity-component-system",
+        "unity"
+    ],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

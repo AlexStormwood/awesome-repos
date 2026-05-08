@@ -1,0 +1,19 @@
+sl-sidebar-state-persist ul.top-level > li:not(:has(details)) {
+  margin-top: 0rem;
+}
+sl-sidebar-state-persist ul.top-level > li:has(details) {
+  margin-block: 0.5rem; /* default value */
+}
+
+#starlight__sidebar {
+	--sl-sidebar-width: min(22dvw, 35rem);
+	/* max-width: 30dvw; */
+}
+
+.hero {
+	grid-template-columns: auto;
+}
+
+.sl-container {
+	max-width: 65dvw;
+}

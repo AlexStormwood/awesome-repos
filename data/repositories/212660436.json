@@ -1,0 +1,22 @@
+{
+    "owner": "pablothedolphin",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/pablothedolphin/DOTS-Point-Clouds",
+    "description": "A Unity Package which provides ECS IComponentData types for storing point cloud data and a ComponentSystem for writing that data to a render texture via compute shader for the VFX graph to render the point cloud.",
+    "name": "DOTS-Point-Clouds",
+    "full_name": "pablothedolphin/DOTS-Point-Clouds",
+    "id": 212660436,
+    "topics": [],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

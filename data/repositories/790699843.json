@@ -1,0 +1,24 @@
+{
+    "owner": "ocavue",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/ocavue/keyboard-i18n",
+    "description": "",
+    "name": "keyboard-i18n",
+    "full_name": "ocavue/keyboard-i18n",
+    "id": 790699843,
+    "topics": [],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff",
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

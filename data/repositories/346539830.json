@@ -1,0 +1,15 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/ServerToCloudRun",
+    "description": "Example of an ExpressJS web server being bundled into a Docker image & deployed to Google Cloud Run with some sweet automated workflows.",
+    "name": "ServerToCloudRun",
+    "full_name": "AlexStormwood/ServerToCloudRun",
+    "id": 346539830,
+    "topics": [],
+    "lists": [
+        "personalEducationalRepos"
+    ],
+    "license": null
+}

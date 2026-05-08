@@ -1,0 +1,31 @@
+{
+    "owner": "AlexLakatos",
+    "owner_type": "User",
+    "homepage": "https://puns.dev",
+    "url": "https://github.com/AlexLakatos/computer-puns",
+    "description": "A hand-picked selection of the worst computer puns, really cringe-worthy stuff.",
+    "name": "computer-puns",
+    "full_name": "AlexLakatos/computer-puns",
+    "id": 173465838,
+    "topics": [
+        "computer-puns",
+        "hacktoberfest",
+        "hacktoberfest2019",
+        "hacktoberfest2020",
+        "hacktoberfest2021",
+        "hacktoberfest2022",
+        "jokes",
+        "jokes-module",
+        "puns"
+    ],
+    "lists": [
+        "funnyProgrammingThings"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

@@ -4,6 +4,8 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import RepoCard from "../../components/RepoCard.astro";
 import { CardGrid } from "@astrojs/starlight/components";
 import { loadAllRepoData } from "../../utils/reposDataManipulator";
+import listData from "../../../data/lists.json" with {type:"json"};
+
 
 export async function getStaticPaths() {
 
@@ -36,16 +38,18 @@ export async function getStaticPaths() {
 const { list } = Astro.params;
 const { dataList, filteredData } = Astro.props;
 
-
+const listName = listData.find((listObj) => {
+	return listObj.id == list
+})?.name || "List"
+console.log("List name: " + listName);
 
 ---
 
-<StarlightPage frontmatter={{ title: `${list}` }} >
-	<p>All repos tagged with list: {list}:</p>
+<StarlightPage frontmatter={{ title: `${listName}` }} >
+	<p>All repos tagged with list: {listName}:</p>
 	
 	<CardGrid>
 		{filteredData.map((dataObj: any) => <RepoCard {...dataObj} />)}
 
 	</CardGrid>
 </StarlightPage>
-

@@ -1,0 +1,27 @@
+{
+    "owner": "emojicode",
+    "owner_type": "Organization",
+    "homepage": "https://emojicode.org",
+    "url": "https://github.com/emojicode/emojicode",
+    "description": "😀😜🔂 World’s only programming language that’s bursting with emojis",
+    "name": "emojicode",
+    "full_name": "emojicode/emojicode",
+    "id": 48860275,
+    "topics": [
+        "compiler",
+        "emojicode",
+        "emojis",
+        "language",
+        "programming-language"
+    ],
+    "lists": [
+        "funnyProgrammingThings"
+    ],
+    "license": {
+        "key": "artistic-2.0",
+        "name": "Artistic License 2.0",
+        "spdx_id": "Artistic-2.0",
+        "url": "https://api.github.com/licenses/artistic-2.0",
+        "node_id": "MDc6TGljZW5zZTM="
+    }
+}

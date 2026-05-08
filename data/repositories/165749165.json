@@ -1,0 +1,25 @@
+{
+    "owner": "Ilshidur",
+    "owner_type": "User",
+    "homepage": "https://github.com/marketplace/actions/actions-for-discord",
+    "url": "https://github.com/Ilshidur/action-discord",
+    "description": "🚀 GitHub Action that sends a Discord message.",
+    "name": "action-discord",
+    "full_name": "Ilshidur/action-discord",
+    "id": 165749165,
+    "topics": [
+        "github-action",
+        "github-actions"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulGitHubActionsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

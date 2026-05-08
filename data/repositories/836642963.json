@@ -1,0 +1,21 @@
+{
+    "owner": "black-forest-labs",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/black-forest-labs/flux",
+    "description": "Official inference repo for FLUX.1 models",
+    "name": "flux",
+    "full_name": "black-forest-labs/flux",
+    "id": 836642963,
+    "topics": [],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

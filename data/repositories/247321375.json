@@ -1,0 +1,22 @@
+{
+    "owner": "mixandjam",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/mixandjam/AC-Dialogue",
+    "description": "Recreating the Dialogue system from Animal Crossing",
+    "name": "AC-Dialogue",
+    "full_name": "mixandjam/AC-Dialogue",
+    "id": 247321375,
+    "topics": [],
+    "lists": [
+        "interestingProjects",
+        "openSourceGamedevStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

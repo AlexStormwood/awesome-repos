@@ -1,0 +1,37 @@
+{
+    "owner": "apache",
+    "owner_type": "Organization",
+    "homepage": "https://casbin.org",
+    "url": "https://github.com/apache/casbin-node-casbin",
+    "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser",
+    "name": "casbin-node-casbin",
+    "full_name": "apache/casbin-node-casbin",
+    "id": 140996605,
+    "topics": [
+        "abac",
+        "access-control",
+        "acl",
+        "auth",
+        "authorization",
+        "authz",
+        "casbin",
+        "javascript",
+        "js",
+        "node",
+        "nodejs",
+        "permission",
+        "permissions",
+        "rbac"
+    ],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

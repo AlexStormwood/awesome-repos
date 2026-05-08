@@ -1,0 +1,21 @@
+{
+    "owner": "srleom",
+    "owner_type": "User",
+    "homepage": "https://astro-theme-resume.vercel.app",
+    "url": "https://github.com/srleom/astro-theme-resume",
+    "description": "An open-sourced personal resume site template with a blog, built with Astro and Tailwind.",
+    "name": "astro-theme-resume",
+    "full_name": "srleom/astro-theme-resume",
+    "id": 774252622,
+    "topics": [],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

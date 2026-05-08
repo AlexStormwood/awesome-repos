@@ -1,0 +1,39 @@
+{
+    "owner": "fluid-tools",
+    "owner_type": "Organization",
+    "homepage": "https://wav0.app",
+    "url": "https://github.com/fluid-tools/wav0",
+    "description": "AI-Native Studio for everything audio. Sound Design/Audio Editing/AI Producer/Fast Exports. Built for web, runs anywhere. ",
+    "name": "wav0",
+    "full_name": "fluid-tools/wav0",
+    "id": 1060918713,
+    "topics": [
+        "ai",
+        "collaborative",
+        "convex",
+        "daw",
+        "digital-audio-workstation",
+        "elevenlabs",
+        "music",
+        "nextjs",
+        "production",
+        "realtime",
+        "song-generation",
+        "sound-effects",
+        "storage",
+        "vercel",
+        "webaudio"
+    ],
+    "lists": [
+        "generativeAiStuff",
+        "openSourceSoftwareProjects",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

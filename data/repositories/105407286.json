@@ -1,0 +1,28 @@
+{
+    "owner": "Centribo",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/Centribo/Unity-Shader-Basics-Tutorial",
+    "description": "A introduction into creating shaders for Unity",
+    "name": "Unity-Shader-Basics-Tutorial",
+    "full_name": "Centribo/Unity-Shader-Basics-Tutorial",
+    "id": 105407286,
+    "topics": [
+        "fragment-functions",
+        "material",
+        "shaderlab",
+        "shaders",
+        "texture",
+        "tutorial",
+        "tutorials",
+        "unity",
+        "unity-shader",
+        "vertex-data",
+        "vertex-functions"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

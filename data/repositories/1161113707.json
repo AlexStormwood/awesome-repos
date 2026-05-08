@@ -1,0 +1,38 @@
+{
+    "owner": "stanza-dev",
+    "owner_type": "Organization",
+    "homepage": "https://stanza.dev",
+    "url": "https://github.com/stanza-dev/the-dev-handbook",
+    "description": "🧑‍💻 Free, open-source courses for modern developers.",
+    "name": "the-dev-handbook",
+    "full_name": "stanza-dev/the-dev-handbook",
+    "id": 1161113707,
+    "topics": [
+        "django",
+        "golang",
+        "laravel",
+        "learn-to-code",
+        "nestjs",
+        "nextjs",
+        "php",
+        "postgresql",
+        "python",
+        "reactjs",
+        "redis",
+        "ruby",
+        "ruby-on-rails",
+        "rust",
+        "svelte",
+        "typescript",
+        "vuejs"
+    ],
+    "lists": [
+        "interestingProjects",
+        "openSourceSoftwareProjects",
+        "usefulProgrammingConceptStuff",
+        "usefulReactJsStuff",
+        "usefulRustStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": null
+}

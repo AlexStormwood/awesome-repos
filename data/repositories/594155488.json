@@ -1,0 +1,36 @@
+{
+    "owner": "Stirling-Tools",
+    "owner_type": "Organization",
+    "homepage": "https://stirling.com",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "name": "Stirling-PDF",
+    "full_name": "Stirling-Tools/Stirling-PDF",
+    "id": 594155488,
+    "topics": [
+        "docker",
+        "hacktoberfest",
+        "java",
+        "pdf",
+        "pdf-converter",
+        "pdf-editor",
+        "pdf-manipulation",
+        "pdf-merger",
+        "pdf-ocr",
+        "pdf-tools",
+        "pdf-web-apps",
+        "pdfmerger",
+        "self-hosted"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

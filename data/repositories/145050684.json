@@ -1,0 +1,29 @@
+{
+    "owner": "googleforgames",
+    "owner_type": "Organization",
+    "homepage": "http://open-match.dev",
+    "url": "https://github.com/googleforgames/open-match",
+    "description": "Flexible, extensible, and scalable video game matchmaking.",
+    "name": "open-match",
+    "full_name": "googleforgames/open-match",
+    "id": 145050684,
+    "topics": [
+        "game-development",
+        "go",
+        "golang",
+        "kubernetes",
+        "matchmaking",
+        "multiplayer"
+    ],
+    "lists": [
+        "openSourceGamedevStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "owner": "airbnb",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "name": "javascript",
+    "full_name": "airbnb/javascript",
+    "id": 6498492,
+    "topics": [
+        "arrow-functions",
+        "es2015",
+        "es2016",
+        "es2017",
+        "es2018",
+        "es6",
+        "eslint",
+        "javascript",
+        "linting",
+        "naming-conventions",
+        "style-guide",
+        "style-linter",
+        "styleguide",
+        "tc39"
+    ],
+    "lists": [
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

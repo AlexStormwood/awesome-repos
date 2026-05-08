@@ -1,0 +1,24 @@
+{
+    "owner": "othneildrew",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/othneildrew/Best-README-Template",
+    "description": "An awesome README template to jumpstart your projects! ",
+    "name": "Best-README-Template",
+    "full_name": "othneildrew/Best-README-Template",
+    "id": 161215159,
+    "topics": [
+        "readme",
+        "readme-template"
+    ],
+    "lists": [
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+    }
+}

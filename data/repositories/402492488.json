@@ -1,0 +1,28 @@
+{
+    "owner": "jameskerr",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/jameskerr/react-arborist",
+    "description": "The complete tree view component for React",
+    "name": "react-arborist",
+    "full_name": "jameskerr/react-arborist",
+    "id": 402492488,
+    "topics": [
+        "arborist",
+        "react",
+        "tree",
+        "treeview",
+        "treeview-component"
+    ],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

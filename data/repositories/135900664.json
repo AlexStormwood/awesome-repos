@@ -1,0 +1,44 @@
+{
+    "owner": "pubkey",
+    "owner_type": "User",
+    "homepage": "https://pubkey.github.io/broadcast-channel/",
+    "url": "https://github.com/pubkey/broadcast-channel",
+    "description": ":satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels  https://pubkey.github.io/broadcast-channel/",
+    "name": "broadcast-channel",
+    "full_name": "pubkey/broadcast-channel",
+    "id": 135900664,
+    "topics": [
+        "broadcast",
+        "broadcast-channel",
+        "broker",
+        "channels",
+        "client-side",
+        "communication-channel",
+        "cookie",
+        "crosstab",
+        "indexeddb",
+        "ipc",
+        "leader-election",
+        "localforage",
+        "localstorage",
+        "messaging",
+        "offline",
+        "polyfill",
+        "postmessage",
+        "shared",
+        "shim",
+        "stream"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulFrontendStuff",
+        "usefulNodeJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

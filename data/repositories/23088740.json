@@ -1,0 +1,28 @@
+{
+    "owner": "axios",
+    "owner_type": "Organization",
+    "homepage": "https://axios-http.com",
+    "url": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "name": "axios",
+    "full_name": "axios/axios",
+    "id": 23088740,
+    "topics": [
+        "hacktoberfest",
+        "http-client",
+        "javascript",
+        "nodejs",
+        "promise"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulNodeJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

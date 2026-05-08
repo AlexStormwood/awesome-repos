@@ -1,0 +1,15 @@
+{
+    "owner": "zulfajuniadi",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/zulfajuniadi/unity-ecs-navmesh",
+    "description": "A demo implementation of Unity Entity Component System with NavMesh",
+    "name": "unity-ecs-navmesh",
+    "full_name": "zulfajuniadi/unity-ecs-navmesh",
+    "id": 135980753,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

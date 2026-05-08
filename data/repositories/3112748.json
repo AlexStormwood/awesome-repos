@@ -1,0 +1,24 @@
+{
+    "owner": "leereilly",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/leereilly/games",
+    "description": "Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+    "name": "games",
+    "full_name": "leereilly/games",
+    "id": 3112748,
+    "topics": [
+        "game",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "games",
+        "html5-games"
+    ],
+    "lists": [
+        "interestingProjects",
+        "openSourceGamedevStuff",
+        "openSourceGames"
+    ],
+    "license": null
+}

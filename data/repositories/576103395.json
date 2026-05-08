@@ -1,0 +1,27 @@
+{
+    "owner": "m-bain",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/m-bain/whisperX",
+    "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+    "name": "whisperX",
+    "full_name": "m-bain/whisperX",
+    "id": 576103395,
+    "topics": [
+        "asr",
+        "speech",
+        "speech-recognition",
+        "speech-to-text",
+        "whisper"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "bsd-2-clause",
+        "name": "BSD 2-Clause \"Simplified\" License",
+        "spdx_id": "BSD-2-Clause",
+        "url": "https://api.github.com/licenses/bsd-2-clause",
+        "node_id": "MDc6TGljZW5zZTQ="
+    }
+}

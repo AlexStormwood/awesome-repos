@@ -1,0 +1,26 @@
+{
+    "owner": "mpetroff",
+    "owner_type": "User",
+    "homepage": "https://pannellum.org/",
+    "url": "https://github.com/mpetroff/pannellum",
+    "description": "Pannellum is a lightweight, free, and open source panorama viewer for the web.",
+    "name": "pannellum",
+    "full_name": "mpetroff/pannellum",
+    "id": 5843215,
+    "topics": [
+        "javascript",
+        "library",
+        "panorama",
+        "webgl"
+    ],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

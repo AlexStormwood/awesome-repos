@@ -1,0 +1,21 @@
+{
+    "owner": "Cysharp",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/Cysharp/MemoryPack",
+    "description": "Zero encoding extreme performance binary serializer for C# and Unity.",
+    "name": "MemoryPack",
+    "full_name": "Cysharp/MemoryPack",
+    "id": 532163204,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

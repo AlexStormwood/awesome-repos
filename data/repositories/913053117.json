@@ -1,0 +1,21 @@
+{
+    "owner": "libsdl-org",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/libsdl-org/SDL3-switch",
+    "description": "Simple Directmedia Layer 3.0 - Nintendo Switch port. DO NOT DISTRIBUTE; ONLY FOR THOSE WITH AN NDA FROM NINTENDO. ",
+    "name": "SDL3-switch",
+    "full_name": "libsdl-org/SDL3-switch",
+    "id": 913053117,
+    "topics": [],
+    "lists": [
+        "openSourceGamedevStuff"
+    ],
+    "license": {
+        "key": "zlib",
+        "name": "zlib License",
+        "spdx_id": "Zlib",
+        "url": "https://api.github.com/licenses/zlib",
+        "node_id": "MDc6TGljZW5zZTI3"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "owner": "cjpais",
+    "owner_type": "User",
+    "homepage": "https://handy.computer",
+    "url": "https://github.com/cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "name": "Handy",
+    "full_name": "cjpais/Handy",
+    "id": 931888694,
+    "topics": [
+        "accessibility",
+        "cross-platform",
+        "speech-to-text",
+        "tauri-v2"
+    ],
+    "lists": [
+        "generativeAiStuff",
+        "interestingProjects",
+        "openSourceSoftwareProjects",
+        "usefulRustStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

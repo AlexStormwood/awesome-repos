@@ -1,0 +1,31 @@
+{
+    "owner": "poloclub",
+    "owner_type": "Organization",
+    "homepage": "https://poloclub.github.io/diffusion-explainer/",
+    "url": "https://github.com/poloclub/diffusion-explainer",
+    "description": "Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion",
+    "name": "diffusion-explainer",
+    "full_name": "poloclub/diffusion-explainer",
+    "id": 582729142,
+    "topics": [
+        "clip",
+        "deep-learning",
+        "generative-model",
+        "interactive-visualization",
+        "machine-learning",
+        "stable-diffusion",
+        "unet",
+        "visual-learning",
+        "visualization"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

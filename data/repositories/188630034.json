@@ -1,0 +1,31 @@
+{
+    "owner": "onderonur",
+    "owner_type": "User",
+    "homepage": "https://onderonur.github.io/react-infinite-scroll-hook/",
+    "url": "https://github.com/onderonur/react-infinite-scroll-hook",
+    "description": "React hook for creating infinite scroll components.",
+    "name": "react-infinite-scroll-hook",
+    "full_name": "onderonur/react-infinite-scroll-hook",
+    "id": 188630034,
+    "topics": [
+        "fetch",
+        "fetching",
+        "hooks",
+        "infinite-scroll",
+        "infinite-scrolling",
+        "react",
+        "react-hooks",
+        "reactjs"
+    ],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

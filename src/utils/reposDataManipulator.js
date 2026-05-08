@@ -2,7 +2,7 @@ import path from "node:path";
 import fs from "node:fs";
 
 export async function loadAllRepoData(){
-	let repoDataDir = path.resolve(process.cwd(), "src", "data", "repos");
+	let repoDataDir = path.resolve(process.cwd(), "data", "repositories");
 
 	// Logic for this "read all JSON files in dir and combine them into an array" bit
 	// is from here: https://stackoverflow.com/questions/54615185/read-multiple-json-files-into-an-array-of-objects-in-javascript

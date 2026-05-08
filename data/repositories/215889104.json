@@ -1,0 +1,22 @@
+{
+    "owner": "tom-weiland",
+    "owner_type": "User",
+    "homepage": "https://www.youtube.com/@tomweiland",
+    "url": "https://github.com/tom-weiland/tcp-udp-networking",
+    "description": "Source code from my C# networking tutorial series on YouTube.",
+    "name": "tcp-udp-networking",
+    "full_name": "tom-weiland/tcp-udp-networking",
+    "id": 215889104,
+    "topics": [],
+    "lists": [
+        "usefulCSharpStuff",
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

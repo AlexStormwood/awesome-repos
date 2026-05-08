@@ -1,0 +1,31 @@
+{
+    "owner": "prevwong",
+    "owner_type": "User",
+    "homepage": "https://craft.js.org",
+    "url": "https://github.com/prevwong/craft.js",
+    "description": "🚀 A React Framework for building extensible drag and drop page editors",
+    "name": "craft.js",
+    "full_name": "prevwong/craft.js",
+    "id": 190254698,
+    "topics": [
+        "draft-js",
+        "drag-and-drop",
+        "html-builder",
+        "page-builder",
+        "react",
+        "site-builder",
+        "web-builder",
+        "wysiwyg"
+    ],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

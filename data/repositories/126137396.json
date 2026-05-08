@@ -1,0 +1,21 @@
+{
+    "owner": "keijiro",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/keijiro/Kino",
+    "description": "A collection of custom post processing effects for Unity",
+    "name": "Kino",
+    "full_name": "keijiro/Kino",
+    "id": 126137396,
+    "topics": [
+        "effects",
+        "graphics",
+        "postprocess",
+        "unity",
+        "unity3d"
+    ],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": null
+}

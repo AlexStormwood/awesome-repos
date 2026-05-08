@@ -1,0 +1,25 @@
+{
+    "owner": "SupaGruen",
+    "owner_type": "User",
+    "homepage": "https://supagruen.github.io/StableDiffusion-CheatSheet/",
+    "url": "https://github.com/SupaGruen/StableDiffusion-CheatSheet",
+    "description": "A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.",
+    "name": "StableDiffusion-CheatSheet",
+    "full_name": "SupaGruen/StableDiffusion-CheatSheet",
+    "id": 630646591,
+    "topics": [
+        "stable-diffusion",
+        "stablediffusion"
+    ],
+    "lists": [
+        "generativeAiStuff",
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

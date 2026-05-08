@@ -1,0 +1,27 @@
+{
+    "owner": "socketio",
+    "owner_type": "Organization",
+    "homepage": "https://socket.io",
+    "url": "https://github.com/socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "name": "socket.io",
+    "full_name": "socketio/socket.io",
+    "id": 557980,
+    "topics": [
+        "javascript",
+        "nodejs",
+        "socket-io",
+        "websocket"
+    ],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

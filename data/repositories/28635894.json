@@ -1,0 +1,36 @@
+{
+    "owner": "alicevision",
+    "owner_type": "Organization",
+    "homepage": "https://alicevision.org",
+    "url": "https://github.com/alicevision/AliceVision",
+    "description": "3D Computer Vision Framework",
+    "name": "AliceVision",
+    "full_name": "alicevision/AliceVision",
+    "id": 28635894,
+    "topics": [
+        "3d-computer-vision",
+        "3d-reconstruction",
+        "ai",
+        "alicevision",
+        "camera-tracking",
+        "computer-vision",
+        "hdri-image",
+        "meshroom",
+        "multiview-stereo",
+        "panorama-image",
+        "panorama-stitching",
+        "photogrammetry",
+        "structure-from-motion"
+    ],
+    "lists": [
+        "generativeAiStuff",
+        "interestingProjects"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

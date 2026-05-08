@@ -1,0 +1,23 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/CommitsWithinTime",
+    "description": "A helper action that returns true if commits are detected on a repository within a supplied timeframe.",
+    "name": "CommitsWithinTime",
+    "full_name": "AlexStormwood/CommitsWithinTime",
+    "id": 301632997,
+    "topics": [],
+    "lists": [
+        "personalCustomGitHubActions",
+        "personalEducationalRepos",
+        "personalHandyRepos"
+    ],
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    }
+}

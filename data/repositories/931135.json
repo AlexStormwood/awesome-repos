@@ -1,0 +1,25 @@
+{
+    "owner": "Leaflet",
+    "owner_type": "Organization",
+    "homepage": "https://leafletjs.com",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+    "name": "Leaflet",
+    "full_name": "Leaflet/Leaflet",
+    "id": 931135,
+    "topics": [
+        "javascript",
+        "leaflet",
+        "maps"
+    ],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "bsd-2-clause",
+        "name": "BSD 2-Clause \"Simplified\" License",
+        "spdx_id": "BSD-2-Clause",
+        "url": "https://api.github.com/licenses/bsd-2-clause",
+        "node_id": "MDc6TGljZW5zZTQ="
+    }
+}

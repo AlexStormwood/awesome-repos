@@ -1,0 +1,21 @@
+{
+    "owner": "GlitchEnzo",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/GlitchEnzo/NuGetForUnity",
+    "description": "A NuGet Package Manager for Unity",
+    "name": "NuGetForUnity",
+    "full_name": "GlitchEnzo/NuGetForUnity",
+    "id": 45581062,
+    "topics": [],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

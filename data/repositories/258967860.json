@@ -1,0 +1,43 @@
+{
+    "owner": "GraphiteEditor",
+    "owner_type": "Organization",
+    "homepage": "https://graphite.art",
+    "url": "https://github.com/GraphiteEditor/Graphite",
+    "description": "Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
+    "name": "Graphite",
+    "full_name": "GraphiteEditor/Graphite",
+    "id": 258967860,
+    "topics": [
+        "2d-graphics",
+        "animation",
+        "art",
+        "creative-coding",
+        "design",
+        "graphic-design",
+        "graphics",
+        "graphics-editor",
+        "image-manipulation",
+        "image-processing",
+        "motion-design",
+        "motion-graphics",
+        "node-graph",
+        "photo-editor",
+        "procedural",
+        "procedural-drawing",
+        "procedural-generation",
+        "svg-editor",
+        "vector-graphics"
+    ],
+    "lists": [
+        "interestingProjects",
+        "openSourceSoftwareProjects",
+        "usefulRustStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

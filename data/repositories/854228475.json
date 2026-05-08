@@ -1,0 +1,22 @@
+{
+    "owner": "Nic13Gamer",
+    "owner_type": "User",
+    "homepage": "https://better-upload.com",
+    "url": "https://github.com/Nic13Gamer/better-upload",
+    "description": "Simple and easy file uploads for React. Upload directly to any S3-compatible service with minimal setup.",
+    "name": "better-upload",
+    "full_name": "Nic13Gamer/better-upload",
+    "id": 854228475,
+    "topics": [],
+    "lists": [
+        "usefulReactJsStuff",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

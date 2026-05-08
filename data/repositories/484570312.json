@@ -1,0 +1,16 @@
+{
+    "owner": "justlep",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/justlep/camo",
+    "description": "Modernized fork of Camo, a class-based Object-Document Mapper for NeDB",
+    "name": "camo",
+    "full_name": "justlep/camo",
+    "id": 484570312,
+    "topics": [],
+    "lists": [
+        "interestingProjects",
+        "usefulNodeJsStuff"
+    ],
+    "license": null
+}

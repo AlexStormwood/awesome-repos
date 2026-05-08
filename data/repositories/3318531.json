@@ -1,0 +1,15 @@
+{
+    "owner": "id-Software",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/id-Software/Quake",
+    "description": "Quake GPL Source Release",
+    "name": "Quake",
+    "full_name": "id-Software/Quake",
+    "id": 3318531,
+    "topics": [],
+    "lists": [
+        "openSourceGames"
+    ],
+    "license": null
+}

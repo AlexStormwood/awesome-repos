@@ -1,0 +1,22 @@
+{
+    "owner": "googlefonts",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/googlefonts/noto-emoji",
+    "description": "Noto Emoji fonts",
+    "name": "noto-emoji",
+    "full_name": "googlefonts/noto-emoji",
+    "id": 36903690,
+    "topics": [],
+    "lists": [
+        "interestingProjects",
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "ofl-1.1",
+        "name": "SIL Open Font License 1.1",
+        "spdx_id": "OFL-1.1",
+        "url": "https://api.github.com/licenses/ofl-1.1",
+        "node_id": "MDc6TGljZW5zZTE3"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "owner": "synzen",
+    "owner_type": "User",
+    "homepage": "https://monitorss.xyz",
+    "url": "https://github.com/synzen/MonitoRSS",
+    "description": "MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz",
+    "name": "MonitoRSS",
+    "full_name": "synzen/MonitoRSS",
+    "id": 78373417,
+    "topics": [
+        "bot",
+        "discord",
+        "feeds",
+        "rss",
+        "rss-feed"
+    ],
+    "lists": [
+        "interestingProjects",
+        "openSourceSoftwareProjects",
+        "usefulTypeScriptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

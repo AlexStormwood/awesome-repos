@@ -1,0 +1,24 @@
+{
+    "owner": "MozillaReality",
+    "owner_type": "Organization",
+    "homepage": "https://mixedreality.mozilla.org/unity-webxr-export/Build/",
+    "url": "https://github.com/MozillaReality/unity-webxr-export",
+    "description": "INACTIVE - Assets for creating WebXR-enabled Unity3D projects.",
+    "name": "unity-webxr-export",
+    "full_name": "MozillaReality/unity-webxr-export",
+    "id": 101111507,
+    "topics": [
+        "inactive",
+        "unmaintained"
+    ],
+    "lists": [
+        "usefulUnityStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}

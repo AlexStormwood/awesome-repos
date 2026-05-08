@@ -1,0 +1,36 @@
+{
+    "owner": "plankanban",
+    "owner_type": "Organization",
+    "homepage": "https://planka.app",
+    "url": "https://github.com/plankanban/planka",
+    "description": "PLANKA is the Kanban-style project mastering tool for everyone",
+    "name": "planka",
+    "full_name": "plankanban/planka",
+    "id": 205453332,
+    "topics": [
+        "agile",
+        "collaboration",
+        "docker",
+        "javascript",
+        "kanban",
+        "nodejs",
+        "planka",
+        "project-management",
+        "react",
+        "real-time",
+        "self-hosted",
+        "trello"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulNodeJsStuff",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    }
+}

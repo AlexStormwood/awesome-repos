@@ -1,0 +1,18 @@
+{
+    "owner": "tagattie",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/tagattie/FreeBSD-Electron",
+    "description": "Electron and Electron-based applications ports for FreeBSD",
+    "name": "FreeBSD-Electron",
+    "full_name": "tagattie/FreeBSD-Electron",
+    "id": 176520396,
+    "topics": [
+        "electron",
+        "freebsd"
+    ],
+    "lists": [
+        "interestingProjects"
+    ],
+    "license": null
+}
