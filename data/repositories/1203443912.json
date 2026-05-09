@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/pgm1001-w10-intro-to-js",
+    "description": "Basic webpage with cool JS interactivity!",
+    "name": "pgm1001-w10-intro-to-js",
+    "full_name": "AlexStormwood/pgm1001-w10-intro-to-js",
+    "id": 1203443912,
+    "topics": [],
+    "lists": [
+        "ait2026T1Pgm1001WebDevelopmentSubject"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "https://cool-cassata-c6ebbb.netlify.app/",
+    "url": "https://github.com/AlexStormwood/pgm1001-w05-refresher",
+    "description": "HTML & CSS, specifically messing around with CSS box model and pseudo-thingies.",
+    "name": "pgm1001-w05-refresher",
+    "full_name": "AlexStormwood/pgm1001-w05-refresher",
+    "id": 1171235346,
+    "topics": [],
+    "lists": [
+        "ait2026T1Pgm1001WebDevelopmentSubject"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
