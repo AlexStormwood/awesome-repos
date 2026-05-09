@@ -1,0 +1,39 @@
+name: Add repositories
+description: Suggest one or more repositories to add to the data set.
+title: "Add repositories: "
+labels: ["repo-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit one or more GitHub repositories to add to this project. One issue can include several repository URLs; the automation will create one pull request for the whole batch.
+
+  - type: textarea
+    id: repository_urls
+    attributes:
+      label: Repository URLs
+      description: Add one GitHub repository URL per line.
+      placeholder: |
+        https://github.com/owner/first-repo
+        https://github.com/owner/second-repo
+    validations:
+      required: true
+
+  - type: textarea
+    id: list_ids
+    attributes:
+      label: List IDs
+      description: Add one list ID per line. These IDs must exist in data/lists.json and will be applied to every submitted repository in this issue.
+      placeholder: |
+        usefulReactJsStuff
+        usefulTypeScriptStuff
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional context for maintainers.
+    validations:
+      required: false

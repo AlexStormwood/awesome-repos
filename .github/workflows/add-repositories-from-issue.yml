@@ -1,0 +1,122 @@
+name: Add repositories from issue
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: repo-submission-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  add-repositories:
+    if: contains(github.event.issue.labels.*.name, 'repo-submission') || (contains(github.event.issue.body, '### Repository URLs') && contains(github.event.issue.body, '### List IDs'))
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Prepare submission branch
+        id: branch
+        run: |
+          branch="repo-submission-${{ github.event.issue.number }}"
+          git checkout -B "$branch"
+          echo "name=$branch" >> "$GITHUB_OUTPUT"
+
+      - name: Generate repository JSON files
+        id: generate
+        run: node scripts/add-repositories-from-issue.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          COMMENT_FILE: ${{ runner.temp }}/repo-submission-comment.md
+
+      - name: Commit generated files
+        id: commit
+        if: success()
+        run: |
+          if [ -z "$(git status --porcelain -- data/repositories)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/repositories
+          git commit -m "Add repositories from issue #${{ github.event.issue.number }}"
+          git push --force-with-lease --set-upstream origin "${{ steps.branch.outputs.name }}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update pull request
+        id: pr
+        if: success() && steps.commit.outputs.changed == 'true'
+        run: |
+          existing_pr_url="$(gh pr list \
+            --head "${{ github.repository_owner }}:${{ steps.branch.outputs.name }}" \
+            --state open \
+            --json url \
+            --jq '.[0].url // ""')"
+
+          if [ -n "$existing_pr_url" ]; then
+            echo "url=$existing_pr_url" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          pr_url="$(gh pr create \
+            --base "${{ github.event.repository.default_branch }}" \
+            --head "${{ steps.branch.outputs.name }}" \
+            --title "Add repositories from issue #${{ github.event.issue.number }}" \
+            --body "Closes #${{ github.event.issue.number }}")"
+
+          echo "url=$pr_url" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add pull request details to comment
+        if: always()
+        run: |
+          if [ ! -f "$COMMENT_FILE" ]; then
+            {
+              echo "Repository submission automation did not produce a detailed summary."
+              echo
+              echo "Check the workflow logs for details."
+            } > "$COMMENT_FILE"
+          fi
+
+          if [ "${{ steps.commit.outputs.changed }}" = "true" ]; then
+            {
+              echo
+              echo "Pull request: ${{ steps.pr.outputs.url }}"
+            } >> "$COMMENT_FILE"
+          elif [ "${{ job.status }}" = "success" ]; then
+            {
+              echo
+              echo "No pull request was created because the submitted repositories are already present or produced no file changes."
+            } >> "$COMMENT_FILE"
+          fi
+        env:
+          COMMENT_FILE: ${{ runner.temp }}/repo-submission-comment.md
+
+      - name: Comment on issue
+        if: always()
+        run: gh issue comment "${{ github.event.issue.number }}" --body-file "$COMMENT_FILE"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMENT_FILE: ${{ runner.temp }}/repo-submission-comment.md
