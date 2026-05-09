@@ -38,15 +38,16 @@ export async function getStaticPaths() {
 const { list } = Astro.params;
 const { dataList, filteredData } = Astro.props;
 
-const listName = listData.find((listObj) => {
+const listItem = listData.find((listObj) => {
 	return listObj.id == list
-})?.name || "List"
-console.log("List name: " + listName);
+}) || {name: "List", description:"Placeholder list description."}
+console.log("List name: " + listItem.name);
 
 ---
 
-<StarlightPage frontmatter={{ title: `${listName}` }} >
-	<p>All repos tagged with list: {listName}:</p>
+<StarlightPage frontmatter={{ title: `${listItem.name}` }} >
+	<p>{listItem.description}</p>
+	
 	
 	<CardGrid>
 		{filteredData.map((dataObj: any) => <RepoCard {...dataObj} />)}
