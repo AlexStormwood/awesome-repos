@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/mar25-t2w05-intro-to-js-testing",
+    "description": "Jest, Supertest",
+    "name": "mar25-t2w05-intro-to-js-testing",
+    "full_name": "AlexStormwood/mar25-t2w05-intro-to-js-testing",
+    "id": 1071360260,
+    "topics": [],
+    "lists": [
+        "ca2025MarDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

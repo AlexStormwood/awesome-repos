@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/mar25-t2w06-hooks",
+    "description": "Diving into ReactJS hooks!",
+    "name": "mar25-t2w06-hooks",
+    "full_name": "AlexStormwood/mar25-t2w06-hooks",
+    "id": 1078536725,
+    "topics": [],
+    "lists": [
+        "ca2025MarDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "https://dashing-alfajores-a5d668.netlify.app/",
+    "url": "https://github.com/AlexStormwood/mar25-t1w2-git-intro",
+    "description": "Repo for example website stuff and introductory git usage",
+    "name": "mar25-t1w2-git-intro",
+    "full_name": "AlexStormwood/mar25-t1w2-git-intro",
+    "id": 962533984,
+    "topics": [
+        "css",
+        "html",
+        "html5",
+        "markdown",
+        "netlify"
+    ],
+    "lists": [
+        "ca2025MarDwdCohort"
+    ],
+    "license": null
+}

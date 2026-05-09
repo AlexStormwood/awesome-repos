@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/mar25-t2w04-articles-api",
+    "description": "API for the \"Build an API\" chunk of Ed content.",
+    "name": "mar25-t2w04-articles-api",
+    "full_name": "AlexStormwood/mar25-t2w04-articles-api",
+    "id": 1067019580,
+    "topics": [],
+    "lists": [
+        "ca2025MarDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

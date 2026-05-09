@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/mar25-t2w06-reactjs-events",
+    "description": "ReactJS interactive buttons, forms, and component data communication.",
+    "name": "mar25-t2w06-reactjs-events",
+    "full_name": "AlexStormwood/mar25-t2w06-reactjs-events",
+    "id": 1075960163,
+    "topics": [],
+    "lists": [
+        "ca2025MarDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/mar25-t2w03-advanced-express",
+    "description": "Middleware, git collab practice, authentication and authorisation.",
+    "name": "mar25-t2w03-advanced-express",
+    "full_name": "AlexStormwood/mar25-t2w03-advanced-express",
+    "id": 1062444878,
+    "topics": [],
+    "lists": [
+        "ca2025MarDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
