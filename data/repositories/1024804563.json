@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/oct24-terraform-intro",
+    "description": "Basic infrastructure provisioning via Terraform and GitHub Actions.",
+    "name": "oct24-terraform-intro",
+    "full_name": "AlexStormwood/oct24-terraform-intro",
+    "id": 1024804563,
+    "topics": [],
+    "lists": [
+        "ca2024OctDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/oct24-t2w11-docker-basics",
+    "description": "Basic NodeJS app to run in a Docker image.",
+    "name": "oct24-t2w11-docker-basics",
+    "full_name": "AlexStormwood/oct24-t2w11-docker-basics",
+    "id": 1004230874,
+    "topics": [],
+    "lists": [
+        "ca2024OctDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
