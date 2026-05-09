@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/jan25-t2w07-express-auth",
+    "description": "Demo of ExpressJS and MongooseJS to implement user authentication and JWTs.",
+    "name": "jan25-t2w07-express-auth",
+    "full_name": "AlexStormwood/jan25-t2w07-express-auth",
+    "id": 1170523597,
+    "topics": [],
+    "lists": [
+        "ca2025JanPtDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

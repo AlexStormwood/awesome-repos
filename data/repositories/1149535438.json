@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/jan25-t2w03-nodejs-expressjs",
+    "description": "Intro to NodeJS and ExpressJS! ",
+    "name": "jan25-t2w03-nodejs-expressjs",
+    "full_name": "AlexStormwood/jan25-t2w03-nodejs-expressjs",
+    "id": 1149535438,
+    "topics": [],
+    "lists": [
+        "ca2025JanPtDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
