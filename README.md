@@ -6,7 +6,7 @@ GitHub Lists didn't give me enough lists to organise all of the cool things that
 
 This website is deployed via Netlify, and you can access it here:
 
-- 
+- [https://awesome-repos.alexstormwood.com/](https://awesome-repos.alexstormwood.com/)
 
 ## Tech Stack
 
