@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/jan25-t2w04-mongoose-intro",
+    "description": "ExpressJS with MongooseJS to use MongoDB data!",
+    "name": "jan25-t2w04-mongoose-intro",
+    "full_name": "AlexStormwood/jan25-t2w04-mongoose-intro",
+    "id": 1153383775,
+    "topics": [],
+    "lists": [
+        "ca2025JanPtDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

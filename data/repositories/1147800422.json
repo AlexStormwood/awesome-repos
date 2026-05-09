@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/jan25-t2w03-async-stuff",
+    "description": "Promises and async/await to fetch data and apply that data to a webpage.",
+    "name": "jan25-t2w03-async-stuff",
+    "full_name": "AlexStormwood/jan25-t2w03-async-stuff",
+    "id": 1147800422,
+    "topics": [],
+    "lists": [
+        "ca2025JanPtDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}

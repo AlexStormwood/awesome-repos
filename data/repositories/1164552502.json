@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/jan25-t2w06-express-middleware",
+    "description": "ExpressJS app that specifically shows middleware in a few different use cases.",
+    "name": "jan25-t2w06-express-middleware",
+    "full_name": "AlexStormwood/jan25-t2w06-express-middleware",
+    "id": 1164552502,
+    "topics": [],
+    "lists": [
+        "ca2025JanPtDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
