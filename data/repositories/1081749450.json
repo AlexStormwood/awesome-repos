@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "https://glittery-cascaron-bed5a7.netlify.app/",
+    "url": "https://github.com/AlexStormwood/mar25-t2w07-react-front-end",
+    "description": "Front-end for an articles API with user and article CRUD and user auth.",
+    "name": "mar25-t2w07-react-front-end",
+    "full_name": "AlexStormwood/mar25-t2w07-react-front-end",
+    "id": 1081749450,
+    "topics": [],
+    "lists": [
+        "ca2025MarDwdCohort"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
