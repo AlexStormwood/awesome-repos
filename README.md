@@ -1,49 +1,43 @@
-# Starlight Starter Kit: Basics
+# Alex's Awesome Repos
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+GitHub Lists didn't give me enough lists to organise all of the cool things that I want to be able to share with people, so I've moved my starred repositories and lists of stars into a website! Enjoy!
 
-```
-npm create astro@latest -- --template starlight
-```
+## Deployment
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This website is deployed via Netlify, and you can access it here:
 
-## 🚀 Project Structure
+- 
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## Tech Stack
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+This website is built using Astro, with its Starlight (docs) template.
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+Repository data is retrieved before the build step using GitHub's REST and/or GraphQL APIs and saved (with modifications) into JSON files that live within this repository, so no web scraping is occuring.
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+## Lists
 
-Static assets, like favicons, can be placed in the `public/` directory.
+Lists are manually-defined by me, and repositories are added to them based on my GitHub stars or by using this project's issue and automation systems. 
 
-## 🧞 Commands
+Some lists are focused on a topic, like "Useful Unity Stuff" focusing on repositories relevant to Unity work.
 
-All commands are run from the root of the project, from a terminal:
+Some lists are focused on a group or category, covering one or more topics, such as "CA - 2025-JAN-PT DWD Cohort" being a list of repositories for a range of topics taught to that particular class.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Topics
 
-## 👀 Want to learn more?
+On the website, this section is basically entirely automatic. If a repository has topics or tags in its "About" data, they get transplanted into topics on this website.
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Topics act like lists - you can view repositories assigned to this piece of data on a nice webpage.
+
+## Search
+
+The website allows you to search! This search goes through basically all bits of data you would see on a list, topic, or repository. It's really powerful! If you already know what you're looking for, use a search!
+
+## Adding New Repositories
+
+This repository has GitHub Actions and GitHub Issues set up in a way where you can lodge an issue to add a repository, and then that gets translated into a pull request for me to approve. The pull request adds one or more JSON files representing the repositories that you propose into the website. Once that PR is merged, Netlify redeploys the website.
+
+Basically, you can add repositories to this website without digging around in JSON or REST/GraphQL APIs!
+
+## Errors
+
+The lists aren't perfect. They were managed manually for years. Lodge a regular repository issue to let me know if any urgent fixes are needed!
