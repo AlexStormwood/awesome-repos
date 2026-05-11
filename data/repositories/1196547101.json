@@ -1,0 +1,32 @@
+{
+    "owner": "ybouane",
+    "owner_type": "User",
+    "homepage": "https://videoflow.dev/",
+    "url": "https://github.com/ybouane/VideoFlow",
+    "description": "Programmatic video for the web. Define videos with a fluent TypeScript API, compile them to a portable JSON format, and render to MP4 — in the browser, on the server, or play them back live with full scrubbing controls.",
+    "name": "VideoFlow",
+    "full_name": "ybouane/VideoFlow",
+    "id": 1196547101,
+    "topics": [
+        "programmatic",
+        "remotion",
+        "remotion-alternative",
+        "remotion-video",
+        "render",
+        "renderer",
+        "video",
+        "video-editor"
+    ],
+    "lists": [
+        "usefulFrontendStuff",
+        "usefulNodeJsStuff",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}
