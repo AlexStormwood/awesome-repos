@@ -1,0 +1,27 @@
+{
+    "owner": "robinraju",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/robinraju/release-downloader",
+    "description": "Github action to download release assets from private or public repositories",
+    "name": "release-downloader",
+    "full_name": "robinraju/release-downloader",
+    "id": 281479639,
+    "topics": [
+        "ci-cd",
+        "downloader",
+        "github-actions",
+        "release",
+        "release-automation"
+    ],
+    "lists": [
+        "usefulGitHubActionsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
