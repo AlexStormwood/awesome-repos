@@ -1,0 +1,26 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "https://www.skills.sh/alexstormwood/agentic-skills",
+    "url": "https://github.com/AlexStormwood/agentic-skills",
+    "description": "Installable skills for your AI agents.",
+    "name": "agentic-skills",
+    "full_name": "AlexStormwood/agentic-skills",
+    "id": 1261748127,
+    "topics": [
+        "agent-skills",
+        "agentic-ai",
+        "ai",
+        "ai-agents"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
