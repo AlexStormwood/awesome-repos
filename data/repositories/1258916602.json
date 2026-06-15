@@ -1,0 +1,21 @@
+{
+    "owner": "AlexStormwood",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/AlexStormwood/prg1006-w02-dynamic-memory",
+    "description": "Repo for C++ dynamic memory allocation lesson.",
+    "name": "prg1006-w02-dynamic-memory",
+    "full_name": "AlexStormwood/prg1006-w02-dynamic-memory",
+    "id": 1258916602,
+    "topics": [],
+    "lists": [
+        "ait2026T2Prg1006Programming2Subject"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
