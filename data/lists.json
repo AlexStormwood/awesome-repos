@@ -5,6 +5,11 @@
 		"description": "AIT PGM1001 Web Development subject for Term 1, 2026."
 	},
 	{
+		"id": "ait2026T2Prg1006Programming2Subject",
+		"name": "AIT - 2026-T2 PRG1006 Programming II Subject",
+		"description": "AIT PRG1006 Programming II subject for Term 2, 2026."
+	},
+	{
 		"id": "ca2021FebStandardCohort",
 		"name": "CA - 2021-FEB Standard Cohort",
 		"description": "Coder Academy standard bootcamp cohort of February 2021."
