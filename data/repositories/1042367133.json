@@ -1,0 +1,29 @@
+{
+    "owner": "github",
+    "owner_type": "Organization",
+    "homepage": "https://github.github.com/spec-kit/",
+    "url": "https://github.com/github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "name": "spec-kit",
+    "full_name": "github/spec-kit",
+    "id": 1042367133,
+    "topics": [
+        "ai",
+        "copilot",
+        "development",
+        "engineering",
+        "prd",
+        "spec",
+        "spec-driven"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
