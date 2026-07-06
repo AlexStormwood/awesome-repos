@@ -1,0 +1,22 @@
+{
+    "owner": "jfoboston",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/jfoboston/email-to-print",
+    "description": "Email a PDF to your printer. Self-hosted, no vendor cloud.",
+    "name": "email-to-print",
+    "full_name": "jfoboston/email-to-print",
+    "id": 1290382170,
+    "topics": [],
+    "lists": [
+        "interestingProjects",
+        "openSourceSoftwareProjects"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
