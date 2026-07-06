@@ -19,14 +19,50 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: dropdown
     id: list_ids
     attributes:
-      label: List IDs
-      description: Add one list ID per line. These IDs must exist in data/lists.json and will be applied to every submitted repository in this issue.
-      placeholder: |
-        usefulReactJsStuff
-        usefulTypeScriptStuff
+      label: Lists
+      description: Select one or more lists to apply to every submitted repository in this issue.
+      multiple: true
+      options:
+        - "AIT - 2026-T1 PGM1001 Web Development Subject [ait2026T1Pgm1001WebDevelopmentSubject]"
+        - "AIT - 2026-T2 PRG1006 Programming II Subject [ait2026T2Prg1006Programming2Subject]"
+        - "CA - 2021-FEB Standard Cohort [ca2021FebStandardCohort]"
+        - "CA - 2022-FEB Standard Cohort [ca2022FebStandardCohort]"
+        - "CA - 2022-OCT Standard Cohort [ca2022OctStandardCohort]"
+        - "CA - 2023-FEB Standard Cohort [ca2023FebStandardCohort]"
+        - "CA - 2023-MAY Standard Cohort [ca2023MayStandardCohort]"
+        - "CA - 2023-OCT Standard Cohort [ca2023OctStandardCohort]"
+        - "CA - 2024-FEB Standard Cohort [ca2024FebStandardCohort]"
+        - "CA - 2024-JUL DWD Cohort [ca2024JulDwdCohort]"
+        - "CA - 2024-MAR ACC Cohort [ca2024MarAcceleratedCohort]"
+        - "CA - 2024-OCT DWD Cohort [ca2024OctDwdCohort]"
+        - "CA - 2025-JAN-PT DWD Cohort [ca2025JanPtDwdCohort]"
+        - "CA - 2025-MAR DWD Cohort [ca2025MarDwdCohort]"
+        - "CA - Marketing Webinar Demos [caMarketingWebinarDemos]"
+        - "Funny Programming Things [funnyProgrammingThings]"
+        - "Generative AI Stuff [generativeAiStuff]"
+        - "Groups [groups]"
+        - "Interesting Projects [interestingProjects]"
+        - "Open Source Gamedev Stuff [openSourceGamedevStuff]"
+        - "Open-Source Games [openSourceGames]"
+        - "Open-Source Software Projects [openSourceSoftwareProjects]"
+        - "Personal - Custom GitHub Actions [personalCustomGitHubActions]"
+        - "Personal - Educational Repos [personalEducationalRepos]"
+        - "Personal - Handy Repos [personalHandyRepos]"
+        - "Useful C# Stuff [usefulCSharpStuff]"
+        - "Useful Frontend Stuff [usefulFrontendStuff]"
+        - "Useful GitHub Actions Stuff [usefulGitHubActionsStuff]"
+        - "Useful Godot Stuff [usefulGodotStuff]"
+        - "Useful Krita Things [usefulKritaThings]"
+        - "Useful NodeJS Stuff [usefulNodeJsStuff]"
+        - "Useful Programming Concept Stuff [usefulProgrammingConceptStuff]"
+        - "Useful ReactJS Stuff [usefulReactJsStuff]"
+        - "Useful Rust Stuff [usefulRustStuff]"
+        - "Useful Streaming Stuff [usefulStreamingStuff]"
+        - "Useful TypeScript Stuff [usefulTypeScriptStuff]"
+        - "Useful Unity Stuff [usefulUnityStuff]"
     validations:
       required: true
 

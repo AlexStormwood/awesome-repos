@@ -1,0 +1,41 @@
+name: Update issue template lists
+
+on:
+  push:
+    paths:
+      - data/lists.json
+
+permissions:
+  contents: write
+
+jobs:
+  update-template:
+    if: startsWith(github.ref, 'refs/heads/')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 26
+
+      - name: Generate issue template list options
+        run: node scripts/generate-add-repositories-issue-template.mjs
+
+      - name: Commit updated issue template
+        run: |
+          if [ -z "$(git status --porcelain -- .github/ISSUE_TEMPLATE/add-repositories.yml)" ]; then
+            echo "Issue template is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/ISSUE_TEMPLATE/add-repositories.yml
+          git commit -m "Update add repositories issue template lists"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

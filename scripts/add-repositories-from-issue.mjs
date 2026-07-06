@@ -1,5 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { pathToFileURL } from "node:url";
 
 const repositoryDirectory = "data/repositories";
 const issueBody = process.env.ISSUE_BODY ?? "";
@@ -38,7 +39,15 @@ function normalizeLine(value) {
 		.trim();
 }
 
-function parseListIds(value) {
+export function parseListIds(value) {
+	const selectedIssueFormOptions = [
+		...value.matchAll(/\[([A-Za-z0-9_-]+)\](?=\s*(?:,|\r?\n|$))/g),
+	].map((match) => match[1]);
+
+	if (selectedIssueFormOptions.length > 0) {
+		return [...new Set(selectedIssueFormOptions)].sort((a, b) => a.localeCompare(b));
+	}
+
 	return [
 		...new Set(
 			value
@@ -85,6 +94,10 @@ function parseRepositoryReferences(value) {
 function getKnownListIds() {
 	const lists = JSON.parse(readFileSync("data/lists.json", "utf8"));
 	return new Set(lists.map((list) => list.id));
+}
+
+function getListIdsSection(body) {
+	return getIssueSection(body, "Lists") || getIssueSection(body, "List IDs");
 }
 
 async function fetchGitHubJson(path) {
@@ -143,9 +156,9 @@ function makeMarkdownList(values) {
 	return values.map((value) => `- ${value}`).join("\n");
 }
 
-async function main() {
+export async function main() {
 	const repositoryUrlsSection = getIssueSection(issueBody, "Repository URLs");
-	const listIdsSection = getIssueSection(issueBody, "List IDs");
+	const listIdsSection = getListIdsSection(issueBody);
 	const repositories = parseRepositoryReferences(repositoryUrlsSection);
 	const listIds = parseListIds(listIdsSection);
 
@@ -154,7 +167,7 @@ async function main() {
 	}
 
 	if (listIds.length === 0) {
-		throw new Error("No list IDs were found in the List IDs section.");
+		throw new Error("No list IDs were found in the Lists section.");
 	}
 
 	const knownListIds = getKnownListIds();
@@ -211,17 +224,19 @@ ${makeMarkdownList(listIds)}
 	);
 }
 
-try {
-	await main();
-} catch (error) {
-	const message = error instanceof Error ? error.message : String(error);
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+	try {
+		await main();
+	} catch (error) {
+		const message = error instanceof Error ? error.message : String(error);
 
-	writeComment(`
+		writeComment(`
 Repository submission failed for issue #${issueNumber}.
 
 ${message}
 `);
 
-	console.error(message);
-	process.exit(1);
+		console.error(message);
+		process.exit(1);
+	}
 }
