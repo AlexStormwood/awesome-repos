@@ -1,0 +1,27 @@
+{
+    "owner": "utterance",
+    "owner_type": "Organization",
+    "homepage": "https://utteranc.es",
+    "url": "https://github.com/utterance/utterances",
+    "description": ":crystal_ball: A lightweight comments widget built on GitHub issues",
+    "name": "utterances",
+    "full_name": "utterance/utterances",
+    "id": 89116094,
+    "topics": [
+        "blog",
+        "comments",
+        "comments-widget",
+        "github",
+        "utterances"
+    ],
+    "lists": [
+        "usefulFrontendStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
