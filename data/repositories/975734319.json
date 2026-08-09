@@ -1,0 +1,21 @@
+{
+    "owner": "anomalyco",
+    "owner_type": "Organization",
+    "homepage": "https://opencode.ai",
+    "url": "https://github.com/anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "name": "opencode",
+    "full_name": "anomalyco/opencode",
+    "id": 975734319,
+    "topics": [],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
