@@ -1,0 +1,26 @@
+{
+    "owner": "remorses",
+    "owner_type": "User",
+    "homepage": "https://kimaki.dev",
+    "url": "https://github.com/remorses/kimaki",
+    "description": "all opencode features deeply integrated inside Discord. each project is a channel. each session a thread",
+    "name": "kimaki",
+    "full_name": "remorses/kimaki",
+    "id": 1048945054,
+    "topics": [
+        "clawdbot",
+        "discord",
+        "openclaw-alternative",
+        "opencode"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
