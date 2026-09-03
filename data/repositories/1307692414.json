@@ -1,0 +1,22 @@
+{
+    "owner": "guasam",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/guasam/electron-conveyor",
+    "description": "Type-safe IPC and cross-window state for Electron",
+    "name": "electron-conveyor",
+    "full_name": "guasam/electron-conveyor",
+    "id": 1307692414,
+    "topics": [],
+    "lists": [
+        "usefulNodeJsStuff",
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
