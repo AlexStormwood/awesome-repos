@@ -1,0 +1,27 @@
+{
+    "owner": "googleforgames",
+    "owner_type": "Organization",
+    "homepage": "",
+    "url": "https://github.com/googleforgames/clean-chat",
+    "description": "Disruptive Behavior Mitigation Framework for Games",
+    "name": "clean-chat",
+    "full_name": "googleforgames/clean-chat",
+    "id": 277943631,
+    "topics": [
+        "game-development",
+        "machine-learning",
+        "machine-learning-games",
+        "multiplayer",
+        "python"
+    ],
+    "lists": [
+        "openSourceGamedevStuff"
+    ],
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    }
+}
