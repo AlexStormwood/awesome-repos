@@ -1,0 +1,42 @@
+{
+    "owner": "asgeirtj",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "name": "system_prompts_leaks",
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "id": 976921297,
+    "topics": [
+        "ai",
+        "ai-agents",
+        "ai-prompts",
+        "anthropic",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gemini",
+        "generative-ai",
+        "google",
+        "grok",
+        "llm",
+        "openai",
+        "prompt",
+        "prompt-engineering",
+        "system-prompt",
+        "system-prompts"
+    ],
+    "lists": [
+        "generativeAiStuff"
+    ],
+    "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+    }
+}
