@@ -1,0 +1,24 @@
+{
+    "owner": "resend",
+    "owner_type": "Organization",
+    "homepage": "https://react.email",
+    "url": "https://github.com/resend/react-email",
+    "description": "💌 Build and send emails using React",
+    "name": "react-email",
+    "full_name": "resend/react-email",
+    "id": 538663825,
+    "topics": [
+        "email",
+        "hacktoberfest"
+    ],
+    "lists": [
+        "usefulReactJsStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
