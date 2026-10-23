@@ -83,6 +83,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: "Alex Stormwood's Lists of Awesome Repositories",
+			components: {
+				PageTitle: './src/components/PageTitle.astro',
+			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/AlexStormwood/awesome-repos' }],
 			sidebar: [
 				{

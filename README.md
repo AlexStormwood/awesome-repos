@@ -28,6 +28,14 @@ On the website, this section is basically entirely automatic. If a repository ha
 
 Topics act like lists - you can view repositories assigned to this piece of data on a nice webpage.
 
+## Recently added
+
+The homepage shows the latest 10 repositories added to the collection. Astro reads Git history during every `npm run build`, so merging a repository submission and deploying automatically refreshes the section. No date fields or manual homepage edits are needed.
+
+The order comes from commits that added files under `data/repositories`, following the current branch's first-parent history (including merged submissions). Editing an existing repository doesn't move it to the top, and deleted repositories are excluded. Repositories added in the same commit share a position in history and use Git's filename order.
+
+Builds need a Git checkout with history available. Shallow checkouts automatically run `git fetch --unshallow`, so the build environment must allow access to its Git remote. Local builds with full history need no fetch.
+
 ## Search
 
 The website allows you to search! This search goes through basically all bits of data you would see on a list, topic, or repository. It's really powerful! If you already know what you're looking for, use a search!

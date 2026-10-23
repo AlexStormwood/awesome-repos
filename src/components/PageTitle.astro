@@ -1,0 +1,20 @@
+---
+import DefaultPageTitle from '@astrojs/starlight/components/PageTitle.astro';
+
+const isHomepage = Astro.url.pathname === import.meta.env.BASE_URL;
+---
+
+{isHomepage && (
+	<p class="homepage-intro">
+		I love to organise my data, but GitHub only supports 32 lists per user. This collection gives me more room to organise my starred repositories and share useful resources.
+	</p>
+)}
+<DefaultPageTitle />
+
+<style>
+	.homepage-intro {
+		color: var(--sl-color-gray-2);
+		font-size: var(--sl-text-body);
+		line-height: var(--sl-line-height);
+	}
+</style>
