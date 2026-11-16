@@ -1,0 +1,27 @@
+{
+    "owner": "Fantastic-Computing-Machine",
+    "owner_type": "Organization",
+    "homepage": "https://fantastic-computing-machine.github.io/atlantis/",
+    "url": "https://github.com/Fantastic-Computing-Machine/atlantis",
+    "description": "Create beautiful charts and diagrams privately, without relying on external cloud services.",
+    "name": "atlantis",
+    "full_name": "Fantastic-Computing-Machine/atlantis",
+    "id": 1134777174,
+    "topics": [
+        "diagram",
+        "mermaid",
+        "visualization",
+        "workflow"
+    ],
+    "lists": [
+        "openSourceSoftwareProjects",
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
