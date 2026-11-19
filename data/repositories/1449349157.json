@@ -1,0 +1,21 @@
+{
+    "owner": "Goblinmine",
+    "owner_type": "User",
+    "homepage": "",
+    "url": "https://github.com/Goblinmine/homelab-diagram",
+    "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+    "name": "homelab-diagram",
+    "full_name": "Goblinmine/homelab-diagram",
+    "id": 1449349157,
+    "topics": [],
+    "lists": [
+        "usefulProgrammingConceptStuff"
+    ],
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    }
+}
